@@ -1,13 +1,13 @@
 # Project information
-site_name: QuattroPod Dokumentation
-site_url: 'https://doc.quattropod.de'
+site_name: QuattroPod Documentation
+site_url: 'https://doc.quattropod.eu'
 site_author: 'STÜBER SYSTEMS GmbH'
 site_description: >-
-    Unsere Dokumentation für alle QuattroPod Produkte. 
+    Our documentation for all QuattroPod products.  
 
 # Repository
-repo_name: 'Auf GitHub'
-repo_url: 'https://github.com/stuebersystems/doc.quattropod.de'
+repo_name: 'On GitHub'
+repo_url: 'https://github.com/stuebersystems/doc.quattropod.en'
 
 # Copyright
 copyright: '&copy; 2021 STÜBER SYSTEMS GmbH'
@@ -33,10 +33,10 @@ theme:
 # Legal links
 extra:
     legal:
-        - label: Impressum
-          link: https://www.stueber.de/imprint.php
-        - label: Datenschutz
-          link: https://legal.stueber.de/privacy.php
+        - label: Imprint
+          link: https://www.stueber.co.uk/imprint.php
+        - label: Privacy
+          link: https://legal.stueber.co.uk/privacy.php
 
 # Customization
 extra_css:
