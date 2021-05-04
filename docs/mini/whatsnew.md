@@ -41,7 +41,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des Quattr
 **Fixes:**
 
 * Verbesserte Stabilität der Touch-Back-Funktion
-* HTTPS-Unterstützung für sicheren Internetzugang
+* HTTPS-Unterstützung für sicheren Internet Access
 * Verbessertes Layout des geteilten Bildschirms
 * Bei der Erstinstallation wurde zur Optimierung der WLAN-Adapter-Einstellungen folgende Auswahl hinzugefügt:
 

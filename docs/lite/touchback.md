@@ -8,7 +8,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
     [![QuattroPod Touch-Back-Funktion][1]{: align=left }][2]
 	
-	Anleitung: Touch-Back-Funktion mit QuattroPod.
+	User Guide: Touch-Back-Funktion mit QuattroPod.
 	
 	[Zum YouTube-Video][2]
 

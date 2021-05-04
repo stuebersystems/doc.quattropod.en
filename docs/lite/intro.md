@@ -2,7 +2,7 @@
 
 ![QuattroPod Lite][1]{: align=left } Erkunden Sie die Möglichkeiten des [QuattroPod Lite][2]. 
 
-Die Einrichtung Ihres Geräts wird in der [Schnellstartanleitung](quickstart.md) beschrieben. 
+Die Einrichtung Ihres Geräts wird in der [Quick Start Guide](quickstart.md) beschrieben. 
 
 Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der QuattroPod Serie empfiehlt sich der Blick in unser [QuattroPod Produktvergleich (PDF)][3].
 

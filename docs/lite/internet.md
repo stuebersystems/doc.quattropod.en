@@ -1,6 +1,6 @@
-# Internetzugang
+# Internet Access
 
-## Wozu braucht der QuattroPod einen Internetzugang?
+## Wozu braucht der QuattroPod einen Internet Access?
 
 Für den QuattroPod wird eine Internet-Verbindung in folgenden Fällen benötigt:
 

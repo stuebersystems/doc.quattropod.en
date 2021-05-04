@@ -1,6 +1,6 @@
-# Internetzugang
+# Internet Access
 
-## Wozu braucht der QuattroPod einen Internetzugang?
+## Wozu braucht der QuattroPod einen Internet Access?
 
 Für den QuattroPod wird eine Internet-Verbindung in folgenden Fällen benötigt:
 
@@ -20,7 +20,7 @@ Schließen Sie dazu ein Netzwerkkabel in den `ETHERNET` Anschluss an der Rückse
 
 !!! tip "Bitte beachten"
     
-	Wenn ein LAN-Kabel an der Box angeschlossen ist, wird der Internetzugang per WLAN automatisch deaktiviert.
+	Wenn ein LAN-Kabel an der Box angeschlossen ist, wird der Internet Access per WLAN automatisch deaktiviert.
 
 Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 

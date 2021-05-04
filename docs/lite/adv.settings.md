@@ -167,7 +167,7 @@ Sie können den Empfänger aufwecken bzw. die HDMI-Ausgabe wiederherstellen, ind
 
 ### Upgrade (Firmware) {#Aktualisierung}
 
-Sie können die Firmware der Empfänger und Sender aktualisieren, um die neuesten Erweiterungen und Funktionen nutzen zu können. Eine umfassende Anleitung zur Aktualisierung finden Sie [hier](firmware-upgrade.md).
+Sie können die Firmware der Empfänger und Sender aktualisieren, um die neuesten Erweiterungen und Funktionen nutzen zu können. Eine umfassende User Guide zur Aktualisierung finden Sie [hier](firmware-upgrade.md).
 
 ### Neustarten {#Neustarten}
 

@@ -8,7 +8,7 @@ Mit dem Google Chrome-Browser können Sie die Funktion [Streamen](#linuxchromeca
 
 ![Übertragungsquelle](/assets/img/Linux.Chrome_select_stream2.png)
 
-In dieser Anleitung wird erklärt, wie man unter Ubuntu 20.04 Google Chrome installiert. Der Chrome Browser kann jedoch auf vielen Distributions wie [Debian](https://www.debian.org/distrib/), [Kali](https://www.kali.org/) und [Linux Mint](https://linuxmint.com/) installiert werden.
+In dieser User Guide wird erklärt, wie man unter Ubuntu 20.04 Google Chrome installiert. Der Chrome Browser kann jedoch auf vielen Distributions wie [Debian](https://www.debian.org/distrib/), [Kali](https://www.kali.org/) und [Linux Mint](https://linuxmint.com/) installiert werden.
 
 ### Google Cast auf QuattroPod freischalten
 

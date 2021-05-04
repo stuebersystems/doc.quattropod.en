@@ -96,4 +96,4 @@ Wenn das Koppeln abgeschlossen ist, erscheint die Meldung **"Pairing OK"**.
 
 !!! tip "Hinweis"
     
-	Eine umfassende Anleitung wie Sie den Sender an Ihr spezifisches Endgerät anschließen finden Sie in der [Schnellstartanleitung](quickstart.md#Sender).
+	Eine umfassende User Guide wie Sie den Sender an Ihr spezifisches Endgerät anschließen finden Sie in der [Quick Start Guide](quickstart.md#Sender).

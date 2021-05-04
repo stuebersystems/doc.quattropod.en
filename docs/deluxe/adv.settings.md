@@ -192,13 +192,13 @@ Ein digitales Zertifikat hochladen.
 
 ### Festgelegter Host
 
-Legen Sie einen bestimmten Benutzer bzw. einen Sender fest, dass sich immer als Host der Präsentation bezeichnet wird. Eine umfassende Anleitung zu diesem Thema finden Sie [hier](fixedhost.md).
+Legen Sie einen bestimmten Benutzer bzw. einen Sender fest, dass sich immer als Host der Präsentation bezeichnet wird. Eine umfassende User Guide zu diesem Thema finden Sie [hier](fixedhost.md).
 
 ![](/assets/img/QuattroPod_Fixedhost.Select.jpg)
 
 ## Google Cast (ChromeCast)
 
-Die Übertragung von ChromeCast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Chromecast finden Sie [hier](chromecast.md).
+Die Übertragung von ChromeCast-Geräten unterstützen. Eine umfassende User Guide zur Verwendung von Chromecast finden Sie [hier](chromecast.md).
 
 ![](/assets/img/Chromecast-support.png)
 
@@ -216,7 +216,7 @@ Der Castcode wird hier angezeigt:
 
 ### Upgrade
 
-Sie können die Firmware der Empfänger und Sender aktualisieren, um die neuesten Erweiterungen und Funktionen nutzen zu können. Eine umfassende Anleitung zur Aktualisierung finden Sie [hier](firmware-upgrade.md).
+Sie können die Firmware der Empfänger und Sender aktualisieren, um die neuesten Erweiterungen und Funktionen nutzen zu können. Eine umfassende User Guide zur Aktualisierung finden Sie [hier](firmware-upgrade.md).
 
 ### Kopplungsdatei herunterladen {#Kopplungsdatei_herunterladen}
 
@@ -226,7 +226,7 @@ Laden Sie die Kopplungsdatei herunter, um einen Sender mit dem Empfänger per US
 
 ### Multicast {#Multicast}
 
-Nutzen Sie diese Funktion, um den Empfänger im Multicast-Modus zu starten. Eine umfassende Anleitung zu diesem Thema finden Sie [hier](multicast.md).
+Nutzen Sie diese Funktion, um den Empfänger im Multicast-Modus zu starten. Eine umfassende User Guide zu diesem Thema finden Sie [hier](multicast.md).
 
 ![Neustarten](/assets/img/Cast-Gruppe.png)
 

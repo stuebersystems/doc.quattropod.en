@@ -1,11 +1,11 @@
-# Schnellstartanleitung
+# Quick Start Guide
 
-!!! info "Schnellstartanleitung als PDF"
+!!! info "Quick Start Guide als PDF"
 	
-    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A4-Format][1] und [A6-Format][2] zur Verfügung.
+    Die Quick Start Guide steht Ihnen auch als PDF-Dokument im [A4-Format][1] und [A6-Format][2] zur Verfügung.
 
-  [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A4_QPLite.pdf
-  [2]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPLite.pdf
+  [1]: https://download.stueber.de/doc/de/quattropod/Quick Start Guideen/A4_QPLite.pdf
+  [2]: https://download.stueber.de/doc/de/quattropod/Quick Start Guideen/A6_QPLite.pdf
 
 ## Inhalt des QuattroPod Lite
 
@@ -14,7 +14,7 @@
 | ![](/assets/img/QSG.LR01.png)<br>1 Lite Empfänger | ![](/assets/img/QSG.LT01.png)<br>1 Lite Sender |
 | ![](/assets/img/QSG.HDMI.1m.png)<br>1 HDMI-Kabel (1 m) | ![](/assets/img/QSG.HDMI.15cm.png)<br>1 HDMI-Kabel (0,15 m) |
 | ![](/assets/img/QSG.USB_Charger.png)<br>1 Universal Stromadapter (5V/2A) | ![](/assets/img/QSG.Charger.cable.png)<br>USB-Ladekabel |
-| ![](/assets/img/QSG-Manual.png)<br>Schnellstartanleitung | 
+| ![](/assets/img/QSG-Manual.png)<br>Quick Start Guide | 
 
 ## Empfänger anschließen {#setup}
 
@@ -56,7 +56,7 @@ Mit QuattroPod stehen Ihnen zwei Möglichkeiten ohne den Sender zur Verfügung:
 
 ### a) Streamingprotokollen
  
-Unterstützt werden alle gängigen Streamingprotokollen. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
+Unterstützt werden alle gängigen Streamingprotokollen. Umfassende User Guideen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
 
 * [AirPlay](airplay.md) unter iOS und macOS.
 
