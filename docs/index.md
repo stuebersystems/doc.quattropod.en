@@ -49,8 +49,8 @@ Choosing Your Solution:
 
 !!! tip "QuattroPod Comparison Table"
 
-    [![QuattroPod][1]{: align=left }][2] Not sure yet what device is the right one for you? 
-	Our **Product Comparison** of the **QuattroPod Series** will help you decide.
+    [![QuattroPod][1]{: align=left }][2] Not sure what device is the right one for you? 
+	Our **comparison table** of the **QuattroPod Series** will help you decide.
 	
 	[View Product Comparison (PDF)][2]
 
