@@ -3,7 +3,7 @@
 
 # QuattroPod Documentation
 
-This is the English documentation for [Quattropod](https://doc.quattropod.eu). The documentation is Open Source and we have implemented it using [MkDocs](https://www.mkdocs.org) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material). 
+This is the English documentation for [QuattroPod](https://doc.quattropod.eu). The documentation is Open Source and we have implemented it using [MkDocs](https://www.mkdocs.org) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material). 
 
 ## Install MkDocs for Windows
 
