@@ -1,4 +1,7 @@
-# Quattropod Documentation
+[![Build Status](https://dev.azure.com/stuebersystems/Websites/_apis/build/status/docs/doc.quattropod.en?branchName=main)](https://dev.azure.com/stuebersystems/Websites/_build/latest?definitionId=117&branchName=main)
+![Deployment status](https://vsrm.dev.azure.com/stuebersystems/_apis/public/Release/badge/2cc87afa-9a3b-472b-8a3c-3eca48b22dd6/26/29)
+
+# QuattroPod Documentation
 
 This is the English documentation for [Quattropod](https://doc.quattropod.eu). The documentation is Open Source and we have implemented it using [MkDocs](https://www.mkdocs.org) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material). 
 
