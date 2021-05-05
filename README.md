@@ -1,5 +1,5 @@
 [![Build Status](https://dev.azure.com/stuebersystems/Websites/_apis/build/status/docs/doc.quattropod.en?branchName=main)](https://dev.azure.com/stuebersystems/Websites/_build/latest?definitionId=117&branchName=main)
-![Deployment status](https://vsrm.dev.azure.com/stuebersystems/_apis/public/Release/badge/2cc87afa-9a3b-472b-8a3c-3eca48b22dd6/26/29)
+![Deployment status](https://vsrm.dev.azure.com/stuebersystems/_apis/public/Release/badge/2cc87afa-9a3b-472b-8a3c-3eca48b22dd6/34/38)
 
 # QuattroPod Documentation
 
