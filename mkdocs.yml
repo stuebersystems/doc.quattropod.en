@@ -97,10 +97,10 @@ nav:
         - "User Guide: Chromecast": usb/chromecast.md
     - Internet Access: usb/internet.md
     - Advanced Features:
-        - Erweiterte Einstellungen: usb/adv.settings.md
-        - Konferenzsteuerung: usb/conference-control.md
-        - Monitor-Modus: usb/monitor-setup.md 
-        - Remote-Verwaltung: usb/remote-management.md
+        - Advanced Settings: usb/adv.settings.md
+        - Conference Control: usb/conference-control.md
+        - Display Modes: usb/monitor-setup.md 
+        - Remote Management: usb/remote-management.md
         - Sender koppeln: usb/pairing.md
         - Touch-Back-Funktion: usb/touchback.md
         - Captive Portal: usb/captiveportal.md
@@ -125,11 +125,11 @@ nav:
     - Internet Access: lite/internet.md
     - Advanced Features:
         - Captive Portal: lite/captiveportal.md
-        - Dynamisches Hintergrundbild: lite/dynamicwallpaper.md
-        - Erweiterte Einstellungen: lite/adv.settings.md
-        - Konferenzsteuerung: lite/conference-control.md
-        - Monitor-Modus: lite/monitor-setup.md 
-        - Remote-Verwaltung: lite/remote-management.md
+        - Dynamic Wallpaper: lite/dynamicwallpaper.md
+        - Advanced Settings: lite/adv.settings.md
+        - Conference Control: lite/conference-control.md
+        - Display Modes: lite/monitor-setup.md 
+        - Remote Management: lite/remote-management.md
         - Sender koppeln: lite/pairing.md
         - Touch-Back-Funktion: lite/touchback.md
     - Firmware aktualisieren: lite/firmware-upgrade.md
@@ -153,13 +153,13 @@ nav:
     - Internet Access: mini/internet.md
     - Advanced Features: 
         - Captive Portal: mini/captiveportal.md
-        - Dynamisches Hintergrundbild: mini/dynamicwallpaper.md
-        - Erweiterte Einstellungen: mini/adv.settings.md
-        - Festgelegter Host: mini/fixedhost.md
-        - Konferenzsteuerung: mini/conference-control.md
-        - Monitor-Modus: mini/monitor-setup.md 
+        - Dynamic Wallpaper: mini/dynamicwallpaper.md
+        - Advanced Settings: mini/adv.settings.md
+        - Fixed Host: mini/fixedhost.md
+        - Conference Control: mini/conference-control.md
+        - Display Modes: mini/monitor-setup.md 
         - Multicast: mini/multicast.md
-        - Remote-Verwaltung: mini/remote-management.md
+        - Remote Management: mini/remote-management.md
         - Sender bedienen: mini/TX-controls.md
         - Sender koppeln: mini/pairing.md
         - Touch-Back-Funktion: mini/touchback.md
@@ -184,13 +184,13 @@ nav:
     - Internet Access: standard/internet.md
     - Advanced Features:
         - Captive Portal: standard/captiveportal.md
-        - Dynamisches Hintergrundbild: standard/dynamicwallpaper.md
-        - Erweiterte Einstellungen: standard/adv.settings.md
-        - Festgelegter Host: standard/fixedhost.md
-        - Konferenzsteuerung: standard/conference-control.md
-        - Monitor-Modus: standard/monitor-setup.md
+        - Dynamic Wallpaper: standard/dynamicwallpaper.md
+        - Advanced Settings: standard/adv.settings.md
+        - Fixed Host: standard/fixedhost.md
+        - Conference Control: standard/conference-control.md
+        - Display Modes: standard/monitor-setup.md
         - Multicast: standard/multicast.md
-        - Remote-Verwaltung: standard/remote-management.md
+        - Remote Management: standard/remote-management.md
         - Sender bedienen: standard/TX-controls.md
         - Sender koppeln: standard/pairing.md
         - Touch-Back-Funktion: standard/touchback.md
@@ -215,13 +215,13 @@ nav:
     - Internet Access: deluxe/internet.md
     - Advanced Features:
         - Captive Portal: deluxe/captiveportal.md    
-        - Dynamisches Hintergrundbild: deluxe/dynamicwallpaper.md
-        - Erweiterte Einstellungen: deluxe/adv.settings.md
-        - Festgelegter Host: deluxe/fixedhost.md
-        - Konferenzsteuerung: deluxe/conference-control.md
-        - Monitor-Modus: deluxe/monitor-setup.md
+        - Dynamic Wallpaper: deluxe/dynamicwallpaper.md
+        - Advanced Settings: deluxe/adv.settings.md
+        - Fixed Host: deluxe/fixedhost.md
+        - Conference Control: deluxe/conference-control.md
+        - Display Modes: deluxe/monitor-setup.md
         - Multicast: deluxe/multicast.md
-        - Remote-Verwaltung: deluxe/remote-management.md
+        - Remote Management: deluxe/remote-management.md
         - Sender bedienen: deluxe/TX-controls.md
         - Sender koppeln: deluxe/pairing.md
         - Touch-Back-Funktion: deluxe/touchback.md
