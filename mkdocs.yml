@@ -97,17 +97,21 @@ nav:
         - "User Guide: Chromecast": usb/chromecast.md
     - Internet Access: usb/internet.md
     - Advanced Features:
-        - Advanced Settings: usb/adv.settings.md
-        - Conference Control: usb/conference-control.md
-        - Display Modes: usb/monitor-setup.md 
-        - Remote Management: usb/remote-management.md
-        - Sender koppeln: usb/pairing.md
-        - Touch-Back-Funktion: usb/touchback.md
-        - Captive Portal: usb/captiveportal.md
-    - Firmware aktualisieren: usb/firmware-upgrade.md
-    - Problembehandlung:
-        - Einstellungen zurücksetzen: usb/reset.md
-        - Firmware neu installieren: usb/firmware-reinstall.md
+        - Advanced Settings: standard/adv.settings.md
+        - Captive Portal: standard/captiveportal.md
+        - Conference Control: standard/conference-control.md
+        - Display Modes: standard/monitor-setup.md
+        - Dynamic Wallpaper: standard/dynamicwallpaper.md
+        - Fixed Host: standard/fixedhost.md
+        - Multicast: standard/multicast.md
+        - Remote Management: standard/remote-management.md
+        - Transmitter Operation: standard/TX-controls.md
+        - Transmitter Pairing: standard/pairing.md
+        - Touch Back Function: standard/touchback.md
+    - Update Firmware: usb/firmware-upgrade.md
+    - Troubleshooting:
+        - Reset Settings: usb/reset.md
+        - Reinstall Firmware: usb/firmware-reinstall.md
     - CMS: usb/cms.md    
 - Lite:
     - Introduction: lite/intro.md
@@ -130,12 +134,12 @@ nav:
         - Conference Control: lite/conference-control.md
         - Display Modes: lite/monitor-setup.md 
         - Remote Management: lite/remote-management.md
-        - Sender koppeln: lite/pairing.md
-        - Touch-Back-Funktion: lite/touchback.md
-    - Firmware aktualisieren: lite/firmware-upgrade.md
-    - Problembehandlung:
-        - Einstellungen zurücksetzen: lite/reset.md
-        - Firmware neu installieren: lite/firmware-reinstall.md
+        - Transmitter Pairing: lite/pairing.md
+        - Touch Back Function: lite/touchback.md
+    - Update Firmware: lite/firmware-upgrade.md
+    - Troubleshooting:
+        - Reset Settings: lite/reset.md
+        - Reinstall Firmware: lite/firmware-reinstall.md
     - CMS: lite/cms.md
 - Mini: 
     - Introduction: mini/intro.md
@@ -160,13 +164,13 @@ nav:
         - Display Modes: mini/monitor-setup.md 
         - Multicast: mini/multicast.md
         - Remote Management: mini/remote-management.md
-        - Sender bedienen: mini/TX-controls.md
-        - Sender koppeln: mini/pairing.md
-        - Touch-Back-Funktion: mini/touchback.md
-    - Firmware aktualisieren: mini/firmware-upgrade.md
-    - Problembehandlung: 
-        - Einstellungen zurücksetzen: mini/reset.md
-        - Firmware neu installieren: mini/firmware-reinstall.md
+        - Transmitter Operation: mini/TX-controls.md
+        - Transmitter Pairing: mini/pairing.md
+        - Touch Back Function: mini/touchback.md
+    - Update Firmware: mini/firmware-upgrade.md
+    - Troubleshooting: 
+        - Reset Settings: mini/reset.md
+        - Reinstall Firmware: mini/firmware-reinstall.md
     - CMS: mini/cms.md
 - Standard: 
     - Introduction: standard/intro.md
@@ -191,13 +195,13 @@ nav:
         - Display Modes: standard/monitor-setup.md
         - Multicast: standard/multicast.md
         - Remote Management: standard/remote-management.md
-        - Sender bedienen: standard/TX-controls.md
-        - Sender koppeln: standard/pairing.md
-        - Touch-Back-Funktion: standard/touchback.md
-    - Firmware aktualisieren: standard/firmware-upgrade.md
-    - Problembehandlung: 
-        - Einstellungen zurücksetzen: standard/reset.md
-        - Firmware neu installieren: standard/firmware-reinstall.md
+        - Transmitter Operation: standard/TX-controls.md
+        - Transmitter Pairing: standard/pairing.md
+        - Touch Back Function: standard/touchback.md
+    - Update Firmware: standard/firmware-upgrade.md
+    - Troubleshooting: 
+        - Reset Settings: standard/reset.md
+        - Reinstall Firmware: standard/firmware-reinstall.md
     - CMS: standard/cms.md
 - Deluxe:
     - Introduction: deluxe/intro.md
@@ -222,11 +226,11 @@ nav:
         - Display Modes: deluxe/monitor-setup.md
         - Multicast: deluxe/multicast.md
         - Remote Management: deluxe/remote-management.md
-        - Sender bedienen: deluxe/TX-controls.md
-        - Sender koppeln: deluxe/pairing.md
-        - Touch-Back-Funktion: deluxe/touchback.md
-    - Firmware aktualisieren: deluxe/firmware-upgrade.md
-    - Problembehandlung: 
-        - Einstellungen zurücksetzen: deluxe/reset.md
-        - Firmware neu installieren: deluxe/firmware-reinstall.md
+        - Transmitter Operation: deluxe/TX-controls.md
+        - Transmitter Pairing: deluxe/pairing.md
+        - Touch Back Function: deluxe/touchback.md
+    - Update Firmware: deluxe/firmware-upgrade.md
+    - Troubleshooting: 
+        - Reset Settings: deluxe/reset.md
+        - Reinstall Firmware: deluxe/firmware-reinstall.md
     - CMS: deluxe/cms.md
