@@ -97,17 +97,17 @@ nav:
         - "User Guide: Chromecast": usb/chromecast.md
     - Internet Access: usb/internet.md
     - Advanced Features:
-        - Advanced Settings: standard/adv.settings.md
-        - Captive Portal: standard/captiveportal.md
-        - Conference Control: standard/conference-control.md
-        - Display Modes: standard/monitor-setup.md
-        - Dynamic Wallpaper: standard/dynamicwallpaper.md
-        - Fixed Host: standard/fixedhost.md
-        - Multicast: standard/multicast.md
-        - Remote Management: standard/remote-management.md
-        - Transmitter Operation: standard/TX-controls.md
-        - Transmitter Pairing: standard/pairing.md
-        - Touch Back Function: standard/touchback.md
+        - Advanced Settings: usb/adv.settings.md
+        - Captive Portal: usb/captiveportal.md
+        - Conference Control: usb/conference-control.md
+        - Display Modes: usb/monitor-setup.md
+        - Dynamic Wallpaper: usb/dynamicwallpaper.md
+        - Fixed Host: usb/fixedhost.md
+        - Multicast: usb/multicast.md
+        - Remote Management: usb/remote-management.md
+        - Transmitter Operation: usb/TX-controls.md
+        - Transmitter Pairing: usb/pairing.md
+        - Touch Back Function: usb/touchback.md
     - Update Firmware: usb/firmware-upgrade.md
     - Troubleshooting:
         - Reset Settings: usb/reset.md
@@ -155,13 +155,13 @@ nav:
         - "User Guide: AirPlay": mini/airplay.md     
         - "User Guide: Chromecast": mini/chromecast.md
     - Internet Access: mini/internet.md
-    - Advanced Features: 
-        - Captive Portal: mini/captiveportal.md
-        - Dynamic Wallpaper: mini/dynamicwallpaper.md
+    - Advanced Features:
         - Advanced Settings: mini/adv.settings.md
-        - Fixed Host: mini/fixedhost.md
+        - Captive Portal: mini/captiveportal.md
         - Conference Control: mini/conference-control.md
-        - Display Modes: mini/monitor-setup.md 
+        - Display Modes: mini/monitor-setup.md
+        - Dynamic Wallpaper: mini/dynamicwallpaper.md
+        - Fixed Host: mini/fixedhost.md
         - Multicast: mini/multicast.md
         - Remote Management: mini/remote-management.md
         - Transmitter Operation: mini/TX-controls.md
@@ -187,12 +187,12 @@ nav:
         - "User Guide: Chromecast": standard/chromecast.md
     - Internet Access: standard/internet.md
     - Advanced Features:
-        - Captive Portal: standard/captiveportal.md
-        - Dynamic Wallpaper: standard/dynamicwallpaper.md
         - Advanced Settings: standard/adv.settings.md
-        - Fixed Host: standard/fixedhost.md
+        - Captive Portal: standard/captiveportal.md
         - Conference Control: standard/conference-control.md
         - Display Modes: standard/monitor-setup.md
+        - Dynamic Wallpaper: standard/dynamicwallpaper.md
+        - Fixed Host: standard/fixedhost.md
         - Multicast: standard/multicast.md
         - Remote Management: standard/remote-management.md
         - Transmitter Operation: standard/TX-controls.md
@@ -218,12 +218,12 @@ nav:
         - "User Guide: Chromecast": deluxe/chromecast.md
     - Internet Access: deluxe/internet.md
     - Advanced Features:
-        - Captive Portal: deluxe/captiveportal.md    
-        - Dynamic Wallpaper: deluxe/dynamicwallpaper.md
         - Advanced Settings: deluxe/adv.settings.md
-        - Fixed Host: deluxe/fixedhost.md
+        - Captive Portal: deluxe/captiveportal.md
         - Conference Control: deluxe/conference-control.md
         - Display Modes: deluxe/monitor-setup.md
+        - Dynamic Wallpaper: deluxe/dynamicwallpaper.md
+        - Fixed Host: deluxe/fixedhost.md
         - Multicast: deluxe/multicast.md
         - Remote Management: deluxe/remote-management.md
         - Transmitter Operation: deluxe/TX-controls.md
