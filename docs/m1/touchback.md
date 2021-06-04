@@ -1,6 +1,6 @@
 # Touch-Back-Funktion
 
-Die Touch-Back-Funktion des QuattroPods erlaubt Ihnen Gesten mit bis zu 10-Fingern eines Multitouch-fähigen Bildschirms drahtlos an einen Windows Computer zurückzusenden. Alle bekannten Windows Touch-Gesten werden unterstützt.
+Die Touch-Back-Funktion des QuattroPods erlaubt Ihnen Gesten mit Up to 10-Fingern eines Multitouch-fähigen Bildschirms drahtlos an einen Windows Computer zurückzusenden. Alle bekannten Windows Touch-Gesten werden unterstützt.
 
 Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back-Funktionalität zur Verfügung. Dies ermöglicht die Interaktivität und Kreativität von mehreren Teilnehmern an einem Bildschirm.
 
@@ -10,7 +10,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 	
 	Anleitung: Touch-Back-Funktion mit QuattroPod.
 	
-	[Zum YouTube-Video][2]
+	[View YouTube-Video][2]
 
   [1]: /assets/img/thumbnail.video.touch.png
   [2]: https://youtu.be/Qky7XQR1rrE

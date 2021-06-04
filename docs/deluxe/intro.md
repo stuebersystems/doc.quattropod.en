@@ -1,64 +1,64 @@
 # Der QuattroPod Deluxe  
 
-![QuattroPod Deluxe][1]{: align=left } Erkunden Sie die Möglichkeiten des [QuattroPod Deluxe][2]. 
+![QuattroPod Deluxe][1]{: align=left } Explore the possibilities of [QuattroPod Deluxe][2]. 
 
-Die Einrichtung Ihres Geräts wird in der [Quick Start Guide](quickstart.md) beschrieben. 
+See [Quick Start Guide](quickstart.md) for how to set up and get started using your device.
 
-Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der QuattroPod Serie empfiehlt sich der Blick in unser [QuattroPod Produktvergleich (PDF)][3].
+For a compact product comparison with the other model versions of the EZCast Pro series we recommend taking a look at our [EZCast Pro Product Comparison (PDF)][3].
 
   [1]: /assets/img/quattropod.deluxe.png
   [2]: https://www.quattropod.de/Deluxe.php
   [3]: https://download.stueber.de/doc/de/quattropod/quattropod.produktvergleich.de.pdf
 
-## Spezifikation
+## Specification
 
 | QuattroPod Deluxe | |
 | :---- | :---- |
-| Funkreichweite (Sichtlinie) | Bis zu 30m |
-| Stromversorgung des Empfängers | DC-in 5V 2A |
-| Stromverbrauch des Empfängers | 10 W / 10000 mW |
-| Strahlungsleistung des Empfängers | 802.11a /54Mbps : 13 dBm ± 1.5 dB @ EVM ≤ -25dB |
+| Wireless Range (Line of Sight) | Up to 30m |
+| Receiver Power Supply | DC-in 5V 2A |
+| Receiver Power Consumption | 10 W / 10000 mW |
+| Receiver Output Power | 802.11a /54Mbps : 13 dBm ± 1.5 dB @ EVM ≤ -25dB |
 |  | 802.11n /MCS7 : 12 dBm ± 1.5 dB @ EVM ≤ -28dB |
 |  | 802.11ac /MCS9 : 10 dBm ± 1.5 dB @ EVM ≤ -32dB |
-| Stromversorgung des Senders | DC-in 5V 1A |
-| Stromverbrauch des Senders | 5W / 5000 mW |
-| Strahlungsleistung des Senders | 802.11a /64-QAM(R=3/4) : 14 dBm ± 1.5 dB @ EVM £ -25dB |
+| Transmitter Output Power | DC-in 5V 1A |
+| Transmitter Power Consumption | 5W / 5000 mW |
+| Transmitter Power Output | 802.11a /64-QAM(R=3/4) : 14 dBm ± 1.5 dB @ EVM £ -25dB |
 |  | 802.11n /64-QAM(R=5/6) : 13 dBm ± 1.5 dB @ EVM £ -28dB |
 |  | 802.11ac /256-QAM(R=3/4) : 13 dBm ± 1.5 dB @ EVM £ -30dB |
 |  | 802.11ac /256-QAM(R=5/6) : 11 dBm ± 1.5 dB @ EVM £ -32dB |
-| WLAN-Standard | 802.11ac 2T2R | 
-| WLAN-Frequenzblock (5 GHz-Band) |  5150-5825 MHz |
-| WLAN-Übertragungsrate |  866 MBit/s |
+| Wi-Fi Standard | 802.11ac 2T2R | 
+| Wi-Fi Frequency Range (5 GHz band) |  5150-5825 MHz |
+| Wi-Fi Transfer Rate |  866 MBit/s |
 
-## Datenblatt
+## Data Sheet
 
-!!! info "QuattroPod Deluxe - Datenblatt"
+!!! info "QuattroPod Deluxe - Data Sheet"
 
-    [![QuattroPod Deluxe Datenblatt][4]{: align=left }][5]
+    [![QuattroPod Deluxe Data Sheet][4]{: align=left }][5]
 	
 	Ein doppelseitiges PDF zum Teilen oder Ausdrucken.
 	
-	[Zum Datenblatt (PDF)][5]
+	[View Data Sheet (PDF)][5]
 
   [4]: /assets/img/quattropod.brochure.de.png
   [5]: https://download.stueber.de/doc/de/quattropod/quattropod.brochure.de.pdf
 
-## Einführungsvideo
+## Introduction Video
 
-!!! info "QuattroPod Deluxe auf YouTube"
+!!! info "QuattroPod Deluxe on YouTube"
 
-    [![QuattroPod Deluxe Einführungsvideo][6]{: align=left }][7]
+    [![QuattroPod Deluxe Introduction Video][6]{: align=left }][7]
 	
-	Ein kurzes Video, das den QuattroPod Deluxe vorstellt.
+	A brief introduction of QuattroPod Deluxe vorstellt.
 	
-	[Zum YouTube-Video][7]
+	[View YouTube-Video][7]
 
   [6]: /assets/img/quattropod.video.png
-  [7]: https://youtu.be/6FiBZXzAzbw
+  [7]: https://youtu.be/CWuZTV7L8-I
   
-## EG Konformitätserklärung
+## EG Declaration of Conformity
 
-Die EG Konformitätserklärung für den [QuattroPod Deluxe][8] und das [Netzteil des QuattroPod Deluxe][9] erklärt die Konformität mit europäischen Richtlinien.
+The EG Declaration of Conformity for [QuattroPod Deluxe][8] and the [Power Supply of QuattroPod Deluxe][9] certifies conformity to European standards.
 
 [8]: https://download.stueber.de/doc/de/quattropod/quattropod.konformitaetserklaerung.pdf
 

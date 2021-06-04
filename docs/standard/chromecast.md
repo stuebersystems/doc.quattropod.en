@@ -2,7 +2,7 @@
 
 Chromecast ist die Übertragungstechnologie von Google. Mit dem Google Chrome Browser kann man einen Browser-Tab, eine Audio/Video-Datei, oder sogar den gesamten Computerbildschirm auf den QuattroPod schnell und bequem übertragen. 
 
-Der QuattroPod ermöglicht es bis zu 4 Windows, Android und ChromeOS-Geräten, über das Chromecast-Protokoll auf einen aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App nutzen zu müssen.
+Der QuattroPod ermöglicht es Up to 4 Windows, Android und ChromeOS-Geräten, über das Chromecast-Protokoll auf einen aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App nutzen zu müssen.
 
 ![](/assets/img/Chrome_select_stream2.png)
 

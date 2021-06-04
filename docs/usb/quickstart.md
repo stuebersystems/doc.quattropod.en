@@ -89,7 +89,7 @@ Sie müssen einmalig USB-Debugging freischalten, anschließend den Sender anschl
 	
 	In dieser User Guide führen wir Sie schrittweise durch die Aktivierung von USB-Debugging.
 	
-	[Zum YouTube-Video](https://youtu.be/E_x5sxefh54)
+	[View YouTube-Video](https://youtu.be/E_x5sxefh54)
 
   [4]: /assets/img/thumbnail.video.usb-debugging.png
 
