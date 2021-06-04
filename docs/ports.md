@@ -47,9 +47,9 @@ Port | Type
 | 443 |
 
 
-## How to query ports used by EZCast Pro
+## How to query ports used by QuattroPod
 
-Are certain features such as Chromecast not working when connecting to EZCast Pro via your network infrustructure? Microsoft has a Graphical User Interface tool called PortQueryUI which can be used to troubleshoot these kinds of scenarios with port connectivity issues. You can use this tool to troubleshoot TCP/IP connection issues. The utility reports the port status of TCP and UDP ports on a device that you select.
+Are certain features such as Chromecast not working when connecting to QuattroPod via your network infrustructure? Microsoft has a Graphical User Interface tool called PortQueryUI which can be used to troubleshoot these kinds of scenarios with port connectivity issues. You can use this tool to troubleshoot TCP/IP connection issues. The utility reports the port status of TCP and UDP ports on a device that you select.
 
 ### Download PortQueryUI.exe
 
@@ -86,7 +86,7 @@ PortQueryUI.exe reports the status of a TCP/IP port in one of the following thre
 
 `LISTENING`
 
-A process is listening on the port on the EZCast Pro device that you selected. PortQueryUI.exe received a response from the port.
+A process is listening on the port on the QuattroPod device that you selected. PortQueryUI.exe received a response from the port.
 
 `NOT LISTENING`
 
@@ -94,7 +94,7 @@ No process is listening on the target port on the target system. Please check yo
 
 `Filtered`
 
-The port on the computer that you selected EZCast Pro device is being filtered. PortQueryUI.exe didn't receive a response from the port. A process may or may not be listening on the port. By default, TCP ports are queried three times, and UDP ports are queried one time before a report indicates that the port is filtered.
+The port on the computer that you selected QuattroPod device is being filtered. PortQueryUI.exe didn't receive a response from the port. A process may or may not be listening on the port. By default, TCP ports are queried three times, and UDP ports are queried one time before a report indicates that the port is filtered.
 
 
 ![Query Results](/assets/img/TCP.results.png)
