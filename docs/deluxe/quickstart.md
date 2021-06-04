@@ -4,8 +4,8 @@
 	
     Die Quick Start Guide steht Ihnen auch als PDF-Dokument im [A4-Format][1] und [A6-Format][2] zur Verfügung.
 
-  [1]: https://download.stueber.de/doc/de/quattropod/Quick Start Guideen/A4_QPDeluxe.pdf
-  [2]: https://download.stueber.de/doc/de/quattropod/Quick Start Guideen/A6_QPDeluxe.pdf
+  [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A4_QPDeluxe.pdf
+  [2]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPDeluxe.pdf
 
 ## Inhalt des QuattroPod Deluxe
 
