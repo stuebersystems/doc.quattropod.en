@@ -4,11 +4,11 @@
 
 Die Einrichtung Ihres Geräts wird in der [Schnellstartanleitung](quickstart.md) beschrieben. 
 
-For a compact product comparison with the other model versions of the EZCast Pro series we recommend taking a look at our [EZCast Pro Product Comparison (PDF)][3].
+For a compact product comparison with the other model versions of the QuattroPod series we recommend taking a look at our [QuattroPod Product Comparison (PDF)][3].
 
   [1]: /assets/img/quattropod.m1.png
   [2]: https://www.quattropod.eu/m1.php
-  [3]: https://download.stueber.de/doc/de/quattropod/quattropod.produktvergleich.de.pdf
+  [3]: https://download.stueber.de/doc/en/quattropod/quattropod.productcomparison.en.pdf
 
 ## Specification
 

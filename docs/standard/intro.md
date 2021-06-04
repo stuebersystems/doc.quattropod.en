@@ -4,11 +4,11 @@
 
 See [Quick Start Guide](quickstart.md) for how to set up and get started using your device.
 
-For a compact product comparison with the other model versions of the EZCast Pro series we recommend taking a look at our [EZCast Pro Product Comparison (PDF)][3].
+For a compact product comparison with the other model versions of the QuattroPod series we recommend taking a look at our [QuattroPod Product Comparison (PDF)][3].
 
   [1]: /assets/img/quattropod.standard.png
-  [2]: https://www.quattropod.de/standard.php
-  [3]: https://download.stueber.de/doc/de/quattropod/quattropod.produktvergleich.de.pdf
+  [2]: https://www.quattropod.eu/standard.php
+  [3]: https://download.stueber.de/doc/en/quattropod/quattropod.productcomparison.en.pdf
 
 ## Specification
 

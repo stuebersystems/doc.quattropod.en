@@ -37,7 +37,7 @@ The QuattroPod series comes in a variety of models:
 	</div>
 </div>
 <div class="md-showcase">
-	<img src="assets/img/quattropod.deluxe.png" alt="Image: QuattroPod Deluxe">
+	<img src="assets/img/quattropod.euluxe.png" alt="Image: QuattroPod Deluxe">
 	<div>
 		<img src="assets/img/quattropod-deluxe.black.logo.png" alt="Logo: QuattroPod Deluxe">
 		<p>The QuattroPod Deluxe package consists of four standard transmitters, a standard receiver and a tray which can store up to four transmitters. Our most comprehensive solution for professional conference rooms.</p>

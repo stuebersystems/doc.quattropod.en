@@ -24,7 +24,7 @@ To learn how to update the firmware on your device please select it from the lis
 	</div>
 </div>
 <div class="md-showcase">
-	<img src="/assets/img/quattropod.deluxe.png" alt="Image: QuattroPod Deluxe">
+	<img src="/assets/img/quattropod.euluxe.png" alt="Image: QuattroPod Deluxe">
 	<div>
 		<img src="/assets/img/quattropod-deluxe.black.logo.png" alt="Logo: QuattroPod Deluxe">
 		<p><a href="/deluxe/firmware-upgrade">Updates for QuattroPod Deluxe</a></p>

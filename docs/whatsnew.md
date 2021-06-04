@@ -31,7 +31,7 @@ Wählen Sie Ihr Gerät aus, um sich über die neusten Updates Ihres Gerät zu in
 	</div>
 </div>
 <div class="md-showcase">
-	<img src="/assets/img/quattropod.deluxe.png" alt="Abbildung: QuattroPod Deluxe">
+	<img src="/assets/img/quattropod.euluxe.png" alt="Abbildung: QuattroPod Deluxe">
 	<div>
 		<img src="/assets/img/quattropod-deluxe.black.logo.png" alt="Logo: QuattroPod Deluxe">
 		<p><a href="/deluxe/whatsnew">Updates for QuattroPod Deluxe</a></p>
