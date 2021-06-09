@@ -1,19 +1,19 @@
-# Anschlüsse, die von QuattroPod verwendet werden
+# Ports used by QuattroPod
 
-In der folgenden Tabelle sind die von QuattroPod verwendeten Anschlüsse aufgeführt. 
+Please refer to the tables below for QuattroPod Pro port information.
 
-## Verwendete Anschlüsse
+## Ports by Service
 
 ### AirPlay
 
-Port | Typ                  
+Port | Type                  
 :---- | :----------------------
 7000 | TCP          
 7001 | TCP         
 7100 | TCP         
 5353 | UDP         
 
-### QuattroPod Sender / Empfänger
+### QuattroPod Transmitter / Receiver
 
 | Port |
 | :---- |
@@ -22,7 +22,7 @@ Port | Typ
 
 ### ChromeCast
 
-| Port | Typ
+| Port | Type
 | :---- | :---
 | 80 | TCP
 | 443 | TCP
@@ -32,7 +32,7 @@ Port | Typ
 | 1900 | UDP
 | 5353 | UDP
 
-### HTTP Web-Server für die Web-Oberfläche 
+### Web Server for the web interface 
 
 | Port |
 | :---- |
@@ -47,54 +47,54 @@ Port | Typ
 | 443 |
 
 
-## QuattroPod verwendete Anschlüsse untersuchen
+## How to query ports used by QuattroPod
 
-Haben Sie festgestellt, dass bestimmte Funktionen von QuattroPod über Ihre Infrastruktur nicht funktionieren? Microsoft stellt eine grafische Benutzeroberfläche des Tools namens PortQueryUI bereit, die zur Fehlersuche in solchen Szenarien mit Port-Konnektivitätsproblemen verwendet werden kann. Dieses Tool können Sie zur Behebung von TCP/IP-Verbindungsproblemen verwenden. Das Hilfsprogramm meldet den Portstatus von TCP- und UDP-Ports auf einem Gerät, das Sie auswählen.
+Are certain features such as Chromecast not working when connecting to QuattroPod via your network infrustructure? Microsoft has a Graphical User Interface tool called PortQueryUI which can be used to troubleshoot these kinds of scenarios with port connectivity issues. You can use this tool to troubleshoot TCP/IP connection issues. The utility reports the port status of TCP and UDP ports on a device that you select.
 
-### PortQueryUI.exe herunterladen
+### Download PortQueryUI.exe
 
-* Laden Sie das Tool [portqueryui.exe](https://download.microsoft.com/download/3/f/4/3f4c6a54-65f0-4164-bdec-a3411ba24d3a/portqryui.exe) herunter und führen Sie es aus. Zum Akzeptieren der Lizenzvereinbarung klicken Sie auf `Yes`:
+* Download and launch the tool [portqueryui.exe](https://download.microsoft.com/download/3/f/4/3f4c6a54-65f0-4164-bdec-a3411ba24d3a/portqryui.exe). Accept the license agreement and proceed:
 
-![Lizenzvereinbarung akzeptieren](/assets/img/PortQueryUI-License-Agreement.png)
+![Accept the license agreement](/assets/img/PortQueryUI-License-Agreement.png)
 
-* Extrahieren Sie die Dateien im gewünschten Ordner:
+* Choose a location to extract the files:
 
-![die Dateien extrahieren](/assets/img/PortQryUI_extract.png)
+![Extract the files](/assets/img/PortQryUI_extract.png)
  
-* Die `PortQueryUI.exe` muss nicht installiert werden, sondern kann einfach per Doppelklick gestartet werden:
+* You don't need to install `PortQueryUI.exe`, simply run it by double clicking on it:
 
-![PortQueryUI.exe per Doppelklick starten](/assets/img/portqueryui.exe.png)
+![PortQueryUI.exe Double click to start](/assets/img/portqueryui.exe.png)
 
-### Ports abfragen
+### Query Ports
 
-* Notieren Sie sich die Infrastruktur IP-Adresse, die unten links auf der Startseite angezeigt wird:
+* Make a note of the Infrastructure IP address which is displayed on the bottom left of the landing page:
 
-![Infrastruktur IP-Adresse notieren](/assets/img/QuattroPod_IP.png)
+![Infrastructure IP address](/assets/img/QuattroPod_IP.png)
 
-Im Feld `destination IP` geben Sie die Infrastruktur IP-Adresse ein. Geben Sie anschließend die zu prüfenden Ports an und klicken Sie auf `Query`, wie zum Beispiel:
+In the `destination IP` field, enter the infrastructure IP address. Then specify the ports to be checked and click `Query`, for example:
 
-Für die Funktion `ChromeCast`:
+For the `ChromeCast` service:
 
 * `Ports to query` = **80,443,8008,8009**
 * `Protocol` = **TCP**
 
-![Ports angeben](/assets/img/TCP.png)
+![Specify Ports](/assets/img/TCP.png)
 
-### Weitere Informationen
+### More Information
 
-PortQueryUI.exe meldet den Status eines TCP/IP-Ports auf eine der folgenden drei Arten:
+PortQueryUI.exe reports the status of a TCP/IP port in one of the following three ways:
 
-`LISTENING` - Abhören
+`LISTENING`
 
-Der Port auf dem ausgewählten QuattroPod Gerät wird von einem Prozess abgehört. PortQueryUI.exe hat eine Antwort vom Port erhalten.
+A process is listening on the port on the QuattroPod device that you selected. PortQueryUI.exe received a response from the port.
 
-`NOT LISTENING` - Nicht abhören
+`NOT LISTENING`
 
-Der Zielport auf dem QuattroPod Gerät wird nicht von einem Prozess abgehört. Überprüfen Sie bitte Ihre Infrastruktur, um Netzwerkverbindungen für den Port zu erlauben.
+No process is listening on the target port on the target system. Please check your infrstructure in order to allow network connections for this port.
 
 `Filtered`
 
-Der Port auf dem ausgewählten QuattroPod Gerät wird gefiltert. PortQueryUI.exe hat keine Antwort vom Port erhalten. Ein Prozess hört den Port möglicherweise ab oder nicht. Standardmäßig werden die TCP-Ports dreimal abgefragt, und die UDP-Ports werden einmal abgefragt, bevor ein Bericht angibt, dass der Port gefiltert wird.
+The port on the computer that you selected QuattroPod device is being filtered. PortQueryUI.exe didn't receive a response from the port. A process may or may not be listening on the port. By default, TCP ports are queried three times, and UDP ports are queried one time before a report indicates that the port is filtered.
 
-![Abfrage Ergebnisse](/assets/img/TCP.results.png)
 
+![Query Results](/assets/img/TCP.results.png)

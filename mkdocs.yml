@@ -112,6 +112,7 @@ nav:
     - Troubleshooting:
         - Reset Settings: usb/reset.md
         - Reinstall Firmware: usb/firmware-reinstall.md
+        - Captive Portal: usb/captiveportal.md
     - CMS: usb/cms.md    
 - Lite:
     - Introduction: lite/intro.md
@@ -132,7 +133,7 @@ nav:
         - Dynamic Wallpaper: lite/dynamicwallpaper.md
         - Advanced Settings: lite/adv.settings.md
         - Conference Control: lite/conference-control.md
-        - Display Modes: lite/monitor-setup.md 
+        - Display Mode: lite/monitor-setup.md 
         - Remote Management: lite/remote-management.md
         - Transmitter Pairing: lite/pairing.md
         - Touch Back Function: lite/touchback.md
@@ -162,6 +163,8 @@ nav:
         - Display Modes: mini/monitor-setup.md
         - Dynamic Wallpaper: mini/dynamicwallpaper.md
         - Fixed Host: mini/fixedhost.md
+        - Conference Control: mini/conference-control.md
+        - Display Mode: mini/monitor-setup.md 
         - Multicast: mini/multicast.md
         - Remote Management: mini/remote-management.md
         - Transmitter Operation: mini/TX-controls.md
@@ -193,6 +196,7 @@ nav:
         - Display Modes: standard/monitor-setup.md
         - Dynamic Wallpaper: standard/dynamicwallpaper.md
         - Fixed Host: standard/fixedhost.md
+        - Display Mode: standard/monitor-setup.md
         - Multicast: standard/multicast.md
         - Remote Management: standard/remote-management.md
         - Transmitter Operation: standard/TX-controls.md
@@ -224,13 +228,41 @@ nav:
         - Display Modes: deluxe/monitor-setup.md
         - Dynamic Wallpaper: deluxe/dynamicwallpaper.md
         - Fixed Host: deluxe/fixedhost.md
+        - Display Mode: deluxe/monitor-setup.md
         - Multicast: deluxe/multicast.md
         - Remote Management: deluxe/remote-management.md
         - Transmitter Operation: deluxe/TX-controls.md
         - Transmitter Pairing: deluxe/pairing.md
         - Touch Back Function: deluxe/touchback.md
-    - Update Firmware: deluxe/firmware-upgrade.md
+        - Update Firmware: deluxe/firmware-upgrade.md
     - Troubleshooting: 
         - Reset Settings: deluxe/reset.md
         - Reinstall Firmware: deluxe/firmware-reinstall.md
     - CMS: deluxe/cms.md
+- M1: 
+    - Introduction: m1/intro.md
+    - Quick Start Guide: m1/quickstart.md
+    - What's New?: m1/whatsnew.md
+    - User Guides by<br>Operating System:
+        - "User Guide: Android": m1/quickstart/#android
+        - "User Guide: iOS": m1/quickstart/#ios
+        - "User Guide: macOS": m1/quickstart/#windows-macos-linux
+        - "User Guide: Linux": m1/linux.md
+        - "User Guide: Windows": m1/quickstart/#windows-macos-linux
+    - User Guides by<br>Streaming Protocol:
+        - "User Guide: AirPlay": m1/airplay.md     
+        - "User Guide: Chromecast": m1/chromecast.md
+    - Internet Access: m1/internet.md
+    - Advanced Features:
+        - Captive Portal: m1/captiveportal.md
+        - Dynamic Wallpaper: m1/dynamicwallpaper.md
+        - Advanced Settings: m1/adv.settings.md
+        - Fixed Host: m1/fixedhost.md
+        - Conference Control: m1/conference-control.md
+        - Display Mode: m1/monitor-setup.md
+        - Multicast: m1/multicast.md
+        - Remote-Verwaltung: m1/remote-management.md
+        - Transmitter Operation: m1/TX-controls.md
+        - Transmitter Pairing: m1/pairing.md
+        - Touch Back Function: m1/touchback.md
+    - CMS: m1/cms.md

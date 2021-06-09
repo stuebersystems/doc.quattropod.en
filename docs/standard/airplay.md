@@ -2,15 +2,15 @@
 
 AirPlay ist die Übertragungstechnologie von Apple zur kabellosen Übertragung von Apple-Geräten auf AirPlay-fähige Empfängergeräte wie Lautsprecher, AV-Empfänger, Stereosysteme und Fernseher.
 
-Der QuattroPod ermöglicht es bis zu vier macOS und iOS-Geräten, über das AirPlay-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App zu benötigen.
+Der QuattroPod ermöglicht es Up to vier macOS und iOS-Geräten, über das AirPlay-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App zu benötigen.
 
 !!! info "iOS-Gerät-Bildschirmübertragung mit QuattroPod"
 
-    [![QuattroPod Einführungsvideo][1]{: align=left }][2]
+    [![QuattroPod Introduction Video][1]{: align=left }][2]
 	
 	Ein kurzes Video, das die Bildschirmübertragung per iPhone vorstellt.
 	
-	[Zum YouTube-Video][2]
+	[View YouTube-Video][2]
 
   [1]: /assets/img/thumbnail.video.airplay.png
   [2]: https://youtu.be/UL4Q-drCmQo

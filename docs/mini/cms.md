@@ -15,11 +15,11 @@ Profitieren Sie von den folgenden Möglichkeiten:
 	
 !!! info "Erster Einblick in die zukünftigen Funktionen des CMS"
 
-    [![QuattroPod Einführungsvideo][1]{: align=left }][2]
+    [![QuattroPod Introduction Video][1]{: align=left }][2]
 	
 	Bald steht das Zentrale Management System (CRM) zur Verfügung, welches die zentrale Verwaltung aller Ihrer QuattroPods und EZCast Pro II Empfänger ermöglicht.
 	
-	[Zum YouTube-Video][2]
+	[View YouTube-Video][2]
 
   [1]: /assets/img/thumbnail.video.cms.png
   [2]: https://youtu.be/Gr1HSE8Keso

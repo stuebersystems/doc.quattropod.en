@@ -1,64 +1,64 @@
 # Der QuattroPod Lite 
 
-![QuattroPod Lite][1]{: align=left } Erkunden Sie die Möglichkeiten des [QuattroPod Lite][2]. 
+![QuattroPod Lite][1]{: align=left } Explore the possibilities of [QuattroPod Lite][2]. 
 
-Die Einrichtung Ihres Geräts wird in der [Quick Start Guide](quickstart.md) beschrieben. 
+See [Quick Start Guide](quickstart.md) for how to set up and get started using your device.
 
-Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der QuattroPod Serie empfiehlt sich der Blick in unser [QuattroPod Produktvergleich (PDF)][3].
+For a compact product comparison with the other model versions of the QuattroPod series we recommend taking a look at our [QuattroPod Product Comparison (PDF)][3].
 
   [1]: /assets/img/quattropod.lite.png
-  [2]: https://www.quattropod.de/lite.php
-  [3]: https://download.stueber.de/doc/de/quattropod/quattropod.produktvergleich.de.pdf
+  [2]: https://www.quattropod.eu/lite.php
+  [3]: https://download.stueber.de/doc/en/quattropod/quattropod.productcomparison.en.pdf
 
-## Spezifikation
+## Specification
 
 | QuattroPod Lite | |
 | :---- | :---- |
-| Funkreichweite (Sichtlinie) | Bis zu 30m |
-| Stromversorgung des Empfängers | DC-in 5V 2A |
-| Stromverbrauch des Empfängers | 10 W / 10000 mW |
-| Strahlungsleistung des Empfängers | 802.11a /54Mbps : 13 dBm ± 1.5 dB @ EVM ≤ -25dB |
+| Wireless Range (Line of Sight) | Up to 30m |
+| Receiver Power Supply | DC-in 5V 2A |
+| Receiver Power Consumption | 10 W / 10000 mW |
+| Receiver Output Power | 802.11a /54Mbps : 13 dBm ± 1.5 dB @ EVM ≤ -25dB |
 |  | 802.11n /MCS7 : 12 dBm ± 1.5 dB @ EVM ≤ -28dB |
 |  | 802.11ac /MCS9 : 10 dBm ± 1.5 dB @ EVM ≤ -32dB |
-| Stromversorgung des Senders | DC-in 5V 0,9A |
-| Stromverbrauch des Senders | 4,5W / 4500 mW |
-| Strahlungsleistung des Senders | 802.11a /64-QAM(R=3/4) : 14 dBm ± 1.5 dB @ EVM £ -25dB |
+| Transmitter Output Power | DC-in 5V 0,9A |
+| Transmitter Power Consumption | 4,5W / 4500 mW |
+| Transmitter Power Output | 802.11a /64-QAM(R=3/4) : 14 dBm ± 1.5 dB @ EVM £ -25dB |
 |  | 802.11n /64-QAM(R=5/6) : 13 dBm ± 1.5 dB @ EVM £ -28dB |
 |  | 802.11ac /256-QAM(R=3/4) : 13 dBm ± 1.5 dB @ EVM £ -30dB |
 |  | 802.11ac /256-QAM(R=5/6) : 11 dBm ± 1.5 dB @ EVM £ -32dB |
-| WLAN-Standard | 802.11ac 2T2R |
-| WLAN-Frequenzblock (5 GHz-Band) |  5150-5825 MHz |
-| WLAN-Übertragungsrate |  866 MBit/s |
+| Wi-Fi Standard | 802.11ac 2T2R |
+| Wi-Fi Frequency Range (5 GHz band) |  5150-5825 MHz |
+| Wi-Fi Transfer Rate |  866 MBit/s |
 
-## Datenblatt
+## Data Sheet
 
-!!! info "QuattroPod Lite - Datenblatt"
+!!! info "QuattroPod Lite - Data Sheet"
 
-    [![QuattroPod Lite Datenblatt][4]{: align=left }][5]
+    [![QuattroPod Lite Data Sheet][4]{: align=left }][5]
 	
 	Ein doppelseitiges PDF zum Teilen oder Ausdrucken.
 	
-	[Zum Datenblatt (PDF)][5]
+	[View Data Sheet (PDF)][5]
 
   [4]: /assets/img/quattropod.lite.brochure.de.png
   [5]: https://download.stueber.de/doc/de/quattropod/quattropod-lite.brochure.de.pdf
 
-## Einführungsvideo
+## Introduction Video
 
-!!! info "QuattroPod Lite auf YouTube"
+!!! info "QuattroPod Lite on YouTube"
 
-    [![QuattroPod Lite Einführungsvideo][6]{: align=left }][7]
+    [![QuattroPod Lite Introduction Video][6]{: align=left }][7]
 	
-	Ein kurzes Video, das den QuattroPod Lite vorstellt.
+	A brief introduction of QuattroPod Lite vorstellt.
 	
-	[Zum YouTube-Video][7]
+	[View YouTube-Video][7]
 
   [6]: /assets/img/quattropod.lite.video.png
   [7]: https://youtu.be/3hoqBVkk1i8
   
-## EG Konformitätserklärung
+## EG Declaration of Conformity
 
-Die EG Konformitätserklärung für den [QuattroPod Lite][8] und das [Netzteil des QuattroPod Lite][9] erklärt die Konformität mit europäischen Richtlinien.
+The EG Declaration of Conformity for [QuattroPod Lite][8] and the [Power Supply of QuattroPod Lite][9] certifies conformity to European standards.
 
 [8]: https://download.stueber.de/doc/de/quattropod/quattropodlite.konformitaetserklaerung.pdf
 
