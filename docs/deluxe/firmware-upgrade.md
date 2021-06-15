@@ -36,14 +36,14 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 * Während der ersten Anmeldung, müssen Sie das Admin-Kennwort ändern. Danach müssen Sie sich noch einmal anmelden.
 
-![](/assets/img/new_password.jpg)
+![](/assets/img/new_password.png)
 
 
 ## Aktualisierung starten
 
 * Klicken Sie auf `Admineinstellungen`:
 
-![](/assets/img/Menu_AdminSettings.png)
+![](/assets/img/quattropod.select.admin.png)
 
 * Klicken Sie auf `Update`:
 
@@ -51,7 +51,7 @@ Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browse
 
 * Um die Aktualisierung zu starten, setzen Sie ein Häkchen bei `Alle auswählen` ein, anschließend klicken Sie auf `Upgrade`.
 
-![Firmware-Version aktualisieren](/assets/img/Update.jpg)
+![Firmware-Version aktualisieren](/assets/img/Update.png)
 
 !!! tip "Hinweis"
     

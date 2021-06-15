@@ -36,14 +36,14 @@ The update is carried out via the Web interface in any web browser of your choic
 
 * During the first time you log in you will be asked to change the Admin password. After that you must log in once again.
 
-![](/assets/img/new_password.jpg)
+![](/assets/img/new_password.png)
 
 
 ## Start update
 
 * click on `Admin Settings`:
 
-![](/assets/img/Menu_AdminSettings.png)
+![](/assets/img/quattropod.select.admin.png)
 
 * Click on `Update`:
 
@@ -51,7 +51,7 @@ The update is carried out via the Web interface in any web browser of your choic
 
 * To start the update tick the box by `Select All`, then click on `Upgrade`.
 
-![Update firmware version](/assets/img/Update.jpg) 
+![Update firmware version](/assets/img/Update.png) 
 
 !!! tip "Tip"
     

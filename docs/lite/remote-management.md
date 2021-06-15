@@ -18,7 +18,7 @@ Viele Funktionen zum Verwalten des QuattroPods stehen zur Verfügung:
 
 ![Geräte verwalten](/assets/img/Gerätemanagement_Lite.png)
 
-![Firmware-Version aktualisieren](/assets/img/Update.jpg)
+![Firmware-Version aktualisieren](/assets/img/Update.png)
 
 
 
