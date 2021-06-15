@@ -8,7 +8,7 @@ Einfach gesagt kann der QuattroPod genau das machen, was Ihr Rechner über das V
 
 ![Das Tool DisplaySwitch - (Windowstaste + P)](/assets/img/displayswitch.jpg)
 
-!!! tip "Hinweis"
+!!! tip "Tip"
     
 	Wenn einer der Monitor-Modi (z.B. Duplizieren) nicht funktioniert, liegt es wahrscheinlich nicht am QuattroPod, sondern an der Grafikkarte Ihres Rechners. Probieren Sie bitte den Modus einmal per Kabel aus, um das Problem zu bestätigen. Es ist möglich, dass Sie einen aktuelleren Grafiktreiber benötigen.
 	

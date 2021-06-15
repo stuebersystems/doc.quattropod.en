@@ -29,7 +29,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ### Windows / macOS / Linux
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
      Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
 	 

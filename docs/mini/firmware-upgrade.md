@@ -8,7 +8,7 @@ You will need [Internet Access](internet.md). When the QuattroPod is connected t
 
 ![](/assets/img/QuattroPod_IP.png)
 
-## Connect transmitters and switch on
+## Connect and power on transmitters
 
 When updating the firmware it's important not to overlook the transmitters. Pay careful attention to keep the receiver and all transmitters equally up-to-date in order to avoid compatability issues.
 
@@ -38,10 +38,9 @@ The update is carried out via the Web interface in any web browser of your choic
 
 ![](/assets/img/new_password.png)
 
-
 ## Start update
 
-* click on `Admin Settings`:
+* Click on `Admin Settings`:
 
 ![](/assets/img/quattropod.select.admin.png)
 

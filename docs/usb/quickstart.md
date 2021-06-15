@@ -29,7 +29,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ### Windows / macOS
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
 	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
 	 
@@ -37,7 +37,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ![](/assets/img/QSG-TypeC.Windows.png)   
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
      Stellen Sie sicher, dass Ihr Windows / macOS Gerät die Videoübertragung per USB-C-Anschluss unterstützt. Im Zweifelsfall nutzen Sie bitte die Methode [Type-A](#SenderTypeA).	 
 
@@ -45,7 +45,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ### Windows / macOS
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
 	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
 	 
@@ -63,7 +63,7 @@ Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfo
 
 ### iOS
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
 	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
 	 
@@ -77,7 +77,7 @@ Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfo
 
 ### Android
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
 	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden. Außerdem können Sie die kostenlose QuattroPod [App](#b-die-quattropod-app-unter-android) unter Android nutzen.
 
@@ -109,7 +109,7 @@ Sie müssen einmalig USB-Debugging freischalten, anschließend den Sender anschl
 
 ![Android-Gerät anschließen](/assets/img/QSG-QP.USB.Android2.png)
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
      Wenn beim Anschließen eine Meldung erscheint, wählen Sie MTP oder Dateien übertragen.
 

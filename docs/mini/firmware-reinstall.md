@@ -8,7 +8,7 @@ Sie können den QuattroPod wiederherstellen, indem Sie die Firmware manuell neu 
 
 * Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder eine andere Firmware
 
-!!! tip "Hinweis"
+!!! tip "Tip"
     
 	Bei einer Neuinstallation der Firmware werden **alle** Einstellungen zurückgesetzt. 
 
@@ -71,7 +71,7 @@ Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im Up
  
 Das Downloaden der Firmware wird durchgeführt:
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
     Sie dürfen den Strom während der Aktualisierung nicht unterbrechen.
 	
@@ -165,7 +165,7 @@ Das folgende Fenster erscheint. Wenn der QuattroPod-Empfänger erfolgreich im Up
  
 Das Downloaden der Firmware wird durchgeführt:
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
     Sie dürfen den Strom während der Aktualisierung nicht unterbrechen.
 
@@ -221,7 +221,7 @@ Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Me
 
 Schalten Sie den Sender aus und wieder ein. Der Sender ist wieder einsatzbereit.
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
      Nach der Firmware-Aktualisierung muss jeder Sender mit dem Empfänger [neu gekoppelt](pairing.md) werden.
 

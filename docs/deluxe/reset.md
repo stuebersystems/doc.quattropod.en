@@ -32,15 +32,15 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 **Anmeldung**
 
-* Notieren Sie sich die IP-Adresse, die unten links angezeigt wird.
+* Make a note of the IP address which is displayed at the bottom left of the landing page.
 
 ![](/assets/img/QuattroPod_IP.png)
 
-* Rufen Sie nun Ihren Web-Browser auf.
+* Open your preferred web browser.
 
 ![](/assets/img/Google_Chrome.png)
 
-* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des QuattroPods ein.
+* Click in the browser address bar and enter the IP address of the QuattroPod then press enter.
 
 ![](/assets/img/IP-Address.png)
 
@@ -64,7 +64,7 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 ![](/assets/img/wifi.land.selection.EN.png)
 
-!!! tip "Hinweis"
+!!! tip "Tip"
     
 	Wenn Ihr Sender sich dach dem Zurücksetzen nicht freischalten lässt, überprüfen Sie den [Empfänger](quickstart.md#setup) und [kopplen](pairing.md) Sie den Sender mit dem Empfänger neu.
 

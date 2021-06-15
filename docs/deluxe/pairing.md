@@ -59,7 +59,7 @@ und kopieren Sie die Datei auf einen USB-Stick. Sie müssen keine anderen Dateie
 
 ### USB-Stick an den Sender anschließen
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
      Dieser Schritt muss im selben Raum bzw. innerhalb Funkreichweite des Empfängers vorgenommen werden.
 

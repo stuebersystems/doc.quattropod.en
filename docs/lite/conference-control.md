@@ -32,19 +32,19 @@ Der Host kann auch die Rolle als „Host“ an andere Teilnehmer zuordnen.
 
 ## Anmeldung
 
-* Notieren Sie sich die IP-Adresse, die unten links angezeigt wird.
+* Make a note of the IP address which is displayed at the bottom left of the landing page.
 
 ![](/assets/img/quattropod.lite.landingpage.IP.png)
 
-* Rufen Sie nun Ihren Web-Browser auf.
+* Open your preferred web browser.
 
 ![](/assets/img/Google_Chrome.png)
 
-* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des QuattroPods ein.
+* Click in the browser address bar and enter the IP address of the QuattroPod then press enter.
 
 ![](/assets/img/IP-Address.png)
 
-* Nachdem Sie die Eingabetaste gedrückt haben, sollte nun die Einstellungsoberfläche des QuattroPods erscheinen. Geben Sie das Kennwort ein. Standardmäßig lautet es `000000`. Wenn dieses Kennwort nicht akzeptiert wird, müssen die Sie die [Standardeinstellungen zurücksetzen](reset.md).
+* The QuattroPod settings interface will appear. Enter the password. By default this is `000000`. If this password is not accepted you must perform a [device reset](reset.md).
 
 ![](/assets/img/QuattroPod-Login.png)
 

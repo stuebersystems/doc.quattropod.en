@@ -37,7 +37,7 @@ Auf Ihrem iOS-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das 
 
 Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend wählen Sie den QuattroPod aus.
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
      Wenn der QuattroPod Empfänger unter AirPlay nicht zu sehen ist, stellen Sie sicher, dass Ihr iOS-Gerät mit dem Empfänger verbunden ist.
 

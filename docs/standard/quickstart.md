@@ -29,7 +29,7 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ### Android
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
      Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden. Außerdem können Sie die kostenlose QuattroPod [App](#b-die-quattropod-app-unter-android) unter Android nutzen.
 
@@ -77,7 +77,7 @@ Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startsei
 
 ### iOS
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
      Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
 	 
@@ -99,7 +99,7 @@ Wenn der Empfänger und der Sender richtig angeschlossen sind, wird die Startsei
 
 ### Windows / macOS / Linux
 
-!!! tip "Hinweis"
+!!! tip "Tip"
 
      Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
 	 

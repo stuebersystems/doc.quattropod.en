@@ -1,56 +1,56 @@
-# Firmware aktualisieren
+# Update Firmware
 
-## Warum aktualisiert man die Firmware? 
+## Why update the firmware? 
 
-Um von den neusten Funktionen des QuattroPods zu profitieren, können Sie das neuste Firmware-Update schnell und bequem über das Internet installieren. Bei der Installation einer neuen Firmware werden die bisherigen Einstellungen mitgenommen.
+In order to benefit from all the latest QuattroPod features you can install the latest firmware update quickly and conveniently via the Internet. When you install a new firmware, the previous settings will be included.
 
 Dabei benötigen Sie einen [Internetzugang](internet.md) zum Internet bzw. mit Ihrem Router.  Wenn der QuattroPod mit Ihrem LAN bzw. mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
 ![](/assets/img/QuattroPod_IP.png)
 
-## Sender anschließen und einschalten
+## Connect and power on transmitters
 
-Bei einer Firmware-Aktualisierung ist es wichtig, die Sender nicht zu übersehen. Achten Sie bitte darauf, den Empfänger und alle Sender auf dem selben Stand zu halten.
+When updating the firmware it's important not to overlook the transmitters. Pay careful attention to keep the receiver and all transmitters equally up-to-date in order to avoid compatability issues.
 
 ![](/assets/img/QuattroPod_RX_TXs_PoweredON.jpg)
 
-## In der Web-Oberfläche anmelden
+## Log into Web Settings
 
-Die Aktualisierung wird über die Web-Oberfläche in einem beliebigen Web-Browser durchgeführt.
+The update is carried out via the Web interface in any web browser of your choice.
 
-* Notieren Sie sich die IP-Adresse, die unten links angezeigt wird.
+* Make a note of the IP address which is displayed at the bottom left of the landing page.
 
 ![](/assets/img/QuattroPod_IP.png)
 
-* Rufen Sie nun Ihren Web-Browser auf.
+* Open your preferred web browser.
 
 ![](/assets/img/Google_Chrome.png)
 
-* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des QuattroPods ein.
+* Click in the browser address bar and enter the IP address of the QuattroPod then press enter.
 
 ![](/assets/img/IP-Address.png)
 
-* Nachdem Sie die Eingabetaste gedrückt haben, sollte nun die Einstellungsoberfläche des QuattroPods erscheinen. Geben Sie das Kennwort ein. Standardmäßig lautet es `000000`. Wenn dieses Kennwort nicht akzeptiert wird, müssen die Sie die [Standardeinstellungen zurücksetzen](reset.md).
+* The QuattroPod settings interface will appear. Enter the password. By default this is `000000`. If this password is not accepted you must perform a [device reset](reset.md).
 
 ![](/assets/img/QuattroPod-Login.png)
 
-## Aktualisierung starten
+## Start update
 
-* Klicken Sie auf `Admineinstellungen`:
+* Click on `Admin Settings`:
 
 ![](/assets/img/quattropod.select.admin.png)
 
-* Klicken Sie auf `Update`:
+* Click on `Update`:
 
 ![](/assets/img/Admineinstellungen_Update.png)
 
-* Um die Aktualisierung zu starten, setzen Sie ein Häkchen bei `Alle auswählen` ein, anschließend klicken Sie auf `Upgrade`.
+* To start the update tick the box by `Select All`, then click on `Upgrade`.
 
-![Firmware-Version aktualisieren](/assets/img/Update.png)
+![Update firmware version](/assets/img/Update.png)
 
-!!! tip "Hinweis"
+!!! tip "Tip"
     
-	Sollten die Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.
+	If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the units again.
 
 
 

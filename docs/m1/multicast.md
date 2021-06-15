@@ -4,7 +4,7 @@ Die Funktion Multicast erlaubt es Ihnen die Bildschirminhalte eines Gerätes mit
 
 Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt auf mehrere Displays zu übertragen. Dabei kann nur ein Teilnehmer auf einmal diese Funktion ausführen.
 
-!!! tip "Hinweis"
+!!! tip "Tip"
     
 	Bitte beachten Sie, dass die Funktion Multicast auf dem [QuattroPod Lite](/lite/intro) nicht unterstützt wird. Jeder QuatroPod Empfänger (Standard, Deluxe, oder Mini), der über Multicast betrieben werden soll, muss entsprechend konfiguriert werden.
 	
@@ -22,7 +22,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![](/assets/img/Broadcast_Pakete.png) 
 
-!!! tip "Hinweis"
+!!! tip "Tip"
     
 	Um eine bessere Leistung von Multicast zu erreichen, verbinden Sie den QuattroPod-Empfänger mit dem [Router per LAN-Kabel](internet.md).
 	
@@ -94,6 +94,6 @@ Wenn das Koppeln abgeschlossen ist, erscheint die Meldung **"Pairing OK"**.
 
 ![](/assets/img/QSG-Mini.Transmitter.png)
 
-!!! tip "Hinweis"
+!!! tip "Tip"
     
 	Eine umfassende Anleitung wie Sie den Sender an Ihr spezifisches Endgerät anschließen finden Sie in der [Schnellstartanleitung](quickstart.md#Sender).
