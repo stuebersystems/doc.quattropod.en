@@ -6,8 +6,8 @@ See [Quick Start Guide](quickstart.md) for how to set up and get started using y
 
 For a compact product comparison with the other model versions of the QuattroPod series we recommend taking a look at our [QuattroPod Product Comparison (PDF)][3].
 
-  [1]: /assets/img/quattropod.euluxe.png
-  [2]: https://www.quattropod.eu/Deluxe.php
+  [1]: /assets/img/quattropod.deluxe.png
+  [2]: https://www.quattropod.eu/deluxe.php
   [3]: https://download.stueber.de/doc/en/quattropod/quattropod.productcomparison.en.pdf
 
 ## Specification

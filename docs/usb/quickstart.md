@@ -4,7 +4,7 @@
 	
     Die Quick Start Guide steht Ihnen auch als PDF-Dokument im [A6-Format][1] zur Verfügung.
 
-  [1]: https://download.stueber.de/doc/de/quattropod/Quick Start Guideen/A6_QPUSB.pdf
+  [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPUSB.pdf
 
 ## Inhalt des QuattroPod USB
 

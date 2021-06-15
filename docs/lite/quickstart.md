@@ -2,10 +2,9 @@
 
 !!! info "Quick Start Guide als PDF"
 	
-    Die Quick Start Guide steht Ihnen auch als PDF-Dokument im [A4-Format][1] und [A6-Format][2] zur Verfügung.
+    Die Quick Start Guide steht Ihnen auch als PDF-Dokument im [A6-Format][1] zur Verfügung.
 
-  [1]: https://download.stueber.de/doc/de/quattropod/Quick Start Guideen/A4_QPLite.pdf
-  [2]: https://download.stueber.de/doc/de/quattropod/Quick Start Guideen/A6_QPLite.pdf
+  [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPLite.pdf
 
 ## Inhalt des QuattroPod Lite
 
