@@ -239,3 +239,30 @@ nav:
         - Reset Settings: deluxe/reset.md
         - Reinstall Firmware: deluxe/firmware-reinstall.md
     - CMS: deluxe/cms.md
+- M1: 
+    - Introduction: m1/intro.md
+    - Quick Start Guide: m1/quickstart.md
+    - What's New?: m1/whatsnew.md
+    - User Guides by<br>Operating System:
+        - "User Guide: Android": m1/quickstart/#android
+        - "User Guide: iOS": m1/quickstart/#ios
+        - "User Guide: macOS": m1/quickstart/#windows-macos-linux
+        - "User Guide: Linux": m1/linux.md
+        - "User Guide: Windows": m1/quickstart/#windows-macos-linux
+    - User Guides by<br>Streaming Protocol:
+        - "User Guide: AirPlay": m1/airplay.md     
+        - "User Guide: Chromecast": m1/chromecast.md
+    - Internet Access: m1/internet.md
+    - Advanced Features:
+        - Captive Portal: m1/captiveportal.md
+        - Dynamic Wallpaper: m1/dynamicwallpaper.md
+        - Advanced Settings: m1/adv.settings.md
+        - Fixed Host: m1/fixedhost.md
+        - Conference Control: m1/conference-control.md
+        - Display Mode: m1/monitor-setup.md
+        - Multicast: m1/multicast.md
+        - Remote-Verwaltung: m1/remote-management.md
+        - Transmitter Operation: m1/TX-controls.md
+        - Transmitter Pairing: m1/pairing.md
+        - Touch Back Function: m1/touchback.md
+    - CMS: m1/cms.md
