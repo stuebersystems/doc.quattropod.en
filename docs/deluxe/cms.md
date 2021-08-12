@@ -23,7 +23,7 @@ The software is available for Windows and macOS.
 	[Watch Video][2]
 
   [1]: /assets/img/video.introduction.jpg
-  [2]: https://assets.stueber.de/videos/cms.ezcastpro.introduction.en.mp4
+  [2]: https://assets.stueber.de/videos/cms.quattropod.introduction.en.mp4
   
 !!! hint "CMS Timer Control"
 
@@ -34,7 +34,7 @@ The software is available for Windows and macOS.
 	[Watch Video][4]
 
   [3]: /assets/img/video.timercontrol.jpg
-  [4]: https://assets.stueber.de/videos/cms.ezcastpro.timercontrol.en.mp4
+  [4]: https://assets.stueber.de/videos/cms.quattropod.timercontrol.en.mp4
 
 !!! hint "CMS Emergency Broadcasting"
 
@@ -45,7 +45,7 @@ The software is available for Windows and macOS.
 	[Watch Video][6]
 
   [5]: /assets/img/video.emergencybroadcasting.jpg
-  [6]: https://assets.stueber.de/videos/cms.ezcastpro.emergencybroadcasting.en.mp4
+  [6]: https://assets.stueber.de/videos/cms.quattropod.emergencybroadcasting.en.mp4
 
 ## User Guide
 
