@@ -1,25 +1,54 @@
-# Erster Einblick in die zukünftigen Funktionen des CMS
+CMS (Central Management System) is a software application that enables you to centrally manage EZCast Pro II and QuattroPod devices.
 
-Bald steht das Zentrale Management System (CMS) zur Verfügung, welches die zentrale Verwaltung aller Ihrer QuattroPods und EZCast Pro II Empfänger ermöglicht.
+![](/assets/img/screenshot-cms-windows-01.png)
 
-Profitieren Sie von den folgenden Möglichkeiten:
+You will benefit from the following functions:
 
- * einen umfassende Überblick über Ihre Geräte, inkl. Gerätestatus, IP-Adresse, Firmwareversion, etc.
- * drahtlose Anzeigegeräte nach Gruppen organisieren
- * all Ihre QuattroPod- und EZCast Pro-Geräte gleichzeitig einrichten
- * Neustarts und Firmware-Upgrades mehrerer Geräte planen
+* Dashboard display of devices in operation including device status, IP address, firmware version, etc.
+* Organise wireless display devices into groups.
+* Configure all your QuattroPod and EZCast Pro II devices simultaneously
+* Schedule device restarts and firmware upgrades for multiple devices
 
-!!! tip "Newsletter"
 
-    Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
+The software is available for Windows and macOS.
+
+## CMS User Guide Videos
+
+!!! hint "CMS Introduction"
+
+    [![CMS Einführungsvideo][1]{: align=left }][2]
 	
-!!! info "Erster Einblick in die zukünftigen Funktionen des CMS"
-
-    [![QuattroPod Introduction Video][1]{: align=left }][2]
+	An overview of the CMS features.
 	
-	Bald steht das Zentrale Management System (CRM) zur Verfügung, welches die zentrale Verwaltung aller Ihrer QuattroPods und EZCast Pro II Empfänger ermöglicht.
-	
-	[View YouTube-Video][2]
+	[Watch Video][2]
 
-  [1]: /assets/img/thumbnail.video.cms.png
-  [2]: https://youtu.be/Gr1HSE8Keso
+  [1]: /assets/img/video.introduction.jpg
+  [2]: https://assets.stueber.de/videos/cms.ezcastpro.introduction.en.mp4
+  
+!!! hint "CMS Timer Control"
+
+    [![CMS Timer Control][3]{: align=left }][4]
+	
+	Schedule daily restart times of devices and when automatic firmware updates shall be performed.
+		
+	[Watch Video][4]
+
+  [3]: /assets/img/video.timercontrol.jpg
+  [4]: https://assets.stueber.de/videos/cms.ezcastpro.timercontrol.en.mp4
+
+!!! hint "CMS Emergency Broadcasting"
+
+    [![CMS Emergency Broadcasting][5]{: align=left }][6]
+	
+	In the event of an emergency situation, the CMS can be used by the administrator to interrupt and replace the current screen transmissions with evacuation information.
+	
+	[Watch Video][6]
+
+  [5]: /assets/img/video.emergencybroadcasting.jpg
+  [6]: https://assets.stueber.de/videos/cms.ezcastpro.emergencybroadcasting.en.mp4
+
+## User Guide
+
+Please note: We provide installation instructions in English for the CMS product key, which we will send to you together with the product key upon purchase. A comprehensive user guide of all the CMS functions are available in English at [https://ezcast-pro.com](https://ezcast-pro.com/download/):
+
+![](/assets/img/CMS-userguide.png)

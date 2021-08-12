@@ -239,3 +239,5 @@ nav:
         - Reset Settings: deluxe/reset.md
         - Reinstall Firmware: deluxe/firmware-reinstall.md
     - CMS: deluxe/cms.md
+- CMS: 
+    - Introduction: cms.md  
