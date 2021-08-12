@@ -95,6 +95,7 @@ nav:
     - User Guides by<br>Streaming Protocol:
         - "User Guide: AirPlay": usb/airplay.md     
         - "User Guide: Chromecast": usb/chromecast.md
+    - CMS: usb/cms.md       
     - Internet Access: usb/internet.md
     - Advanced Features:
         - Advanced Settings: usb/adv.settings.md
@@ -113,7 +114,6 @@ nav:
         - Reset Settings: usb/reset.md
         - Reinstall Firmware: usb/firmware-reinstall.md
         - Captive Portal: usb/captiveportal.md
-    - CMS: usb/cms.md    
 - Lite:
     - Introduction: lite/intro.md
     - Quick Start Guide: lite/quickstart.md
@@ -127,6 +127,7 @@ nav:
     - User Guides by<br>Streaming Protocol:
         - "User Guide: AirPlay": lite/airplay.md     
         - "User Guide: Chromecast": lite/chromecast.md
+    - CMS: lite/cms.md    
     - Internet Access: lite/internet.md
     - Advanced Features:
         - Captive Portal: lite/captiveportal.md
@@ -141,7 +142,6 @@ nav:
     - Troubleshooting:
         - Reset Settings: lite/reset.md
         - Reinstall Firmware: lite/firmware-reinstall.md
-    - CMS: lite/cms.md
 - Mini: 
     - Introduction: mini/intro.md
     - Quick Start Guide: mini/quickstart.md
@@ -155,6 +155,7 @@ nav:
     - User Guides by<br>Streaming Protocol:
         - "User Guide: AirPlay": mini/airplay.md     
         - "User Guide: Chromecast": mini/chromecast.md
+    - CMS: mini/cms.md    
     - Internet Access: mini/internet.md
     - Advanced Features:
         - Advanced Settings: mini/adv.settings.md
@@ -174,7 +175,6 @@ nav:
     - Troubleshooting: 
         - Reset Settings: mini/reset.md
         - Reinstall Firmware: mini/firmware-reinstall.md
-    - CMS: mini/cms.md
 - Standard: 
     - Introduction: standard/intro.md
     - Quick Start Guide: standard/quickstart.md
@@ -188,6 +188,7 @@ nav:
     - User Guides by<br>Streaming Protocol:
         - "User Guide: AirPlay": standard/airplay.md     
         - "User Guide: Chromecast": standard/chromecast.md
+    - CMS: standard/cms.md    
     - Internet Access: standard/internet.md
     - Advanced Features:
         - Advanced Settings: standard/adv.settings.md
@@ -206,7 +207,6 @@ nav:
     - Troubleshooting: 
         - Reset Settings: standard/reset.md
         - Reinstall Firmware: standard/firmware-reinstall.md
-    - CMS: standard/cms.md
 - Deluxe:
     - Introduction: deluxe/intro.md
     - Quick Start Guide: deluxe/quickstart.md
@@ -220,6 +220,7 @@ nav:
     - User Guides by<br>Streaming Protocol:
         - "User Guide: AirPlay": deluxe/airplay.md     
         - "User Guide: Chromecast": deluxe/chromecast.md
+    - CMS: deluxe/cms.md    
     - Internet Access: deluxe/internet.md
     - Advanced Features:
         - Advanced Settings: deluxe/adv.settings.md
@@ -238,6 +239,5 @@ nav:
     - Troubleshooting: 
         - Reset Settings: deluxe/reset.md
         - Reinstall Firmware: deluxe/firmware-reinstall.md
-    - CMS: deluxe/cms.md
 - CMS: 
     - Introduction: cms.md  
