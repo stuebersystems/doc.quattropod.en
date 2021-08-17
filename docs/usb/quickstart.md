@@ -66,9 +66,9 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfolgt die Bildschirmübertragung standardmäßig automatisch. Sie kann auch aus Ihrem Programme-Menü manuell gestartet werden. 
 
-## Bildschirmübertragung im Mobil-Modus {#SenderMobile}
+## Bildschirmübertragung im Mobil-Modus
 
-### iOS
+### iOS im Mobil-Modus
 
 !!! tip "Hinweis"
 
@@ -82,7 +82,7 @@ Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfo
 
 ![iOS verbinden](/assets/img/QSG-Trust-this-computer.png)
 
-### Android
+### Android im Mobil-Modus
 
 !!! tip "Hinweis"
 
