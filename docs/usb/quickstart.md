@@ -1,8 +1,8 @@
-# Quick Start Guide
+# Schnellstartanleitung
 
-!!! info "Quick Start Guide als PDF"
+!!! info "Schnellstartanleitung als PDF"
 	
-    Die Quick Start Guide steht Ihnen auch als PDF-Dokument im [A6-Format][1] zur Verfügung.
+    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A6-Format][1] zur Verfügung.
 
   [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPUSB.pdf
 
@@ -11,8 +11,8 @@
 | Der QuattroPod USB besteht aus: |   |
 | :----: | :----: |
 | ![](/assets/img/QSG.R01.png)<br>1 Standard Empfänger | ![](/assets/img/QSG-U01.png)<br>1 USB Sender |
-| ![](/assets/img/QSG.USB_Charger.png)<br>1 Universal Stromadapter (5V/2A) | ![](/assets/img/QSG.Charger.cable.png)<br>USB-Ladekabel  (1 m)|
-| ![](/assets/img/QSG.HDMI.1m.png)<br>1 HDMI-Kabel (1 m) | ![](/assets/img/QSG-Manual.png)<br>Quick Start Guide |
+| ![](/assets/img/QSG.USB_Charger.png)<br>1 Universal Stromadapter (5V/2A) | ![](/assets/img/QSG.Charger.cable.png)<br>USB-Ladekabel (1 m) |
+| ![](/assets/img/QSG.HDMI.1m.png)<br>1 HDMI-Kabel (1 m) | ![](/assets/img/QSG-Manual.png)<br>Schnellstartanleitung |
 
 
 ## Empfänger anschließen {#setup}
@@ -25,9 +25,9 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 
 ![QuattroPod USB Startseite](/assets/img/quattropod.landingpage.png)
 
-## Bildschirmübertragung im Type-C Sendermodus {#SenderTypeC}
+## Bildschirmübertragung im Type-C Sendermodus
 
-### Windows / macOS
+### Windows / macOS im Type-C Sendermodus
 
 !!! tip "Hinweis"
 
@@ -37,43 +37,40 @@ Die folgende Startseite erscheint auf Ihrem Bildschirm:
 	 
 	 ![](/assets/img/QSG-TypeC.Windows.png) 
 	 
-### Android
+### Android im Type-C Sendermodus
 	
 !!! tip "Hinweis"
 
      Stellen Sie sicher, dass Ihr Android Gerät die Videoübertragung per USB-C-Anschluss [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C) unterstützt. Im Zweifelsfall nutzen Sie bitte die Methode [Mobil-Modus](#SenderTypeA) oder [Streamingprotokoll](#a-streamingprotokollen).
 	 
-* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an einen USB-C-Port Ihres Android Rechners an:
+* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an den USB-C-Port Ihres Android Rechners an:
 
   ![](/assets/img/QSG-QP.USBC.Android.png) 
+
+ 
+## Bildschirmübertragung im Type-A Sendermodus
+
+### Windows / macOS im Type-A Sendermodus
 
 !!! tip "Hinweis"
 
 	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
-
-## Bildschirmübertragung im Type-A Sendermodus {#SenderTypeA}
-
-### Windows / macOS
-
-!!! tip "Tip"
-
-	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
 	 
-* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an einen USB-A-Port Ihres Windows/macOS-Rechners an:
+* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an einen USB-A-Port Ihres Windows/macOS-Rechners an. Die Bildschirmübertragung erfolgt automatisch:
 
 ![](/assets/img/QSG-TypeA.Windows.png)
 
-#### Software: USB WiFi Cast
+**Software: USB WiFi Cast**
 
-Sie müssen einmalig die Software **USB WiFi Cast** installieren. Beim Anschließen des Senders im Type-A öffnet sich ein CD-Laufwerk. Unter macOS führen Sie `USB WiFi Cast` aus. Unter Windows führen Sie [USB Launcher](https://download.stueber.de/doc/de/quattropod/USB-WiFi-Cast/USB.WiFi.Cast-1.0.0.65.exe) aus.
+* Sie müssen einmalig die Software **USB WiFi Cast** installieren. Beim Anschließen des Senders im Type-A öffnet sich ein CD-Laufwerk. Unter macOS führen Sie `USB WiFi Cast` aus. Unter Windows führen Sie [USB Launcher](https://download.stueber.de/doc/de/quattropod/USB-WiFi-Cast/USB.WiFi.Cast-1.0.0.66.exe) aus.
 
-Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfolgt die Bildschirmübertragung standardmäßig automatisch. Sie kann auch aus Ihrem Programme-Menü manuell gestartet werden.
+Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfolgt die Bildschirmübertragung standardmäßig automatisch. Sie kann auch aus Ihrem Programme-Menü manuell gestartet werden. 
 
 ## Bildschirmübertragung im Mobil-Modus {#SenderMobile}
 
 ### iOS
 
-!!! tip "Tip"
+!!! tip "Hinweis"
 
 	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
 	 
@@ -87,7 +84,7 @@ Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfo
 
 ### Android
 
-!!! tip "Tip"
+!!! tip "Hinweis"
 
 	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden. Außerdem können Sie die kostenlose QuattroPod [App](#b-die-quattropod-app-unter-android) unter Android nutzen.
 
@@ -97,9 +94,9 @@ Sie müssen einmalig USB-Debugging freischalten, anschließend den Sender anschl
 
     ![USB-Debugging unter Android freischalten][4]{: align=left }
 	
-	In dieser User Guide führen wir Sie schrittweise durch die Aktivierung von USB-Debugging.
+	In dieser Anleitung führen wir Sie schrittweise durch die Aktivierung von USB-Debugging.
 	
-	[View YouTube-Video](https://youtu.be/E_x5sxefh54)
+	[Zum YouTube-Video](https://youtu.be/E_x5sxefh54)
 
   [4]: /assets/img/thumbnail.video.usb-debugging.png
 
@@ -119,7 +116,7 @@ Sie müssen einmalig USB-Debugging freischalten, anschließend den Sender anschl
 
 ![Android-Gerät anschließen](/assets/img/QSG-QP.USB.Android2.png)
 
-!!! tip "Tip"
+!!! tip "Hinweis"
 
      Wenn beim Anschließen eine Meldung erscheint, wählen Sie MTP oder Dateien übertragen.
 
@@ -134,7 +131,7 @@ Mit QuattroPod stehen Ihnen zwei Möglichkeiten ohne den Sender zur Verfügung:
 
 ### a) Streamingprotokollen
  
-Unterstützt werden alle gängigen Streamingprotokollen. Umfassende User Guideen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
+Unterstützt werden alle gängigen Streamingprotokollen. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
 
 * [AirPlay](airplay.md) unter iOS und macOS.
 
