@@ -37,21 +37,14 @@ The QuattroPod series comes in a variety of models:
 	</div>
 </div>
 <div class="md-showcase">
-	<img src="assets/img/quattropod.euluxe.png" alt="Image: QuattroPod Deluxe">
+	<img src="assets/img/quattropod.deluxe.png" alt="Image: QuattroPod Deluxe">
 	<div>
 		<img src="assets/img/quattropod-deluxe.black.logo.png" alt="Logo: QuattroPod Deluxe">
 		<p>The QuattroPod Deluxe package consists of four standard transmitters, a standard receiver and a tray which can store up to four transmitters. Our most comprehensive solution for professional conference rooms.</p>
 		<p><a href="deluxe/intro">View QuattroPod Deluxe</a></p>
 	</div>
 </div>
-<div class="md-showcase">
-	<img src="assets/img/quattropod.m1.png" alt="Abbildung: QuattroPod M1">
-	<div>
-		<img src="assets/img/quattropod-m1.black.logo.png" alt="Logo: QuattroPod M1">
-		<p>QuattroPod M1 is a receiver which you can insert in the SDM slot (Intel® SDM-S) of your display. It supports all Standard, Mini and USB transmitters in a minimalistic and elgant form.</p>
-		<p><a href="m1/intro">View QuattroPod M1</a></p>
-	</div>
-</div>
+
 
 Choosing Your Solution:
 

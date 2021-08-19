@@ -31,16 +31,9 @@ Wählen Sie Ihr Gerät aus, um sich über die neusten Updates Ihres Gerät zu in
 	</div>
 </div>
 <div class="md-showcase">
-	<img src="/assets/img/quattropod.euluxe.png" alt="Abbildung: QuattroPod Deluxe">
+	<img src="/assets/img/quattropod.deluxe.png" alt="Abbildung: QuattroPod Deluxe">
 	<div>
 		<img src="/assets/img/quattropod-deluxe.black.logo.png" alt="Logo: QuattroPod Deluxe">
 		<p><a href="/deluxe/whatsnew">Updates for QuattroPod Deluxe</a></p>
-	</div>
-</div>
-<div class="md-showcase">
-	<img src="/assets/img/quattropod.m1.png" alt="Abbildung: QuattroPod M1">
-	<div>
-		<img src="/assets/img/quattropod-m1.black.logo.png" alt="Logo: QuattroPod M1">
-		<p><a href="/m1/whatsnew">Updates for QuattroPod M1</a></p>
 	</div>
 </div>
