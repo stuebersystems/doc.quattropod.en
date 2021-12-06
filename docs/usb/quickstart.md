@@ -77,7 +77,7 @@ If the **USB WiFi Cast** software is already installed on your device, your scre
 
 ![iOS verbinden](/assets/img/QSG-Trust-this-computer.png)
 
-### Android in Mobile
+### Android in Mobile Mode
 
 !!! tip "Tip"
 
