@@ -92,7 +92,7 @@ The new firmware is downloaded and installed automatically.
 	 
 ## Update Firmware without internet with CMS
 
-* If you wish to upload a firmware update to a device without an internet connection please use the links below to download the firmware for your devices in advance:
+The CMS ([Central Management System](cms.md)) also allows you to install the latest firmware on devices that are not connected to the internet. Please use the links below to download the firmware for your devices in advance:
 
 Device Type               | Download      |
 ------------------------- | ------------------------- | 
