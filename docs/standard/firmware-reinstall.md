@@ -38,7 +38,7 @@ You can restore the QuattroPod by manually reinstalling the firmware. There are 
 
 ![Click Install to install the drivers](/assets/img/install_drivers.jpg)
 
-### Switch the Receiver into **Update mode**.
+### Switch the Receiver into **Update Mode**.
 
 To put the receiver into **Update Mode**, please follow the steps below in order:
 
