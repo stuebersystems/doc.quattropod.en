@@ -4,7 +4,7 @@
 
 In order to benefit from all the latest QuattroPod features you can install the latest firmware update quickly and conveniently via the Internet. When you install a new firmware, the previous settings will be included.
 
-You will need [Internet Access](internet.md). When the QuattroPod is connected to your LAN or to your WLAN, an IP address assigned by your network called `Infrustructure IP` will be displayed on the screen as shown below:
+You will need [Internet Access](internet.md). When the QuattroPod is connected to your LAN or to your Wi-Fi, an IP address assigned by your network called `Infrustructure IP` will be displayed on the screen as shown below:
 
 ![](/assets/img/QuattroPod_IP.png)
 

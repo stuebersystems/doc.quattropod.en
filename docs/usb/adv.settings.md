@@ -32,13 +32,13 @@ Nutzen Sie diese Option, um die Android-APK-Datei vom Empfänger herunterzuladen
 
 ![](/assets/img/Network_Management.png)
 
-### Mit 5Ghz WLAN-Router/AP verbinden {#Wireless_Access_Point}
+### Mit 5Ghz Wi-Fi-Router/AP verbinden {#Wireless_Access_Point}
 
 Wenn Sie den QuattroPod lieber per Wireless Access Point verbinden, um auf das Internet zuzugreifen, finden Sie die Möglichkeit dazu hier.
 
 ![](/assets/img/Wifi_Internet.png)
 
-### WLAN merken
+### Wi-Fi merken
 
 Legt fest, ob der QuattroPod mit dem [Wireless Access Point](#Wireless_Access_Point) nach einem Neustart automatisch verbunden werden soll.
 
@@ -113,9 +113,9 @@ Um die Leistung des QuattroPods zu optimieren, insbesondere bei Geräten, die da
 
 In diesem Bereich können Sie den QuattroPod auf die neuste Firmware aktualisieren, auf Standardeinstellungen zurücksetzen und andere erweiterten Einstellungen setzen.
 
-### WLAN-Kanal {#WiFi-Mode}
+### Wi-Fi-Kanal {#WiFi-Mode}
 
-Um störende WLAN-Signale zu vermeiden, können Sie den WLAN-Modus anpassen.
+Um störende Wi-Fi-Signale zu vermeiden, können Sie den Wi-Fi-Modus anpassen.
 
 ![](/assets/img/Wifi-Modus.png)
 
@@ -131,7 +131,7 @@ Hier können Sie die SSID des Empfängers umbenennen, verstecken, oder ausschalt
 
 ![](/assets/img/SSID.jpg)
 
-### Kennwort (fürs WLAN) {#WLAN-Kennwort}
+### Kennwort (fürs Wi-Fi) {#Wi-Fi-Kennwort}
 
 Aus Sicherheitsgründen kann das Kennwort geändert oder versteckt werden.
 
@@ -184,7 +184,7 @@ Während der Bildschirmschoner läuft, bleibt der Empfänger im Betrieb. Die Web
 
 Sie können den Empfänger aufwecken bzw. die HDMI-Ausgabe wiederherstellen, indem Sie Inhalte vom Sender erneut übertragen.
 
-### Enterprise-WLAN
+### Enterprise-Wi-Fi
 
 Ein digitales Zertifikat hochladen.
 

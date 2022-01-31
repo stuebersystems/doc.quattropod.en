@@ -27,7 +27,7 @@ Wenn AirPlay erfolgreich freigeschaltet ist, errecheint das AirPlay-Symbol oben 
 
 ## AirPlay auf iOS
 
-Um Ihren iOS-Bildschirm zu übertragen, verbinden Sie Ihr Gerät mit demselben WLAN-Netzwerk wie QuattroPod. Die SSID und das Kennwort von QuattroPod werden oben auf der Startseite angezeigt:
+Um Ihren iOS-Bildschirm zu übertragen, verbinden Sie Ihr Gerät mit demselben Wi-Fi-Netzwerk wie QuattroPod. Die SSID und das Kennwort von QuattroPod werden oben auf der Startseite angezeigt:
 
 ![QuattroPod Startseite](/assets/img/quattropod.lite.ssid.connect.png)
 
@@ -49,7 +49,7 @@ Um die Übertragung von AirPlay vom iOS-Gerät zu beenden, tippen Sie nochmal au
 
 ## AirPlay auf macOS
 
-Um Ihren macOS-Bildschirm zu übertragen, verbinden Sie Ihr Gerät mit demselben WLAN-Netzwerk wie QuattroPod. Die SSID von QuattroPod wird oben auf der Startseite angezeigt:
+Um Ihren macOS-Bildschirm zu übertragen, verbinden Sie Ihr Gerät mit demselben Wi-Fi-Netzwerk wie QuattroPod. Die SSID von QuattroPod wird oben auf der Startseite angezeigt:
 
 ![QuattroPod Startseite](/assets/img/quattropod.lite.ssid.connect.png)
 

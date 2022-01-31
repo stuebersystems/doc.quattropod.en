@@ -12,7 +12,7 @@ Für den QuattroPod wird eine Internet-Verbindung in folgenden Fällen benötigt
   
 * Integriertes Netzwerk: Wenn alle Ihre Endgeräte und QuattroPod-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des QuattroPods zu wechseln, wenn Sie Ihren Bildschirm in einen anderen Raum übertragen möchten.
 
-## QuattroPod mit WLAN verbinden
+## QuattroPod mit Wi-Fi verbinden
 
 ### Erweiterte Einstellungen öffnen
 
@@ -36,14 +36,14 @@ Für den QuattroPod wird eine Internet-Verbindung in folgenden Fällen benötigt
 
 ![](/assets/img/quattropod.select.network.png)
 
-* Wählen den Punkt `Mit 5GHz WLAN-Router/AP verbinden` aus.
+* Wählen den Punkt `Mit 5GHz Wi-Fi-Router/AP verbinden` aus.
 
 ![](/assets/img/quattropod.select.connect5ghz.png)
 
-* Verbinden Sie den QuattroPod mit Ihrem WLAN-Router.
+* Verbinden Sie den QuattroPod mit Ihrem Wi-Fi-Router.
 
 ![](/assets/img/Wifi_Internet.png)
 
-Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+Wenn der QuattroPod mit Ihrem Wi-Fi verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
 ![](/assets/img/quattroPod.lite.landingpage.IP.png)

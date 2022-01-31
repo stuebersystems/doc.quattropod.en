@@ -1,9 +1,9 @@
-# Was ist neu?
+# What's new?
 
-Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des QuattroPod Standard.
+This chapter gives you an overview of current changes to the QuattroPod M1.
 
 !!! tip "Newsletter"
 
-    Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
+    Always up to date: Subscribe to our [newsletter](https://www.stueber.de/newsletter.php) and learn [here](firmware-upgrade.md) how to update the firmware on your device.
 
 
