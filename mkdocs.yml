@@ -113,7 +113,6 @@ nav:
     - Troubleshooting:
         - Reset Settings: usb/reset.md
         - Reinstall Firmware: usb/firmware-reinstall.md
-        - Captive Portal: usb/captiveportal.md
 - Lite:
     - Introduction: lite/intro.md
     - Quick Start Guide: lite/quickstart.md
