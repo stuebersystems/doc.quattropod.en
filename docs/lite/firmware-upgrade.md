@@ -56,6 +56,81 @@ The update is carried out via the Web interface in any web browser of your choic
 
      If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the units again.
 
+## Update Firmware via internet with CMS
 
+The CMS ([Central Management System](cms.md)) allows you to install the latest firmware either via the Internet or a local download of the firmware on multiple EZCast Pro II or QuattroPod devices.
+
+* When a new firmware is available for the receiver or the transmitter a  ![](/assets/img/CMS-firmware.available.png) icon will appear next to the device:
+
+![](/assets/img/CMS-firmware.OTA.select.devices.png)
+
+* Select the desired devices, then click on the `Remote` button -> and select the option `Device firmware upgrade`.
+
+![](/assets/img/CMS-firmware.install.latest.firmware.png)
+
+* Under the `OTA` tab, simply click on the `Apply` button to perform the update:
+
+![](/assets/img/CMS-firmware.upgrade.OTA.png)
+
+The new firmware is downloaded and installed automatically. 
+
+* While the transmitter is being updated the following message will appear:
+
+![](/assets/img/Update.U01c.png)
+
+* While the receiver is being updated the following message will appear:
+
+![](/assets/img/Update.R01.png)
+
+!!! warning "Warning"
+    
+	Do not interrupt the power supply during the update.
+
+
+![](/assets/img/ProIIStick_Firmware_installing.png)
+
+!!! tip "Tip"
+
+     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the units again.
+	 
+	 
+## Update Firmware without internet with CMS
+
+The CMS ([Central Management System](cms.md)) also allows you to install the latest firmware on devices that are not connected to the internet. Please use the links below to download the firmware for your devices in advance:
+
+Device Type               | Download      |
+------------------------- | ------------------------- | 
+QuattroPod Standard Receiver (LR01) | [Download](firmware-reinstall.md#LR01_install_other_fw)
+
+* Select the desired devices, then click on the `Remote` button -> and select the option `Device firmware upgrade`.
+
+![](/assets/img/CMS-firmware.install.latest.firmware.png)
+
+* Under the `FILE` tab, browse to the firmware file you downloaded earlier:
+
+![](/assets/img/CMS-firmware.upgrade.FILE.png)
+
+* When ready, click on the `Apply` button to perform the update:
+
+![](/assets/img/CMS-firmware.upgrade.FILE.apply.png)
+
+* While the transmitter is being updated the following message will appear:
+
+![](/assets/img/Update.U01c.png)
+
+* While the receiver is being updated the following message will appear:
+
+![](/assets/img/Update.R01.png)
+
+!!! warning "Warning"
+    
+	Do not interrupt the power supply during the update.
+
+
+![](/assets/img/ProIIStick_Firmware_installing.png)
+
+!!! tip "Tip"
+
+     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the units again.
 
 

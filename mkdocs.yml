@@ -235,7 +235,7 @@ nav:
         - Transmitter Operation: deluxe/TX-controls.md
         - Transmitter Pairing: deluxe/pairing.md
         - Touch Back Function: deluxe/touchback.md
-        - Update Firmware: deluxe/firmware-upgrade.md
+    - Update Firmware: deluxe/firmware-upgrade.md
     - Troubleshooting: 
         - Reset Settings: deluxe/reset.md
         - Reinstall Firmware: deluxe/firmware-reinstall.md
