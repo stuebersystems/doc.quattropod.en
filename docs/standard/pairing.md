@@ -1,78 +1,78 @@
-# Sender koppeln
+# Pairing transmitters
 
-Der QuattroPod-Empfänger kann mit Up to 64 Sendern gleichzeitig gekoppelt werden. Die Sender sind mit dem mitgelieferten Empfänger standardmäßig gekoppelt. Sie können jedoch zusätzliche Sender erwerben oder aber Sender mit einem anderen Empfänger benutzen. Dazu müssen die Sender mit dem entsprechenden Empfänger gekoppelt werden.
+The QuattroPod receiver can be paired with up to 32 transmitters simultaneously. The transmitters are paired with the supplied receiver by default. However, you can purchase additional transmitters or use transmitters with a different receiver. To do this, the transmitters must be paired with the corresponding receiver.
 
-Es gibt zwei Möglichkeiten, einen Sender mit einem Empfänger zu koppeln
+There are two ways to pair a transmitter with a receiver
 
-Der Sender wird an den USB-Anschluss des Empfänger anschlossen und die Geräte koppeln sich automatisch. Manche finden diese Option am einfachsten, wenn der Empfänger leicht zu erreichen ist. Falls der Empfänger an der Decke montiert ist oder einfach schwer zu erreichen ist, koppeln Sie den [Sender per USB-Stick](#sender-per-usb-stick-koppeln).
+The transmitter is connected to the USB port of the receiver and the units pair automatically. Some find this option easiest if the receiver is within easy reach. If the receiver is mounted on the ceiling or is simply difficult to reach, pair the [transmitter via USB stick](#sender-per-usb-stick-pair).
 
-* Schalten Sie den Sender auf `PC` um. 
+* Switch the transmitter to 'PC'. 
 
-![Sender auf PC umschalten](/assets/img/Pairing1.jpg)
+![](/assets/img/Pairing1.jpg)
 
-* Schließen Sie den Sender an den USB-Anschluss des Empfängers an und schalten Sie den Empfänger ein.
+* Connect the transmitter to the USB port of the receiver and switch on the receiver.
 
 ![](/assets/img/Pairing2.jpg)
 
-Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods.
+The message **"Pairing... "** automatically appears on the QuattroPod's start page.
 
-![Sender wird mit Empfänger gekoppelt](/assets/img/Pairing3.jpg)
+![](/assets/img/Pairing3.jpg)
 
-Während des Koppelns blinkt der Sender rot und der Empfänger blinkt weiß.
+During pairing, the transmitter flashes red and the receiver flashes white.
 
-![Sender blinkt rot](/assets/img/Pairing4.jpg)
+![](/assets/img/Pairing4.jpg)
 
-Nach ein paar Sekunden ist der Sender mit dem QuattroPod gekoppelt. Der Empfänger und der Sender leuchten weiß. 
+After a few seconds, the transmitter is paired with the QuattroPod. The receiver and the transmitter light up white. 
 
-![Koppeln abgeschlossen. Sender leuchtet weiß](/assets/img/Transmitter_white.jpg)
+![](/assets/img/Transmitter_white.jpg)
 
-Dies wird mit **"Pairing OK"** auf der Startseite bestätigt.
+This is confirmed with **"Pairing OK "** on the start page.
 
-![Koppeln abgeschlossen](/assets/img/Pairing5.jpg)
+![](/assets/img/Pairing5.jpg)
 
-* Der Sender kann nun mit entsprechenden Empfänger benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um: `Mobile` = Smartgeräte, `PC` = Windows/macOS und schließen Sie den Sender mit Ihrem gewünschten Endgerät an.
+* The transmitter can now be used with the corresponding receiver. Finally, switch the transmitter to the desired mode: 'Mobile' = smart devices, 'PC' = Windows/macOS and connect the transmitter with your desired terminal.
 
-![Sender auf Mobile umschalten](/assets/img/Pairing6.jpg)
+![](//assets/img/Pairing6.jpg)
 
 
-## Sender per USB-Stick koppeln
+## Pair transmitter via USB stick
 
-### Kopplungsdatei per Web-Oberfläche herunterladen
+### Download pairing file via web interface
 
-Bei manchen Anlagen, ist der Empfänger außerhalb der Reichweite und benötigt einen großen Aufwand, um zu erreichen. Sie haben aber die Möglichkeit eine Kopplungsdatei herunterzuladen und die Informationen des Empfängers per USB-Stick auf den Sender zu kopieren. Als Dateisystem des USB-Sticks können Sie FAT, FAT32, oder NTFS verwenden.
+With some systems, the receiver is out of range and requires a lot of effort to reach. However, you have the option of downloading a coupling file and copying the receiver's information to the transmitter via USB stick. You can use FAT, FAT32, or NTFS as the file system of the USB stick.
 
-* Entweder laden Sie die Kopplungsdatei `pairingInfo.json` aus dem Menüpunkt `Gerätemanagement` der [Web-Oberfläche](adv.settings.md) herunter 
+* Either download the pairing file 'pairingInfo.json' from the menu item 'Device Management' of the [web interface](adv.settings.md). 
 
-![Kopplungsdatei herunterladen](/assets/img/Pairing7.png)
+![](/assets/img/Pairing7.png)
 
-und kopieren Sie die Datei auf einen USB-Stick. Sie müssen keine anderen Dateien erst löschen.
-**WICHTIG:** Die Kopplungsdatei muss unbedingt an der **Wurzel des USB-Sticks** gespeichert werden. 
+and copy the file to a USB stick. You do not need to delete any other files first.
+**IMPORTANT:** It is essential to save the pairing file at the **root of the USB stick**. 
 
-![Kopplungsdatei auf einen USB-Stick kopieren](/assets/img/Pairing8.png)
+![](/assets/img/Pairing8.png)
 
-### Kopplungsdatei per Empfänger herunterladen
+### Downloading the pairing file via receiver
 
-* Bevor Sie den Empfänger an der Decke montieren oder auch wenn der Empfänger leicht erreichbar ist, können Sie einen USB-Stick in den USB-Anschluss des Empfängers einstecken und den Kopplungsknopf auf der Oberseite des Empfängers drücken. Nach ein Paar Sekunden ist die Kopplungsdatei auf den USB-Stick kopiert und der Kopplungsknopf des Empfängers leuchtet weiß. Diese Datei können Sie in Ihrem Netzwerk bzw. auf dem USB-Stick aufbewahren, bis eine Kopplung benötigt wird.
+* Before mounting the receiver on the ceiling or even when the receiver is easily accessible, you can insert a USB stick into the USB port of the receiver and press the pairing button on the top of the receiver. After a few seconds, the pairing file is copied to the USB stick and the receiver's pairing button lights up white. You can keep this file in your network or on the USB stick until pairing is needed.
 
-![Kopplungsdatei vom Empfänger auf USB-Stick kopieren](/assets/img/Pairing9.jpg)
+![](/assets/img/Pairing9.jpg)
 
-### USB-Stick an den Sender anschließen
+### Connect the USB stick to the transmitter
 
 !!! tip "Tip"
 
-     Dieser Schritt muss im selben Raum bzw. innerhalb Funkreichweite des Empfängers vorgenommen werden.
+     This step must be carried out in the same room or within radio range of the receiver.
 	 
-* Um die Kopplung per USB-Stick zu beginnen, schalten Sie den Sender auf `Mobile` um.
+* To start pairing via USB stick, switch the transmitter to 'Mobile'.
 
-![Sender auf Mobile umschalten](/assets/img/Pairing6.jpg)
+![](/assets/img/Pairing6.jpg)
 
-* Schließen Sie das USB-Kabel des Senders mit einer USB-Stromversorgung (5V1A) an und stecken Sie den USB-Stick in den USB-Anschluss des Senders ein. Die Kopplung beginnt automatisch. Der Sender blinkt rot, weiß, und grün mehrfach in Folge während des Koppelns. Nach ca. 30 Sekunden ist der Sender mit dem QuattroPod-Empfänger gekoppelt. Wenn díe Kopplung fertig ist, leuchtet  der Sender weiß.
+* Connect the transmitter's USB cable with a USB power supply (5V1A) and insert the USB stick into the transmitter's USB port. Pairing starts automatically. The transmitter flashes red, white, and green several times in succession during pairing. After about 30 seconds, the transmitter is paired with the QuattroPod receiver. When pairing is complete, the transmitter lights up white.
 
-![Kopplung abgeschlossen. Sender leuchtet weiß](/assets/img/Pairing10.jpg)
+![](/assets/img/Pairing10.jpg)
 
-* Der Sender kann nun mit dem entsprechenden Empfänger benutzt werden. Schalten Sie zum Schluss den Sender auf den gewünschten Modus um: `Mobile` = Smartgeräte, `PC` = Windows/macOS und schließen Sie den Sender mit Ihrem gewünschten Endgerät an.
+* The transmitter can now be used with the corresponding receiver. Finally, switch the transmitter to the desired mode: 'Mobile' = smart devices, 'PC' = Windows/macOS and connect the transmitter with your desired terminal.
 
-![Sender ist jetzt betriebsbereit](/assets/img/Pairing6.jpg)
+![](/assets/img/Pairing6.jpg)
 
 
 

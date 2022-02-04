@@ -14,7 +14,7 @@ Der Host kann auch die Rolle als „Host“ an andere Teilnehmer zuordnen.
 
 ![](/assets/img/Konferenzsteuerung6.png)
 
-!!! tip "Tip"
+!!! tip "Hinweis"
     
 	Die Funktion Konferenzsteuerung steht über die Web-Oberfläche in einem beliebigen Web-Browser zur Verfügung.
 
@@ -32,19 +32,19 @@ Der Host kann auch die Rolle als „Host“ an andere Teilnehmer zuordnen.
 
 ## Anmeldung
 
-* Make a note of the IP address which is displayed at the bottom left of the landing page.
+* Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
 
 ![](/assets/img/QuattroPod_IP.png)
 
-* Open your preferred web browser.
+* Rufen Sie nun Ihren Web-Browser auf.
 
 ![](/assets/img/Google_Chrome.png)
 
-* Click in the browser address bar and enter the IP address of the QuattroPod then press enter.
+* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des QuattroPods ein.
 
 ![](/assets/img/IP-Address.png)
 
-* The QuattroPod settings interface will appear. Enter the password. By default this is `000000`. If this password is not accepted you must perform a [device reset](reset.md).
+* Nachdem Sie die Eingabetaste gedrückt haben, sollte nun die Einstellungsoberfläche des QuattroPods erscheinen. Geben Sie das Kennwort ein. Standardmäßig lautet es `000000`. Wenn dieses Kennwort nicht akzeptiert wird, müssen die Sie die [Standardeinstellungen zurücksetzen](reset.md).
 
 ![](/assets/img/QuattroPod-Login.png)
 

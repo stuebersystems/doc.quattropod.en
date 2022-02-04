@@ -1,6 +1,6 @@
-# Internet Access
+# Internetzugang
 
-## Wozu braucht der QuattroPod einen Internet Access?
+## Wozu braucht der QuattroPod einen Internetzugang?
 
 Für den QuattroPod wird eine Internet-Verbindung in folgenden Fällen benötigt:
 
@@ -20,13 +20,13 @@ Schließen Sie dazu ein Netzwerkkabel in den `ETHERNET` Anschluss an der Rückse
 
 !!! tip "Bitte beachten"
     
-	Wenn ein LAN-Kabel an der Box angeschlossen ist, wird der Internet Access per Wi-Fi automatisch deaktiviert.
+	Wenn ein LAN-Kabel an der Box angeschlossen ist, wird der Internetzugang per WLAN automatisch deaktiviert.
 
-Wenn der QuattroPod mit Ihrem Wi-Fi verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
 ![](/assets/img/QuattroPod_IP.png)
 
-## QuattroPod mit Wi-Fi verbinden
+## QuattroPod mit WLAN verbinden
 
 ### Erweiterte Einstellungen öffnen
 
@@ -50,14 +50,32 @@ Wenn der QuattroPod mit Ihrem Wi-Fi verbunden ist, wird eine von Ihrem Netzwerk 
 
 ![](/assets/img/quattropod.select.network.png)
 
-* Wählen den Punkt `Mit 5GHz Wi-Fi-Router/AP verbinden` aus.
+* Wählen den Punkt `Mit 5GHz WLAN-Router/AP verbinden` aus.
 
 ![](/assets/img/quattropod.select.connect5ghz.png)
 
-* Verbinden Sie den QuattroPod mit Ihrem Wi-Fi-Router.
+* Verbinden Sie den QuattroPod mit Ihrem WLAN-Router.
 
 ![](/assets/img/Wifi_Internet.png)
 
-Wenn der QuattroPod mit Ihrem Wi-Fi verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
 ![](/assets/img/QuattroPod_IP.png)
+
+## Problembehandlung
+
+### Internet-Router-Signalstärke
+
+Der QuattroPod hat eine Funkreichweite (Sichtlinie) von bis zu 30m. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen der Box und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit dem Stick über Ihre Infrastruktur verbinden.
+
+Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
+
+**1. Problem:** Der Abstand zwischen dem QuattroPod und dem Router bzw. Wireless-Access-Point ist zu groß.
+
+Lösung: Versuchen Sie den Abstand zu reduzieren oder installieren Sie einen zusätzlichen Wireless-Access-Point.
+
+**2. Problem:** Es liegen Wände oder andere Gegenstände zwischen dem QuattroPod und dem Router bzw. dem Wireless-Access-Point, welche die Signalstärke verschlechtern.
+
+Lösung: Stellen Sie sicher, dass der QuattroPod keine Hindernisse zum Router bzw. zum Access-Point hat. Wenn notwendig, installieren Sie einen zusätzlichen Access-Point.
+
+![](/assets/img/QP.Internet.Signal.png)

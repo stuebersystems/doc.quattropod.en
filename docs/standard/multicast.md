@@ -4,7 +4,7 @@ Die Funktion Multicast erlaubt es Ihnen die Bildschirminhalte eines Gerätes mit
 
 Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt auf mehrere Displays zu übertragen. Dabei kann nur ein Teilnehmer auf einmal diese Funktion ausführen.
 
-!!! tip "Tip"
+!!! tip "Hinweis"
     
 	Bitte beachten Sie, dass die Funktion Multicast auf dem [QuattroPod Lite](/lite/intro) nicht unterstützt wird. Jeder QuatroPod Empfänger (Standard, Deluxe, oder Mini), der über Multicast betrieben werden soll, muss entsprechend konfiguriert werden.
 	
@@ -14,7 +14,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 * Unterstützte Empfänger: QuattroPod Standard, QuattroPod Deluxe, oder QuattroPod Mini.
 
-* Sie benötigen einen Wi-Fi Access Point.
+* Sie benötigen einen WLAN Access Point.
 
 * Ihr Router muss die `QuattroPod Sender / Empfänger` [Broadcast-Pakete](/ports.md) annehmen.
 
@@ -22,7 +22,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![](/assets/img/Broadcast_Pakete.png) 
 
-!!! tip "Tip"
+!!! tip "Hinweis"
     
 	Um eine bessere Leistung von Multicast zu erreichen, verbinden Sie den QuattroPod-Empfänger mit dem [Router per LAN-Kabel](internet.md).
 	
@@ -58,7 +58,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![](/assets/img/multicast_option.png)
 
-* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Cast-Gruppe im Feld `Besetzungsgruppe` ein. Schließlich geben Sie die SSID und das Kennwort eines Wi-Fis ein z.B. das Wi-Fi Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
+* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Cast-Gruppe im Feld `Besetzungsgruppe` ein. Schließlich geben Sie die SSID und das Kennwort eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
 
 ![](/assets/img/Cast-Gruppe.png)
 
@@ -66,7 +66,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![](/assets/img/restart.png)
 
-* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene Wi-Fi werden oben angezeigt:
+* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene WLAN werden oben angezeigt:
 
 ![](/assets/img/Multicast_activated.png)
 
@@ -94,6 +94,6 @@ Wenn das Koppeln abgeschlossen ist, erscheint die Meldung **"Pairing OK"**.
 
 ![](/assets/img/QSG-Mini.Transmitter.png)
 
-!!! tip "Tip"
+!!! tip "Hinweis"
     
-	Eine umfassende User Guide wie Sie den Sender an Ihr spezifisches Endgerät anschließen finden Sie in der [Quick Start Guide](quickstart.md#Sender).
+	Eine umfassende Anleitung wie Sie den Sender an Ihr spezifisches Endgerät anschließen finden Sie in der [Schnellstartanleitung](quickstart.md#Sender).

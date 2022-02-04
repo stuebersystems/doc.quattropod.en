@@ -2,7 +2,7 @@
 
 Chromecast ist die Übertragungstechnologie von Google. Mit dem Google Chrome Browser kann man einen Browser-Tab, eine Audio/Video-Datei, oder sogar den gesamten Computerbildschirm auf den QuattroPod schnell und bequem übertragen. 
 
-Der QuattroPod ermöglicht es Up to 4 Windows, Android und ChromeOS-Geräten, über das Chromecast-Protokoll auf einen aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App nutzen zu müssen.
+Der QuattroPod ermöglicht es bis zu 4 Windows, Android und ChromeOS-Geräten, über das Chromecast-Protokoll auf einen aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App nutzen zu müssen.
 
 ![](/assets/img/Chrome_select_stream2.png)
 
@@ -21,7 +21,7 @@ Standardmäßig ist Chromecast auf QuattroPod-Geräten aktiviert. Sollten Sie di
 
 ## Aus dem Chrome-Browser Streamen
 
-Rufen Sie Chrome auf Ihrem Computer auf. Mit dem neusten Google Chrome Browser wird die Funktion **Streamen...** mitgeliefert. Falls der Chrome Browser auf Ihrem Computer nicht vorhanden ist, installieren Sie die Software [hier](http://google.de/chrome) kostenlos.
+Rufen Sie Chrome auf Ihrem Computer auf. Mit dem neuesten Google Chrome Browser wird die Funktion **Streamen...** mitgeliefert. Falls der Chrome Browser auf Ihrem Computer nicht vorhanden ist, installieren Sie die Software [hier](http://google.de/chrome) kostenlos.
 
 Wählen Sie über die drei Punkte oben rechts den Menüpunkt `Streamen...`
 
@@ -47,7 +47,7 @@ Per Rechtsklick kann man Cast-Symbol an die Symbolleiste anheften:
 
 ![Streamen-Symbol immer zeigen](/assets/img/Always_show_icon.png)
 
-## Die Google Home App
+## Die Google Home App (Android)
 
 * In der kostenlosen App `Google Home` suchen Sie den QuattroPod, anschließend wählen Sie die Schaltfläche Bildschirm streamen.
 

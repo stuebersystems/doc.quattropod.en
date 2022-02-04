@@ -136,6 +136,37 @@ QuattroPod Mini Transmitter (T02) | [Download](firmware-reinstall.md#T02_install
 
 
 
+## Update Firmware via USB Stick
+
+This method enables you to update the firmware on your devices via USB stick without requiring a network connection. Once the USB stick has been prepared the update process does not require a computer either.
 
 
+### Update the Receiver (R01) via USB Stick
 
+* Download the latest firmware for your device:
+
+
+Device Type               | Download      |
+------------------------- | ------------------------- | 
+QuattroPod Standard Receiver (R01) | [Download](firmware-reinstall.md#R01_install_other_fw)
+
+* Connect a USB stick to your computer and make sure it is formated FAT32.
+
+* Select the desired devices, then click on the `Remote` button -> and select the option `Device firmware upgrade`.
+
+![](/assets/img/CMS-firmware.install.latest.firmware.png)
+
+* Under the `FILE` tab, browse to the firmware file you downloaded earlier:
+
+![](/assets/img/CMS-firmware.upgrade.FILE.png)
+
+* When ready, click on the `Apply` button to perform the update:
+
+![](/assets/img/CMS-firmware.upgrade.FILE.apply.png)
+
+
+### Update the Mini-Transmitter (T02) via USB Stick
+
+Device Type               | Download      |
+------------------------- | ------------------------- | 
+QuattroPod Mini Transmitter (T02) | [Download](firmware-reinstall.md#T02_install_other_fw)

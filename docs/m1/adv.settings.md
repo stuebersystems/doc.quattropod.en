@@ -1,252 +1,252 @@
 # Erweiterte Einstellungen
 
-Mit der Funktion `Erweiterte Einstellungen` können Sie die Firmware aktualisieren und viele Einstellungen des QuattroPods bequem per Fernzugriff anpassen.
+Mit der Funktion "Erweiterte Einstellungen" können Sie die Firmware aktualisieren und viele Einstellungen des QuattroPod bequem aus der Ferne vornehmen.
 
 ## Erweiterte Einstellungen öffnen
 
-* Um die Web-Oberfläche zu erreichen, verbinden Sie Ihr Endgerät mit der SSID des QuattroPods. Die Zugangsdaten werden oben auf dem Bildschirm angezeigt:
+* Um auf das Webinterface zuzugreifen, verbinden Sie Ihr Endgerät mit der SSID des QuattroPods. Die Zugangsdaten werden oben auf dem Bildschirm angezeigt:
 
 ![](/assets/img/quattropod.ssid.connect.png)
 
-* In die Adressleiste eines Webbrowsers geben Sie die `Direct Link IP` des QuattroPods ein. Die Einstellungsoberfläche des QuattroPods erscheint:
+* Geben Sie in die Adresszeile eines Webbrowsers die "Direct Link IP" des QuattroPod ein. Es erscheint die Einstellungsoberfläche des QuattroPods:
 
 ![](/assets/img/quattropod_directIP.connect.png)
 
-### Sich als Admin anmelden
+### Melden Sie sich als Admin an
 
-* Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#hardreset) zurück.
+* Geben Sie das Admin-Passwort ein und klicken Sie auf "OK", um sich anzumelden. Standardmäßig lautet das Passwort `000000`. Wenn dieses Passwort nicht akzeptiert wird, setzen Sie das Gerät mit [reset switch](reset.md#hardreset) zurück.
 
 ![](/assets/img/QuattroPod-Login.png)
 
-Die folgenden Funktionen stehen zur Verfügung:
+Die folgenden Funktionen sind verfügbar:
 
 ![](/assets/img/Mainmenu.png)
 
-## Android APK herunterladen {#Android_APK_herunterladen}
+## Android APK herunterladen {#Android_APK_download}
 
-Nutzen Sie diese Option, um die Android-APK-Datei vom Empfänger herunterzuladen und die QuattroPod-App auf einem Android-Gerät "per Hand" zu installieren. Bei der Ausführung einer APK-Datei könnte eine Genehmigung aus Sicherheitsgründen in z.B. `Einstellungen | Sicherheit` benötigt werden.
+Verwenden Sie diese Option, um die Android APK-Datei vom Receiver herunterzuladen und die QuattroPod-App "von Hand" auf einem Android-Gerät zu installieren. Wenn Sie eine APK-Datei ausführen, kann aus Sicherheitsgründen eine Genehmigung erforderlich sein, z.B. unter "Einstellungen | Sicherheit".
 
 ![Android APK herunterladen](/assets/img/quattropod.select.android.png)
 
-## Netzwerkmanagement {#Netzwerkmanagement}
+## Netzwerkverwaltung {#Netzwerkverwaltung}
 
 ![](/assets/img/Network_Management.png)
 
-### Mit 5Ghz Wi-Fi-Router/AP verbinden {#Wireless_Access_Point}
+### Verbindung mit 5Ghz Wi-Fi Router/AP {#Wireless_Access_Point}
 
-Wenn Sie den QuattroPod lieber per Wireless Access Point verbinden, um auf das Internet zuzugreifen, finden Sie die Möglichkeit dazu hier.
+Wenn Sie es vorziehen, den QuattroPod über einen drahtlosen Zugangspunkt mit dem Internet zu verbinden, finden Sie hier die entsprechende Option.
 
 ![](/assets/img/Wifi_Internet.png)
 
 ### Wi-Fi merken
 
-Legt fest, ob der QuattroPod mit dem [Wireless Access Point](#Wireless_Access_Point) nach einem Neustart automatisch verbunden werden soll.
+Legt fest, ob sich der QuattroPod nach einem Neustart automatisch mit dem [Wireless Access Point](#Wireless_Access_Point) verbinden soll.
 
 ![](/assets/img/Remember_Wifi.png)
 
-## Gerätemanagement {#Geraetemanagement}
+## Geräteverwaltung {#Geräteverwaltung}
 
-Dieser Bereich hilft Ihnen, die [Sprache](#Sprache) der Benutzeroberfläche, die [Auflösung](#Auflösung) oder die Angabe [Max. Verbindungen](#MaxVerbindungen) zu wechseln. Außerdem können Sie für Empfänger und Sender die [Kopplungsdatei herunterladen](#Kopplungsdatei_herunterladen).
+In diesem Abschnitt können Sie die [Sprache](#Language) der Benutzeroberfläche, die [Auflösung](#Resolution) oder die [Max. Connections](#MaxConnections) ändern. Sie können auch die [Pairing-Datei](#DownloadPairingFile) für den Empfänger und den Sender herunterladen.
 
-### Sprache {#Sprache}
+### Sprache {#Language}
 
-Unter Sprache wählen die gewünschte Anzeigesprache der Web-Oberfläche aus.
+Wählen Sie unter Sprache die gewünschte Anzeigesprache der Weboberfläche.
 
 ![](/assets/img/Select_language.jpg)
 
 ### Auflösung {#Auflösung}
 
-Hier wählen Sie die Ausgabeauflösung des QuattroPods aus. Sie können entweder eine bestimmte Auflösung auswählen oder wählen Sie einfach `Auto` und der QuattroPod stellt die optimale Auslösung für Ihren Bildschirm automatisch ein.
+Hier wählen Sie die Ausgabeauflösung des QuattroPods. Sie können entweder eine bestimmte Auflösung auswählen oder einfach 'Auto' wählen und der QuattroPod stellt automatisch die optimale Auflösung für Ihren Bildschirm ein.
 
-| Standard | Auflösung|
+| Standard | Auflösung
 | :------------- |:-----:|
-| HD | 1280 × 720 |
-| Full-HD | 1920 × 1080 |
-| 4K UHD | 3840 × 2160 |
-| DCI 4K | 4096 × 2160 |
+| HD | 1280 × 720 |
+| Full-HD | 1920 × 1080 |
+| 4K UHD | 3840 × 2160 |
+| DCI 4K | 4096 × 2160 |
 
 
 ![](/assets/img/resolution.png)
 
-### Max. Verbindungen {#MaxVerbindungen}
+### Max. Verbindungen {#MaxConnections}
 
-Hier geben Sie die maximale Benutzeranzahl des Empfängers an.
+Hier geben Sie die maximale Anzahl der Benutzer des Empfängers an.
 
 ![](/assets/img/Max_connections.png)
 
-### Android Audioübertragung {#Androidsoundstreaming}
+### Android Audioübertragung {#Android Sound Streaming}
 
-Hier aktivieren Sie Android Sound Streaming über die Android App.
+Hier aktivieren Sie das Android-Soundstreaming über die Android-App.
 
 ![](/assets/img/Android-Audio-Streaming.png)
 
 ### Anzeigemodus {#Anzeigemodus}
 
-Hier legen Sie fest, ob die Anzeige Ihres Endgeräts auf dem externen Bildschirm bzw. auf dem Beamer im `Original` oder im `Vollbild` angezeigt werden soll.
+Hier legen Sie fest, ob das Display Ihres Endgerätes auf dem externen Bildschirm oder auf dem Beamer in `Original` oder `Vollbild` angezeigt werden soll.
 
 ![](/assets/img/QuattroPod.display.mode.jpg)
 
 #### Original
 
-Mit Original-Modus wird das ursprüngliche Seitenverhältnis des Endgeräts z.B. eines iPads auf dem externen Bildschirm bzw. auf dem Beamer angezeigt:
+Im Originalmodus wird das ursprüngliche Seitenverhältnis des Endgerätes, z.B. eines iPads, auf dem externen Bildschirm oder auf dem Beamer dargestellt:
 
 ![Das iPad wird im Original angezeigt](/assets/img/NEC_E506_Original.png)
 
 #### Vollbild
 
-Mit Vollbild-Modus wird die Eingabe des Endgeräts automatisch angepasst, um das gleiche Seitenverhältnis wie der externe Bildschirm bzw. der Beamer zu haben:
+Im Vollbildmodus wird die Eingabe des Endgeräts automatisch so angepasst, dass sie das gleiche Seitenverhältnis wie der externe Bildschirm oder der Beamer hat:
 
-![Das iPad wird im Vollbild angezeigt](/assets/img/NEC_E506_Vollbild.png)
+![Das iPad wird im Vollbildmodus angezeigt](/assets/img/NEC_E506_Fullscreen.png)
 
 ### Zeitgesteuerter Neustart
 
-Um die Leistung des QuattroPods zu optimieren, insbesondere bei Geräten, die dauerhaft im Betrieb sind, schalten Sie die Option `Zeitgesteurter Neustart` **EIN**. Der Empfänger startet sich automatisch neu, wenn die folgenden Bedingungen zutreffen:
+Um die Leistung des QuattroPod zu optimieren, insbesondere bei Geräten, die im Dauerbetrieb sind, schalten Sie die Option 'Zeitgesteuerter Neustart' **EIN**. Der Empfänger wird automatisch neu gestartet, wenn die folgenden Bedingungen zutreffen:
 
-* Der QuattroPod war 8 Stunden nicht im Betrieb. 
-* Alle Sender sind mind. 8 Stunden ausgeschaltet.
-* Weder AirPlay noch die Android App wurden seit 8 Stunden verwendet.
-* Die Web-Oberfläche der Einstellungen wurde 8 Stunden nicht verwendet.
+* Der QuattroPod ist seit 8 Stunden nicht mehr in Betrieb gewesen. 
+* Alle Sender sind seit mindestens 8 Stunden ausgeschaltet.
+* Weder AirPlay noch die Android-App wurden 8 Stunden lang verwendet.
+* Die Weboberfläche der Einstellungen wurde seit 8 Stunden nicht mehr benutzt.
 
 ![Zeitgesteuerter Neustart einschalten](/assets/img/receive.autorestart.png)
 
-## Admineinstellungen {#Admineinstellungen}
+## Admin-Einstellungen {#Admin-Einstellungen}
 
-In diesem Bereich können Sie den QuattroPod auf die neuste Firmware aktualisieren, auf Standardeinstellungen zurücksetzen und andere erweiterten Einstellungen setzen.
+In diesem Abschnitt können Sie den QuattroPod auf die neueste Firmware aktualisieren, auf die Standardeinstellungen zurücksetzen und andere erweiterte Einstellungen vornehmen.
 
-### Wi-Fi-Kanal {#WiFi-Mode}
+### Wi-Fi-Kanal {#WiFi-Modus}
 
-Um störende Wi-Fi-Signale zu vermeiden, können Sie den Wi-Fi-Modus anpassen.
+Um störende Wi-Fi-Signale zu vermeiden, können Sie den Wi-Fi-Modus einstellen.
 
-![](/assets/img/Wifi-Modus.png)
+![](/assets/img/Wifi-Mode.png)
 
-### LAN IP-Einstellungen {#LAN-IP-Einstellungen}
+### LAN IP-Einstellungen {#LAN IP-Einstellungen}
 
-Eine statische IP-Adresse für den LAN-Anschuss des Empfängers vergeben.
+Weisen Sie eine statische IP-Adresse für den LAN-Anschluss des Empfängers zu.
 
 ![](/assets/img/LAN_IP_Settings.jpg)
 
 ### SSID-Name {#SSID}
 
-Hier können Sie die SSID des Empfängers umbenennen, verstecken, oder ausschalten.
+Hier können Sie die SSID des Receivers umbenennen, ausblenden oder ausschalten.
 
 ![](/assets/img/SSID.jpg)
 
-### Kennwort (fürs Wi-Fi) {#Wi-Fi-Kennwort}
+### Passwort (für Wi-Fi) {#Wi-Fi Passwort}
 
-Aus Sicherheitsgründen kann das Kennwort geändert oder versteckt werden.
+Aus Sicherheitsgründen kann das Passwort geändert oder versteckt werden.
 
-![](/assets/img/Password.jpg)
+![](/assets/img/Passwort.jpg)
 
-### Mein Bildschirm {#Mein-Bildschirm}
+### Mein Bildschirm {#Mein Bildschirm}
 
-Wenn gewünscht, kann man das Bild der Startseite austauschen. Dies ist eine dauerhafte Änderung. Nach dem Einspielen eines neuen Bildes kann das vorherige Bild nicht wiederhergestellt werden, auch bei einem [Zurücksetzen der Einstellungen](reset.md) des Empfängers.
+Falls gewünscht, können Sie das Bild der Startseite ändern. Dies ist eine permanente Änderung. Sobald ein neues Bild hinzugefügt wurde, kann das vorherige Bild nicht wiederhergestellt werden, auch nicht mit einem [Reset Settings](reset.md) des Receivers.
 
-Einen Download der von uns mitgelieferten Startseite finden Sie [hier](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png).
+Einen Download der von uns bereitgestellten Startseite finden Sie [hier](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png).
 
 ![](/assets/img/My_Screen.jpg)
 
-### Host-Kontrolle {#Host-Control}
+### Host Control {#Host Control}
 
-**Antrag automatisch genehmigen**
+**Automatische Genehmigung der Anwendung**
 
-Der erste sich verbindende Benutzer wird als Gastgeber (Host) bezeichnet und die anderen als Gäste. Standardmäßig muss jeder Antrag zum Senden vom Host genehmigt werden, im dem er die Seitetaste seines Senders drückt. Wenn `Antrag automatisch genehmigen` auf `On` eingestellt ist, wird der Antrag zum Senden automatisch genehmigt. Mehr zu diesem Thema finden Sie im Kapitel [Sender bedienen](TX-controls.md).
+Der erste Benutzer, der eine Verbindung herstellt, wird als Gastgeber und die anderen als Gäste bezeichnet. Standardmäßig muss jede Sendeanfrage vom Gastgeber durch Drücken der Seitentaste des Absenders genehmigt werden. Wenn die Option 'Auto-Approve Request' auf 'On' gesetzt ist, wird die Sendeanfrage automatisch genehmigt. Weitere Informationen zu diesem Thema finden Sie im Kapitel [Bedienung von Sendern](TX-controls.md).
 
-**Bildschirm teilen**
+**Freigabebildschirm**
 
-Standardmäßig ist diese Funktion freigeschaltet. Dies bedeutet, dass der Bildschirm geteilt wird, um Up to vier Geräte gleichzeitig zu zeigen, auch bekannt als Splitscreen-Modus. Wenn `Bildschirm teilen` aus ist, übernimmt der nächste genehmigte Sender im Vollbildmodus.
+In der Standardeinstellung ist diese Funktion aktiviert. Dies bedeutet, dass der Bildschirm geteilt wird, um bis zu vier Geräte gleichzeitig anzuzeigen, auch bekannt als geteilter Bildschirm. Wenn `Split Screen` ausgeschaltet ist, übernimmt der nächste freigegebene Kanal im Vollbildmodus.
 
 ![](/assets/img/host_control.jpg)
 
 ### AirPlay {#AirPlay}
 
-Mit einem iOS/macOS Gerät können Sie Ihren Bildschirminhalt auch direkt per Apple AirPlay übertragen. Das bedeutet, Sie benötigen in diesem Fall keinen QuattroPod-Sender. Diese Funktion ist 'out-the-box' freigegeben. Jedoch, bei einem Zurücksetzen des Empfängers wird die Funktion deaktiviert.
+Mit einem iOS/macOS-Gerät können Sie Ihre Bildschirminhalte auch direkt über Apple AirPlay übertragen. Das heißt, Sie benötigen in diesem Fall keinen QuattroPod Sender. Diese Funktion ist "out-of-the-box" aktiviert. Wenn Sie den Receiver jedoch zurücksetzen, wird die Funktion deaktiviert.
 
 ![](/assets/img/AirPlay.png)
 
 
-### Admin-Kennwort {#AdminKennwort}
+### Admin Passwort {#AdminPassword}
 
-Das Admin-Kennwort des Empfängers ändern.
+Ändert das Admin-Passwort des Empfängers.
 
 ![](/assets/img/admin_password.png)
 
-### Bildschirmschoner {#Bildschirmschoner}
+### Bildschirmschoner {#Screensaver}
 
-Bildschirm bzw. die HDMI-Ausgabe des Empfängers nach einer bestimmten Zeit der Inaktivität ausschalten. Standardmäßig ist diese Funktion deaktiviert.
+Schalten Sie den Bildschirm oder den HDMI-Ausgang des Empfängers nach einer bestimmten Zeit der Inaktivität aus. In der Standardeinstellung ist diese Funktion deaktiviert.
 
 ![](/assets/img/screensaver.jpg)
 
-Inaktivität bedeutet, dass die Startseite auf dem Bildschirm angezeigt wird und keine Sender  Inhalte übertragen.
+Inaktivität bedeutet, dass der Startbildschirm auf dem Bildschirm angezeigt wird und keine Sender Inhalte übertragen.
 
-![Inaktivität beginnt, wenn die Startseite angezeigt wird](/assets/img/QuattroPod_Startseite.png)
+![Inaktivität beginnt, wenn die Startseite angezeigt wird](/assets/img/QuattroPod_Startpage.png)
 
-Während der Bildschirmschoner läuft, bleibt der Empfänger im Betrieb. Die Web-Oberfläche ist erreichbar und die Sender können noch verbunden werden.
+Während der Bildschirmschoner läuft, bleibt der Empfänger in Betrieb. Das Webinterface ist zugänglich und die Sender können weiterhin verbunden werden.
 
-Sie können den Empfänger aufwecken bzw. die HDMI-Ausgabe wiederherstellen, indem Sie Inhalte vom Sender erneut übertragen.
+Sie können den Receiver aufwecken oder die HDMI-Ausgabe wiederherstellen, indem Sie Inhalte vom Sender erneut übertragen.
 
-### Enterprise-Wi-Fi
+### Enterprise Wi-Fi
 
-Ein digitales Zertifikat hochladen.
+Laden Sie ein digitales Zertifikat hoch.
 
 ![](/assets/img/quattropod.digital_certificate.png)
 
-### Festgelegter Host
+### Bestimmter Host
 
-Legen Sie einen bestimmten Benutzer bzw. einen Sender fest, dass sich immer als Host der Präsentation bezeichnet wird. Eine umfassende Anleitung zu diesem Thema finden Sie [hier](fixedhost.md).
+Legen Sie einen bestimmten Benutzer oder eine Station fest, der/die immer der Gastgeber der Präsentation ist. Eine ausführliche Bedienungsanleitung zu diesem Thema finden Sie [hier](fixedhost.md).
 
 ![](/assets/img/QuattroPod_Fixedhost.Select.jpg)
 
 ## Google Cast (ChromeCast)
 
-Die Übertragung von ChromeCast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Chromecast finden Sie [hier](chromecast.md).
+Unterstützung der Übertragung von ChromeCast-Geräten. Eine umfassende Anleitung zur Verwendung von Chromecast finden Sie [hier](chromecast.md).
 
 ![](/assets/img/Chromecast-support.png)
 
 ### Castcode-Kontrolle
 
-Legen Sie fest, ob jeder Gast per die Android-App bzw. per AirPlay einen vierstelligen Code eingeben muss, um Inhalte übertragen zu dürfen.
+Legen Sie fest, ob jeder Gast einen vierstelligen Code über die Android-App oder über AirPlay eingeben muss, um Inhalte übertragen zu dürfen.
 
-* `AUS` - Kein Passcode wird benötigt
-* `Zufällig` - Zufällig (erneut sich automatisch beim Einschalten bzw. beim Neustart)
-* `Fest` - Einen festen Castcode angeben
+* `OFF` - Es ist kein Passcode erforderlich
+* `Random` - Zufällig (erscheint automatisch wieder, wenn das Gerät eingeschaltet oder neu gebootet wird).
+* `Fest` - Geben Sie einen festen Besetzungscode an.
 
-Der Castcode wird hier angezeigt:
+Der Besetzungscode wird hier angezeigt:
 
-![Der Castcode](/assets/img/QuattroPod_Castcode.png)
+![Der Besetzungscode](/assets/img/QuattroPod_Castcode.png)
 
 ### Upgrade
 
-Sie können die Firmware der Empfänger und Sender aktualisieren, um die neuesten Erweiterungen und Funktionen nutzen zu können. Eine umfassende Anleitung zur Aktualisierung finden Sie [hier](firmware-upgrade.md).
+Sie können die Firmware von Empfängern und Sendern aktualisieren, um die neuesten Verbesserungen und Funktionen zu nutzen. Eine ausführliche Anleitung für das Upgrade finden Sie [hier](firmware-upgrade.md).
 
-### Kopplungsdatei herunterladen {#Kopplungsdatei_herunterladen}
+### Pairing-Datei herunterladen {#download_pairing_file}
 
-Laden Sie die Kopplungsdatei herunter, um einen Sender mit dem Empfänger per USB-Stick zu koppeln, wenn der Empfänger an der Decke montiert ist oder einfach schwer zu erreichen ist. Weitere Informationen hierzu finden Sie im Abschnitt [Sender koppeln](pairing.md).
+Laden Sie die Pairing-Datei herunter, um einen Sender über einen USB-Stick mit dem Empfänger zu koppeln, wenn der Empfänger an der Decke montiert oder einfach schwer zu erreichen ist. Weitere Informationen finden Sie im Abschnitt [pairing transmitter](pairing.md).
 
 ![](/assets/img/pairing_file.jpg)
 
 ### Multicast {#Multicast}
 
-Nutzen Sie diese Funktion, um den Empfänger im Multicast-Modus zu starten. Eine umfassende Anleitung zu diesem Thema finden Sie [hier](multicast.md).
+Verwenden Sie diese Funktion, um den Empfänger im Multicast-Modus zu starten. Ein ausführliches Benutzerhandbuch zu diesem Thema finden Sie [hier](multicast.md).
 
-![Neustarten](/assets/img/Cast-Gruppe.png)
+![Restart](/assets/img/Cast-Group.png)
 
-### Neustarten {#Neustarten}
+### Neustart {#Restart}
 
-Nutzen Sie diese Funktion, um den Empfänger neu zu starten.
+Verwenden Sie diese Funktion, um den Empfänger neu zu starten.
 
-![Neustarten](/assets/img/restart.jpg)
+![Neustart](/assets/img/restart.jpg)
 
-### Auf Standardeinstellungen zurücksetzen {#zuruecksetzen}
+### Auf Standardeinstellungen zurücksetzen {#reset}
 
-Nutzen Sie diese Funktion, um den Empfänger und die Sender auf die Standardeinstellungen zurückzusetzen. Dies beeinflusst weder das [Hintergrundbild](#Mein-Bildschirm) der Startseite, die [SSID](#SSID), noch die Firmware-Version.
+Verwenden Sie diese Funktion, um den Empfänger und die Sender auf die Standardeinstellungen zurückzusetzen. Dies hat keinen Einfluss auf das [Hintergrundbild](#MyScreen) des Startbildschirms, die [SSID](#SSID) oder die Firmware-Version.
 
-Wenn Ihr Sender sich dach dem Zurücksetzen nicht freischalten lässt, überprüfen Sie den [Empfänger](quickstart.md#setup) und [kopplen](pairing.md) Sie den Sender mit dem Empfänger neu.
+Wenn sich Ihr Sender nach dem Zurücksetzen nicht entsperren lässt, überprüfen Sie den [receiver](quickstart.md#setup) und [pair](pairing.md) den Sender erneut mit dem Empfänger.
 
-![Auf Standardeinstellungen zurücksetzen](/assets/img/reset_settings.png)
+[Auf Standardeinstellungen zurücksetzen](/assets/img/reset_settings.png)
 
-## Über das Gerät {#Ueber}
+## Über das Gerät {#About}
 
-Nutzen Sie diese Option, um eine Übersicht des QuattroPods, aller verbundenen Sender und Netzwerkinformationen dazu zu erhalten.
+Verwenden Sie diese Option, um einen Überblick über den QuattroPod, alle angeschlossenen Sender und deren Netzwerkinformationen zu erhalten.
 
 ![Über](/assets/img/About.jpg)
 
