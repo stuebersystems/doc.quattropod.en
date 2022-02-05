@@ -4,7 +4,7 @@
 
 In order to benefit from all the latest QuattroPod features you can install the latest firmware update quickly and conveniently via the Internet. When you install a new firmware, the previous settings will be included.
 
-You will need [Internet Access](internet.md). When the QuattroPod is connected to your LAN or to your WLAN, an IP address assigned by your network called `Infrustructure IP` will be displayed on the screen as shown below:
+You will need [Internet Access](internet.md). When the QuattroPod is connected to your LAN or to your Wi-Fi, an IP address assigned by your network called `Infrustructure IP` will be displayed on the screen as shown below:
 
 ![](/assets/img/QuattroPod_IP.png)
 
@@ -56,6 +56,129 @@ The update is carried out via the Web interface in any web browser of your choic
     
 	If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the units again.
 
+## Update Firmware via internet with CMS
+
+The CMS ([Central Management System](cms.md)) allows you to install the latest firmware either via the Internet or a local download of the firmware on multiple EZCast Pro II or QuattroPod devices.
+
+* When a new firmware is available for the receiver or the transmitter a  ![](/assets/img/CMS-firmware.available.png) icon will appear next to the device:
+
+![](/assets/img/CMS-firmware.OTA.select.devices.png)
+
+* Select the desired devices, then click on the `Remote` button -> and select the option `Device firmware upgrade`.
+
+![](/assets/img/CMS-firmware.install.latest.firmware.png)
+
+* Under the `OTA` tab, simply click on the `Apply` button to perform the update:
+
+![](/assets/img/CMS-firmware.upgrade.OTA.png)
+
+The new firmware is downloaded and installed automatically. 
+
+* While the transmitter is being updated the following message will appear:
+
+![](/assets/img/Update.U01c.png)
+
+* While the receiver is being updated the following message will appear:
+
+![](/assets/img/Update.R01.png)
+
+!!! warning "Warning"
+    
+	Do not interrupt the power supply during the update.
+
+
+![](/assets/img/ProIIStick_Firmware_installing.png)
+
+!!! tip "Tip"
+
+     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the units again.
+	 
+	 
+## Update Firmware without internet with CMS
+
+The CMS ([Central Management System](cms.md)) also allows you to install the latest firmware on devices that are not connected to the internet. Please use the links below to download the firmware for your devices in advance:
+
+Device Type               | Download      |
+------------------------- | ------------------------- | 
+QuattroPod Standard Receiver (R01) | [Download](firmware-reinstall.md#R01_install_other_fw)
+QuattroPod Mini Transmitter (T02) | [Download](firmware-reinstall.md#T02_install_other_fw)
+
+* Select the desired devices, then click on the `Remote` button -> and select the option `Device firmware upgrade`.
+
+![](/assets/img/CMS-firmware.install.latest.firmware.png)
+
+* Under the `FILE` tab, browse to the firmware file you downloaded earlier:
+
+![](/assets/img/CMS-firmware.upgrade.FILE.png)
+
+* When ready, click on the `Apply` button to perform the update:
+
+![](/assets/img/CMS-firmware.upgrade.FILE.apply.png)
+
+* While the transmitter is being updated the following message will appear:
+
+![](/assets/img/Update.U01c.png)
+
+* While the receiver is being updated the following message will appear:
+
+![](/assets/img/Update.R01.png)
+
+!!! warning "Warning"
+    
+	Do not interrupt the power supply during the update.
+
+
+![](/assets/img/ProIIStick_Firmware_installing.png)
+
+!!! tip "Tip"
+
+     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the units again.
 
 
 
+## Update Firmware via USB Stick
+
+This method enables you to update the firmware on your devices via USB stick without requiring a network connection. Once the USB stick has been prepared the update process does not require a computer either.
+
+
+### Update the Receiver (R01) via USB Stick
+
+* Download the latest firmware for your device:
+
+
+Device Type               | Download      |
+------------------------- | ------------------------- | 
+QuattroPod Standard Receiver (R01) | [Download](firmware-reinstall.md#R01_install_other_fw)
+
+* Connect a USB stick to your computer and make sure it is formated FAT32.
+
+* Copy the firmware to the USB stick. Then rename the firmware to `install_ota.gz`. 
+
+* Download the file [lazymaclist](https://download.stueber.de/doc/de/support/lazymaclist) on the USB stick. Both files should be saved to the root directory:
+
+![](/assets/img/usb.fw.structure.png)
+
+* Now safely eject the USB stick from your computer.
+
+* Turn on the QuattroPod receiver and make sure the landing page is displayed:
+
+![](/assets/img/quattropod.landingpage.png)
+
+* Plug the USB into the USB A port found on the back of the QuattroPod receiver.
+
+![](/assets/img/CMS-firmware.install.latest.firmware.png)
+
+* Within a few seconds the following message will be displayed. After approprimates 30 secs the firmware installation will begin:
+
+![](/assets/img/CMS-firmware.upgrade.FILE.png)
+
+* When ready, click on the `Apply` button to perform the update:
+
+![](/assets/img/CMS-firmware.upgrade.FILE.apply.png)
+
+
+### Update the Mini-Transmitter (T02) via USB Stick
+
+Device Type               | Download      |
+------------------------- | ------------------------- | 
+QuattroPod Mini Transmitter (T02) | [Download](firmware-reinstall.md#T02_install_other_fw)

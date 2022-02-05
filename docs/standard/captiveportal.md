@@ -1,17 +1,17 @@
-## Was ist Captive Portal?
+## What is Captive Portal?
 
-Ein Captive Portal präsentiert dem Benutzer eine Anmeldeseite, die sich nach der Erstverbindung mit dem WLAN automatisch öffnet. Er muss die Nutzungsbedingungen akzeptieren, bevor er auf das WLAN-Netzwerk der Schule bzw. des Unternehmens zugreifen darf. In manchen Fällen kann das Captive Portal einen Benutzernamen und ein Kennwort erfordern. Die Verwendung eines Captive Portals gibt einer Schule bzw. einem Hotel erhöhte Kontrolle über ihre Bandbreite und bietet gleichzeitig individuell anpassbare Grenzen dafür, wie lange Benutzer mit Ihrem Netzwerk verbunden bleiben können.
+A captive portal presents the user with a login page that opens automatically after the initial connection to the Wi-Fi. He or she must accept the terms of use before being allowed to access the school's or company's Wi-Fi network. In some cases, the captive portal may require a username and password. Using a captive portal gives a school or hotel increased control over its bandwidth while providing customisable limits on how long users can stay connected to your network.
 
-![Captive Portal im Einsatz in einer Schule](/assets/img/captiveportal.login.png)
+![Captive Portal in use in a school](/assets/img/captiveportal.login.png)
 
-## Kann der QuattroPod sich in einem Captive Portal anmelden?
+## Can the QuattroPod log into a Captive Portal?
 
-Da ein Captive Portal ein manuelles Eingeben der Zugangsdaten benötigt, kann der QuattroPod sich nicht in einem Captive Portal anmelden. Jedoch, es ist möglich den QuattroPod in Ihre Infrastruktur zu integrieren, in dem Sie eine `MAC-Authentifizierung` als eine Ausnahme auf Ihrem Router bzw. auf Ihrer Firewall erstellen, damit dieser Schritt entfällt.
+Since a captive portal requires manual entry of credentials, the QuattroPod cannot log into a captive portal. However, it is possible to integrate the QuattroPod into your infrastructure by creating a 'MAC authentication' exception on your router or firewall to eliminate this step.
 
-* Die MAC-Adresse des QuattroPods ist im Rubrik `Über das Gerät` in den [Erweiterten Einstellungen](adv.settings.md) zu finden:
+* The MAC address of the QuattroPod can be found in the 'About' section of the [Advanced Settings](adv.settings.md):
 
-![MAC-Adresse im Rubrik Über](/assets/img/D10.About.MAC.jpg)
+![MAC address in the About section](/assets/img/D10.About.MAC.jpg)
 
-Eine MAC-Adresse ist die bessere Wahl als die Verwendung einer IP-Adresse, da sich die MAC-Adresse nicht ändert. 
+A MAC address is a better choice than using an IP address because the MAC address does not change. 
 
-* Bitte wenden Sie sich an Ihre IT-Abteilung, um die MAC-Adresse des QuattroPods zuzulassen.
+* Please contact your IT department to allow the MAC address of the QuattroPod.

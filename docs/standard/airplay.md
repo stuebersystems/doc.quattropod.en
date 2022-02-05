@@ -2,15 +2,15 @@
 
 AirPlay ist die Übertragungstechnologie von Apple zur kabellosen Übertragung von Apple-Geräten auf AirPlay-fähige Empfängergeräte wie Lautsprecher, AV-Empfänger, Stereosysteme und Fernseher.
 
-Der QuattroPod ermöglicht es Up to vier macOS und iOS-Geräten, über das AirPlay-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App zu benötigen.
+Der QuattroPod ermöglicht es bis zu vier macOS und iOS-Geräten, über das AirPlay-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App zu benötigen.
 
 !!! info "iOS-Gerät-Bildschirmübertragung mit QuattroPod"
 
-    [![QuattroPod Introduction Video][1]{: align=left }][2]
+    [![QuattroPod Einführungsvideo][1]{: align=left }][2]
 	
 	Ein kurzes Video, das die Bildschirmübertragung per iPhone vorstellt.
 	
-	[View YouTube-Video][2]
+	[Zum YouTube-Video][2]
 
   [1]: /assets/img/thumbnail.video.airplay.png
   [2]: https://youtu.be/UL4Q-drCmQo
@@ -37,15 +37,15 @@ Auf Ihrem iOS-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das 
 
 Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend wählen Sie den QuattroPod aus.
 
-!!! tip "Tip"
+!!! tip "Hinweis"
 
-     Wenn der QuattroPod Empfänger unter AirPlay nicht zu sehen ist, stellen Sie sicher, dass Ihr iOS-Gerät mit dem Empfänger verbunden ist.
+     Wenn der QuattroPod Empfänger unter AirPlay nicht zu sehen ist, stellen Sie sicher, dass Ihr iOS-Gerät mit dem Empfänger verbunden ist. AWDL (Apple Wireless Direct Link) ist Apples proprietäres Mesh-Netzwerkprotokoll, mit dem Apple-Geräte im Nahbereich Ad-hoc-Peer-to-Peer-Mesh-Netzwerke nutzen können. Dieses Protokoll wird für QuattroPod Geräte nicht verwendet.
 
 ![Der QuattroPod Empfänger](/assets/img/iOS_AirPlay_select.png)
 
-Um die Übertragung von AirPlay vom iOS-Gerät zu beenden, tippen Sie nochmal auf `Bildschirmsynchronisierung` im Kontrollzentrum, anschließend wählen Sie `AirPlay-Synchr. ausschalten` aus.
+Um die Übertragung von AirPlay vom iOS-Gerät zu beenden, tippen Sie nochmal auf `Bildschirmsynchronisierung` im Kontrollzentrum, anschließend wählen Sie `Synchronisierung stoppen` aus.
 
-![AirPlay-Synchr. ausschalten](/assets/img/iOS_AirPlay_stop.png)
+![Synchronisierung stoppen](/assets/img/iOS_AirPlay_stop.png)
 
 ## AirPlay auf macOS
 

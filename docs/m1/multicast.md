@@ -14,7 +14,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 * Unterstützte Empfänger: QuattroPod Standard, QuattroPod Deluxe, oder QuattroPod Mini.
 
-* Sie benötigen einen WLAN Access Point.
+* Sie benötigen einen Wi-Fi Access Point.
 
 * Ihr Router muss die `QuattroPod Sender / Empfänger` [Broadcast-Pakete](/ports.md) annehmen.
 
@@ -58,7 +58,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![](/assets/img/multicast_option.png)
 
-* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Cast-Gruppe im Feld `Besetzungsgruppe` ein. Schließlich geben Sie die SSID und das Kennwort eines WLANs ein z.B. das WLAN Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
+* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Cast-Gruppe im Feld `Besetzungsgruppe` ein. Schließlich geben Sie die SSID und das Kennwort eines Wi-Fis ein z.B. das Wi-Fi Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
 
 ![](/assets/img/Cast-Gruppe.png)
 
@@ -66,7 +66,7 @@ Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt
 
 ![](/assets/img/restart.png)
 
-* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene WLAN werden oben angezeigt:
+* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene Wi-Fi werden oben angezeigt:
 
 ![](/assets/img/Multicast_activated.png)
 

@@ -1,48 +1,61 @@
-# Touch-Back-Funktion
+# Touch-back function
 
-Die Touch-Back-Funktion des QuattroPods erlaubt Ihnen Gesten mit Up to 10-Fingern eines Multitouch-fähigen Bildschirms drahtlos an einen Windows Computer zurückzusenden. Alle bekannten Windows Touch-Gesten werden unterstützt.
+The touch-back function of the QuattroPod allows you to send gestures with Up to 10 fingers of a multitouch-enabled screen wirelessly back to a Windows computer. All known Windows touch gestures are supported.
 
-Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back-Funktionalität zur Verfügung. Dies ermöglicht die Interaktivität und Kreativität von mehreren Teilnehmern an einem Bildschirm.
+When switching to another participant, touch-back functionality is also available to them. This allows for interactivity and creativity of multiple participants on one screen.
 
-!!! info "Touch-Back-Funktion mit QuattroPod"
+!!! info "Touch-Back Function with QuattroPod"
 
-    [![QuattroPod Touch-Back-Funktion][1]{: align=left }][2]
+    [![QuattroPod Touch-Back Function][1]{: align=left }][2]
 	
-	User Guide: Touch-Back-Funktion mit QuattroPod.
+	User Guide: touch-back function with QuattroPod.
 	
-	[View YouTube-Video][2]
+	[View YouTube video][2]
 
   [1]: /assets/img/thumbnail.video.touch.png
   [2]: https://youtu.be/Qky7XQR1rrE
   
-## Voraussetzungen
 
-* Windows 7 / 8 / 10 werden ab der Firmware-Version `1.9598.72` unterstützt.
+## Requirements
 
-* macOS 10.14.6 oder höher wird ab der Firmware-Version `1.9598.72` unterstützt.
+* Windows 7 / 8 / 10 are supported from firmware version '1.3877.0'.
 
-* nur ein Bildschirm kann zeitgleich übertragen werden - keine Splitscreen Funktionalität möglich.
+* macOS 10.14.6 or higher is supported from firmware version `1.9598.72`.
 
-## Einrichtung
+* only one screen can be transmitted at a time \(no splitscreen functionality possible\).
 
-* Schließen Sie das USB-Kabel Ihres touchfähigen Bildschirms an den USB-Anschluss mit dem Kennzeichen `RESET` des Empfängers an.
+## Check firmware version
 
-![](/assets/img/RX_Touch-USB-cable_lite.png)
+* Switch on the QuattroPod receiver. When the home page appears, check that the minimum required version '1.3877.0' is displayed, as shown below. If necessary, please upgrade your [firmware](adv.settings.md#upgrade).
 
-* Wenn der Empfänger die Touch-Funktionalität Ihres Bildschirms erfolgreich entdeckt hat, errecheint das Maus-Symbol oben rechts auf der Startseite.
+![Touch-Back function is enabled from firmware version 1.3877.0](/assets/img/quattropod.landingpage.fw.png)
 
-![Die Touch-Back-Funktion ist aktiviert](/assets/img/quattropod.touch.icon.lite.png)
+## Setup
 
-* Schließen Sie den Sender an einen der USB-Ports Ihres Windows-Computers an. Schließen Sie anschließend das mitgelieferte HDMI-Kabel an.
+* Connect the USB cable of your touch-enabled screen to the USB port of the receiver.
 
-![Sender auf PC umschalten](/assets/img/Pairing1.jpg)
+![](/assets/img/RX_Touch-USB-cable.png)
 
-* Die Bildschirmübertragung erfolgt automatisch. Wenn Ihr Sender noch nicht freigeschaltet ist, [überprüfen Sie den Empfänger](quickstart.md#setup) und [koppeln](pairing.md) Sie den Sender mit dem Empfänger neu.
+* When the receiver has successfully detected the touch functionality of your screen, the mouse icon will appear at the top right of the home screen.
 
-* Wenn die Touch-Back-Funktion erfolgreich freigeschaltet wurde, erscheint die Meldung `"Hid Driver loading ..."` für einige Sekunden auf dem Bildschirm.
+! [The touch-back function is activated](/assets/img/quattropod.touch.icon.png)
 
-![Die Touch-Back-Funktion wurde erfolgreich freigeschaltet](/assets/img/Hid_Driver_loading.jpg)
+* Switch the transmitter to 'PC'. Connect the transmitter to one of the USB ports on your Windows computer. Then connect the HDMI or DisplayPort cable supplied.
 
-* Die Touch-Gesten Ihres Displays werden an den Rechner zurückgesendet.
+Switch transmitter to PC](/assets/img/Pairing1.jpg)
 
-![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/QuattroPod_TouchBack_using.png)
+* If the receiver and transmitter are connected correctly, the start page is displayed on the screen and the large button on the transmitter lights up red. If your transmitter is not yet unlocked, [check the receiver](quickstart.md#setup) and [pair](pairing.md) the transmitter with the receiver again.
+
+![QuattroPod transmitter unlocked](/assets/img/Transmitter_screen_ready.png)
+
+* To connect your device and work with Touch-Back, simply press the red transmitter button. 
+
+![Press transmitter button and show contents](/assets/img/QSG-Transmitter.png)
+
+* When the touch-back function has been successfully enabled, the message `"Hid Driver loading ..."` appears on the screen for a few seconds.
+
+The touch-back function was successfully activated](/assets/img/Hid_Driver_loading.jpg)
+
+* The touch gestures of your display are sent back to the computer.
+
+![Touch gestures are sent back to the computer](/assets/img/QuattroPod_TouchBack_using.png)

@@ -1,46 +1,39 @@
-# Was ist neu?
+# What's new?
 
-Wählen Sie Ihr Gerät aus, um sich über die neusten Updates Ihres Gerät zu informieren:
+Select your device to find out about the latest updates to your device:
 
 <div class="md-showcase">
-	<img src="/assets/img/quattropod.usb.png" alt="Abbildung: QuattroPod USB"></a>
+	<img src="/assets/img/quattropod.usb.png" alt="Image: QuattroPod USB"></a>
 	<div>
 		<img src="/assets/img/quattropod-usb.black.logo.png" alt="Logo: QuattroPod USB">
 		<p><a href="/usb/whatsnew">Updates for QuattroPod USB</a></p>
 	</div>
 </div>
 <div class="md-showcase">
-	<img src="/assets/img/quattropod.lite.png" alt="Abbildung: QuattroPod Lite"></a>
+	<img src="/assets/img/quattropod.lite.png" alt="Image: QuattroPod Lite"></a>
 	<div>
 		<img src="/assets/img/quattropod-lite.black.logo.png" alt="Logo: QuattroPod Lite">
 		<p><a href="/lite/whatsnew">Updates for QuattroPod Lite</a></p>
 	</div>
 </div>
 <div class="md-showcase">
-	<img src="/assets/img/quattropod.mini.png" alt="Abbildung: QuattroPod Mini">
+	<img src="/assets/img/quattropod.mini.png" alt="Image: QuattroPod Mini">
 	<div>
 		<img src="/assets/img/quattropod-mini.black.logo.png" alt="Logo: QuattroPod Mini">
 		<p><a href="/mini/whatsnew">Updates for QuattroPod Mini</a></p>
 	</div>
 </div>
 <div class="md-showcase">
-	<img src="/assets/img/quattropod.standard.png" alt="Abbildung: QuattroPod Standard">
+	<img src="/assets/img/quattropod.standard.png" alt="Image: QuattroPod Standard">
 	<div>
 		<img src="/assets/img/quattropod-standard.black.logo.png" alt="Logo: QuattroPod Standard">
 		<p><a href="/standard/whatsnew">Updates for QuattroPod Standard</a></p>
 	</div>
 </div>
 <div class="md-showcase">
-	<img src="/assets/img/quattropod.euluxe.png" alt="Abbildung: QuattroPod Deluxe">
+	<img src="/assets/img/quattropod.deluxe.png" alt="Image: QuattroPod Deluxe">
 	<div>
 		<img src="/assets/img/quattropod-deluxe.black.logo.png" alt="Logo: QuattroPod Deluxe">
 		<p><a href="/deluxe/whatsnew">Updates for QuattroPod Deluxe</a></p>
-	</div>
-</div>
-<div class="md-showcase">
-	<img src="/assets/img/quattropod.m1.png" alt="Abbildung: QuattroPod M1">
-	<div>
-		<img src="/assets/img/quattropod-m1.black.logo.png" alt="Logo: QuattroPod M1">
-		<p><a href="/m1/whatsnew">Updates for QuattroPod M1</a></p>
 	</div>
 </div>

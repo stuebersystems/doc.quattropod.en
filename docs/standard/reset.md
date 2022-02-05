@@ -32,15 +32,15 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 **Anmeldung**
 
-* Make a note of the IP address which is displayed at the bottom left of the landing page.
+* Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
 
 ![](/assets/img/QuattroPod_IP.png)
 
-* Open your preferred web browser.
+* Rufen Sie nun Ihren Web-Browser auf.
 
 ![](/assets/img/Google_Chrome.png)
 
-* Click in the browser address bar and enter the IP address of the QuattroPod then press enter.
+* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des QuattroPods ein.
 
 ![](/assets/img/IP-Address.png)
 
@@ -64,25 +64,28 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 ![](/assets/img/wifi.land.selection.EN.png)
 
-!!! tip "Tip"
+!!! tip "Hinweis"
     
-	Wenn Ihr Sender sich dach dem Zurücksetzen nicht freischalten lässt, überprüfen Sie den [Empfänger](quickstart.md#setup) und [kopplen](pairing.md) Sie den Sender mit dem Empfänger neu.
+	Wenn Ihr Sender sich nach dem Zurücksetzen nicht freischalten lässt, überprüfen Sie den [Empfänger](quickstart.md#setup) und [koppeln](pairing.md) Sie den Sender mit dem Empfänger neu.
 	
 ## Einstellungen nach dem Zurücksetzen {#recommendedsettings}
 
 Wir empfehlen die folgenden Einstellungen:
 
-Firmware-Version: 1.8529.10
+Firmware-Version: [1.12412.42](whatsnew.md#20210712-11241242)
 
 **Gerätemanagement**
 
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
-* [Android Audioübertragung](adv.settings.md#Android-Audio-Streaming): `EIN`
-* [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `EIN`
+* [Android Audioübertragung](adv.settings.md#Androidsoundstreaming): `EIN`
+* [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `2 Stunden`
 
 **Admineinstellungen**
 
+* [WLAN-Modus](adv.settings.md#WiFi-Mode): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
+* [Zentrales Managementsystem](adv.settings.md#AirView): `EIN`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): unsere [Startseite](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png) in der deutschen Sprache
-* [WLAN-Modus](adv.settings.md#Wifi-Channel): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
 * [AirPlay](adv.settings.md#AirPlay): `EIN`
-* [Google Cast](adv.settings.md#google-cast-chromecast): `EIN`
+* [Castcode](adv.settings.md#castcode): `Zufällig`
+* [Google Cast](adv.settings.md#google-cast): `EIN`
+

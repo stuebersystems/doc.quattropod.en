@@ -20,13 +20,13 @@ Schließen Sie dazu ein Netzwerkkabel in den `ETHERNET` Anschluss an der Rückse
 
 !!! tip "Bitte beachten"
     
-	Wenn ein LAN-Kabel an der Box angeschlossen ist, wird der Internetzugang per WLAN automatisch deaktiviert.
+	Wenn ein LAN-Kabel an der Box angeschlossen ist, wird der Internetzugang per Wi-Fi automatisch deaktiviert.
 
-Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+Wenn der QuattroPod mit Ihrem Wi-Fi verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
 ![](/assets/img/QuattroPod_IP.png)
 
-## QuattroPod mit WLAN verbinden
+## QuattroPod mit Wi-Fi verbinden
 
 ### Erweiterte Einstellungen öffnen
 
@@ -50,14 +50,14 @@ Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk v
 
 ![](/assets/img/quattropod.select.network.png)
 
-* Wählen den Punkt `Mit 5GHz WLAN-Router/AP verbinden` aus.
+* Wählen den Punkt `Mit 5GHz Wi-Fi-Router/AP verbinden` aus.
 
 ![](/assets/img/quattropod.select.connect5ghz.png)
 
-* Verbinden Sie den QuattroPod mit Ihrem WLAN-Router.
+* Verbinden Sie den QuattroPod mit Ihrem Wi-Fi-Router.
 
 ![](/assets/img/Wifi_Internet.png)
 
-Wenn der QuattroPod mit Ihrem WLAN verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+Wenn der QuattroPod mit Ihrem Wi-Fi verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
 ![](/assets/img/QuattroPod_IP.png)

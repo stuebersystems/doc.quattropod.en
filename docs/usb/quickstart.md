@@ -1,187 +1,189 @@
 # Quick Start Guide
 
-!!! info "Quick Start Guide als PDF"
-	
-    Die Quick Start Guide steht Ihnen auch als PDF-Dokument im [A6-Format][1] zur Verfügung.
 
-  [1]: https://download.stueber.de/doc/de/quattropod/schnellstartanleitungen/A6_QPUSB.pdf
+## Package Contents of QuattroPod USB
 
-## Inhalt des QuattroPod USB
-
-| Der QuattroPod USB besteht aus: |   |
+| QuattroPod USB includes the following items: |   |
 | :----: | :----: |
-| ![](/assets/img/QSG.R01.png)<br>1 Standard Empfänger | ![](/assets/img/QSG-U01.png)<br>1 USB Sender |
-| ![](/assets/img/QSG.USB_Charger.png)<br>1 Universal Stromadapter (5V/2A) | ![](/assets/img/QSG.Charger.cable.png)<br>USB-Ladekabel  (1 m)|
-| ![](/assets/img/QSG.HDMI.1m.png)<br>1 HDMI-Kabel (1 m) | ![](/assets/img/QSG-Manual.png)<br>Quick Start Guide |
+| ![](/assets/img/QSG.R01.png)<br>1 Standard Receiver | ![](/assets/img/QSG-U01.png)<br>1 USB Transmitter |
+| ![](/assets/img/QSG.USB_Charger.png)<br>1 Universal Power Adapter (5V/2A) | ![](/assets/img/QSG.Charger.cable.png)<br>USB Charger Cable (1 m) |
+| ![](/assets/img/QSG.HDMI.1m.png)<br>1 HDMI Cable (1 m) | ![](/assets/img/QSG-Manual.png)<br>Quick Start Guide |
 
 
-## Empfänger anschließen {#setup}
+## Setting Up QuattroPod USB {#setup}
 
-* Verbinden Sie den Empfänger, wie unten abgebildet, mit Ihrem Bildschirm. Schalten Sie anschließend den Empfänger ein: 
+* Connect the receiver to your screen as shown below. Then switch on the receiver:
 
-![QuattroPod-Empfänger anschließen](/assets/img/QSG-Receiver.png)
+![Connect QuattroPod Receiver](/assets/img/QSG-Receiver.png)
 
-Die folgende Startseite erscheint auf Ihrem Bildschirm:
+The following landing page appears on your screen:
 
-![QuattroPod USB Startseite](/assets/img/quattropod.landingpage.png)
+![QuattroPod USB Landing Page](/assets/img/quattropod.landingpage.png)
 
-## Bildschirmübertragung im Type-C Sendermodus {#SenderTypeC}
+## Screen Mirroring in Type C Transmitter Mode
 
-### Windows / macOS
+### Windows / macOS in Type C Transmitter Mode
 
 !!! tip "Tip"
 
-	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
+      Make sure that your Windows / macOS device supports video transmission via USB-C port [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C). If in doubt, please use the [Type-A](#SenderTypeA) or [Streaming Protocol](#a-streamingprotocol) method.
+
+* Remove the USB-A adapter from the transmitter and switch the transmitter to `Type-C`. Connect the transmitter to a USB-C port on your Windows/macOS computer:
 	 
-* Ziehen Sie den USB-A-Adapter vom Sender ab und schalten Sie den Sender auf `Type-C` um. Schließen Sie den Sender an einen USB-C-Port Ihres Windows/macOS-Rechners an:
-
-![](/assets/img/QSG-TypeC.Windows.png)   
-
-!!! tip "Tip"
-
-     Stellen Sie sicher, dass Ihr Windows / macOS Gerät die Videoübertragung per USB-C-Anschluss unterstützt. Im Zweifelsfall nutzen Sie bitte die Methode [Type-A](#SenderTypeA).	 
-
-## Bildschirmübertragung im Type-A Sendermodus {#SenderTypeA}
-
-### Windows / macOS
-
-!!! tip "Tip"
-
-	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
+	 ![](/assets/img/QSG-TypeC.Windows.png) 
 	 
-* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Type-A` um. Schließen Sie den Sender an einen USB-A-Port Ihres Windows/macOS-Rechners an:
+### Android in Type C Transmitter Mode
+	
+!!! tip "Tip"
+
+     Make sure that your Windows / macOS device supports video transmission via USB-C port [DP Alt Mode](https://en.everybodywiki.com/List_of_devices_with_video_output_over_USB-C). If in doubt, please use the [Type-A](#SenderTypeA) or [Streaming Protocol](#a-streamingprotocol) method.
+	 
+* Remove the USB-A adapter from the transmitter and switch the transmitter to `Type-C`. Connect the transmitter to a USB-C port on your Windows/macOS computer:
+
+  ![](/assets/img/QSG-QP.USBC.Android.png) 
+
+ 
+## Screen Mirroring in Type A Transmitter Mode
+
+### Windows / macOS in Type A Transmitter Mode
+
+!!! tip "Tip"
+
+	**Administrator rights** are required to install the **USB WiFi Cast** software under Type-A mode.
+	 
+* Connect the USB-A adapter to the transmitter and switch the transmitter to `Type-A`. Connect the transmitter to a USB-A port on your Windows/macOS computer. Your screen will mirror automatically:
 
 ![](/assets/img/QSG-TypeA.Windows.png)
 
-#### Software: USB WiFi Cast
+**Software: USB WiFi Cast**
 
-Sie müssen einmalig die Software **USB WiFi Cast** installieren. Beim Anschließen des Senders im Type-A öffnet sich ein CD-Laufwerk. Unter macOS führen Sie `USB WiFi Cast` aus. Unter Windows führen Sie [USB Launcher](https://download.stueber.de/doc/de/quattropod/USB-WiFi-Cast/USB.WiFi.Cast-1.0.0.65.exe) aus.
+* You must install the **USB WiFi Cast** software. When you connect the transmitter to a Type A port, a CD drive will open. Under macOS, run `USB WiFi Cast`. Under Windows, run `USB Launcher`.
 
-Wenn die Software **USB WiFi Cast** auf Ihrem Gerät bereits vorhanden ist, erfolgt die Bildschirmübertragung standardmäßig automatisch. Sie kann auch aus Ihrem Programme-Menü manuell gestartet werden.
+If the **USB WiFi Cast** software is already installed on your device, your screen will mirror automatically by default. It can also be started manually from your programs menu.
 
-## Bildschirmübertragung im Mobil-Modus {#SenderMobile}
+## Screen Mirroring in Mobile Mode {#modilemode}
 
-### iOS
+### iOS in Mobile Mode
 
 !!! tip "Tip"
 
-	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden.
+	The transmitter allows you to easily mirror your screen. However, if you prefer to mirror your content without a transmitter, you can use a [streaming protocol](#a-streamingprotocol).
 	 
-* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Mobile` um. Schließen Sie den Sender an einen USB-Port (5V,1A) bzw. an das Netzteil Ihres Apple-Geräts an. Schließen Sie anschließend Ihr iOS-Gerät an den USB-Port des Senders an. 
+* Connect the USB-A adapter to the transmitter and switch the transmitter to `Mobile`. Connect the transmitter to a USB port (5V/1A) or to the power supply of your Apple device. Then connect your iOS device to the USB port of the transmitter. 
 
 ![](/assets/img/QSG-QP-USB.iOS.png)
 
-* Wenn die folgende Meldung erscheint, wählen Sie `Vertrauen` und wenn Sie aufgefordert werden, geben Sie den Gerätecode ein:
+* When the following message appears, select `Trust` and when prompted, enter the unit code:
 
 ![iOS verbinden](/assets/img/QSG-Trust-this-computer.png)
 
-### Android
+### Android in Mobile Mode
 
 !!! tip "Tip"
 
-	Der Sender ermöglicht ein einfaches Spiegeln Ihres Bildschirms. Wenn Sie Ihre Inhalte jedoch lieber ohne einen Sender spiegeln möchten, können Sie ein [Streamingprotokoll](#a-streamingprotokollen) verwenden. Außerdem können Sie die kostenlose QuattroPod [App](#b-die-quattropod-app-unter-android) unter Android nutzen.
+	The transmitter allows you to easily mirror your screen. However, if you prefer to mirror your content without a transmitter, you can use a [streaming protocol](#a-streamingprotocol). Außerdem können Sie die kostenlose QuattroPod [App](#b-die-quattropod-app-unter-android) unter Android nutzen.
 
-Sie müssen einmalig USB-Debugging freischalten, anschließend den Sender anschließen und die Haupttaste drücken.
+You must enable USB debugging once, then connect the transmitter and press the main button.
 
-!!! info "USB-Debugging unter Android freischalten"
+!!! info "Enable USB Debugging for Android"
 
-    ![USB-Debugging unter Android freischalten][4]{: align=left }
+    ![Enable USB Debugging for Android][4]{: align=left }
 	
-	In dieser User Guide führen wir Sie schrittweise durch die Aktivierung von USB-Debugging.
+	In this user guide we will take you step by step through the activation of USB debugging.
 	
-	[View YouTube-Video](https://youtu.be/E_x5sxefh54)
+	[View YouTube Video](https://youtu.be/E_x5sxefh54)
 
   [4]: /assets/img/thumbnail.video.usb-debugging.png
 
-* Öffnen Sie die `Einstellungen`. Wählen Sie `Über das Telefon`.
+* Open the `Settings`. Select `About this phone`.
 
-![Über das Telefon](/assets/img/android.about.device.png)
+![About this phone](/assets/img/android.about.device.png)
 
-* Tippen Sie nun schnell sieben Mal hintereinander auf den Eintrag `Buildnummer`. Nach dem siebten Mal ist der Menüpunkt `Entwickleroptionen` in den Einstellungen als Rubrik zu sehen.
+* Now quickly tap `Build number` seven times in succession. After the seventh time, the menu item `Developer Options` will be visible as a heading in the settings.
 
-![Softwareinformationen - Buildnummer](/assets/img/Aktivieren2.png)
+![Software Information - Build Number](/assets/img/Aktivieren2.png)
 
-* In den `Entwickleroptionen` aktivieren Sie den Menüpunkt `USB-Debugging` und bestätigen Sie mit `OK`.
+* In the `Developer Options` activate the menu item `USB Debugging` and confirm by tapping `OK`.
 
-![Entwickleroptionen - USB-Debugging](/assets/img/allow.USBdebugging.png)
+![Developer Options - USB Debugging](/assets/img/allow.USBdebugging.png)
 
-* Schließen Sie den USB-A-Adapter an den Sender an und schalten Sie den Sender auf `Mobile` um. Schließen Sie den Sender an einen USB-Port (5V,1A) bzw. an das Netzteil Ihres Android-Geräts an:
+* Connect the USB-A adapter to the transmitter and switch the transmitter to `Mobile`. Connect the transmitter to a USB port (5V/1A) or to the power supply of your Android device:
 
 ![Android-Gerät anschließen](/assets/img/QSG-QP.USB.Android2.png)
 
 !!! tip "Tip"
 
-     Wenn beim Anschließen eine Meldung erscheint, wählen Sie MTP oder Dateien übertragen.
+     If a message appears when you connect, select MTP or Transfer Files.
 
 
-## Bildschirmübertragung ohne Sender
+## Screen Cast Without transmitter
 
-Mit QuattroPod stehen Ihnen zwei Möglichkeiten ohne den Sender zur Verfügung:
+With QuattroPod there are two ways to mirror your screen without a transmitter:
 
-* Wer nur schnell seinen Bildschirm übertragen möchte, kann nach dem Prinzip Bring Your Own Device (BYOD) sofort loslegen, indem er die eingebaute Bildschirmübertragungsfunktionalität seines Gerätes bzw. Streamingprotokollen verwendet. Das heißt in diesem Fall müssen Sie gar keine App herunterladen!
+* If you just want to quickly transfer your screen, you can get started right away according to the Bring Your Own Device (BYOD) principle by using the built-in screen transfer functionality of your device or streaming protocols. With this option you do not need to download an app at all!
 
-* Die kostenlose QuattroPod App bietet Ihnen eine intuitive Oberfläche zur Bildschirmübertragung Ihres Android-Gerätes.
+* The free QuattroPod app provides you with an intuitive interface for screen transfer of your Android device.
 
-### a) Streamingprotokollen
+### a) Streaming Protocols
  
-Unterstützt werden alle gängigen Streamingprotokollen. Umfassende User Guideen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
+All common streaming protocols are supported. Comprehensive instructions according to your desired protocol can be found under the following links:
 
-* [AirPlay](airplay.md) unter iOS und macOS.
+* [AirPlay](airplay.md) for iOS and macOS.
 
-* [Google Cast](chromecast.md) unter Google Chrome OS, Windows, Android und Linux.
+* [Google Cast](chromecast.md) for Google Chrome OS, Windows, Android and Linux.
 
-### b) Die QuattroPod App unter Android
+### b) QuattroPod App for Android
 
-* Suchen Sie auf Ihrem Gerät die SSID, die auf dem Bildschirm angezeigt wird:
+* On your device, find the SSID that is displayed on the landing page:
 
 ![](/assets/img/QSG-QP.R01.Mobile.png)
 
-#### App installieren {#InstallApp}
+#### Install App {#InstallApp}
 
-Suchen Sie die App **QuattroPod** im [Google Play Store](https://play.google.com/store/apps/details?id=com.actionsmicro.quattropod.winnerwave) und installieren Sie diese von dort:
+Search for the app **QuattroPod** in the [Google Play Store](https://play.google.com/store/apps/details?id=com.actionsmicro.quattropod.winnerwave) and install it from there:
 
-![QuattroPod im Google Play Store](/assets/img/QuattroPodPlayStore.png)
+![QuattroPod in the Google Play Store](/assets/img/QuattroPodPlayStore.png)
 
-#### App mit QuattroPod verbinden
+#### Connect App to QuattroPod
 
-Wenn Sie den QuattroPod richtig [angeschlossen](#setup) haben, erscheint folgende Startseite auf dem Bildschirm:
+If you have [connected](#setup) the QuattroPod correctly, the following start page appears on the screen:
 
-![Die Startseite](/assets/img/quattropod.landingpage.png)
+![The Landing Page](/assets/img/quattropod.landingpage.png)
 
-Gehen Sie jetzt wie folgt vor:
+Please follow these steps:
 
-* Von Ihrem Android Gerät verbinden Sie sich mit der SSID, die oben links auf dem Bildschirm angezeigt wird, wie oben abgebildet. Das Kennwort wird standardmäßig ebenfalls angezeigt.
+* From your Android device, connect to the the SSID displayed on the top left of the screen as shown above. The password is also displayed by default.
 
-* Rufen Sie nun die App QuattroPod auf Ihrem Android-Gerät auf. Beim ersten Aufruf der App müssen Sie einmalig genehmigen, dass die App über anderen Apps, die Sie verwenden, anzeigt wird. Wählen Sie `OK`.
+* Now open the QuattroPod app on your Android device. The first time you open the app, you must grant the app permission to display over other apps you're using. Select `OK`.
 
-![Wählen Sie "OK"](/assets/img/android_app_overlay_OK.png)
+![Select "OK"](/assets/img/android_app_overlay_OK.png)
 
-* Schalten Sie den Menüpunkt `Berechtigung erteilen` an, anschließend drücken Sie auf die Schaltfläche `Zurück` auf Ihrem Android-Gerät, um auf die App zurückzukehren.
+* Turn on the menu item `Allow Permission`, then press the `Back` button on your Android device to return to the app.
 
-!["Berechtigung erteilen" anschalten](/assets/img/android_app_overlay_ON.png)
+![Select "Allow Permission"](/assets/img/android_app_overlay_ON.png)
 
-* Um den gewünschten QuattroPod auswählen, drücken Sie auf `Search Device:`.
+* Press `Search Device:` to select the desired QuattroPod.
 
-![Mit QuattroPod verbinden](/assets/img/android_app_connect.png)
+![Connect to QuattroPod](/assets/img/android_app_connect.png)
 
-* Wählen Sie Ihren QuattroPod aus.
+* * Select your QuattroPod.
 
-![QuattroPod auswählen](/assets/img/android_app_select_quattropod.png)
+![Select QuattroPod](/assets/img/android_app_select_quattropod.png)
 
-Wenn die App mit dem Empfänger richtig verbunden ist, leuchtet die große Taste auf dem Sender rot. Um Ihren Bildschirm zu übertragen, drücken Sie einfach die rote Haupttaste.
+If the app is successfully connected to the receiver the big button on the transmitter lights up red. To transmit your screen, simply press the red main button.
 
 ![QuattroPod App](/assets/img/android_app_mainbutton_red.png)
 
-* Wenn die folgende Meldung erscheint, wählen Sie `JETZT STARTEN`.
+* When the folloing message appears, select `START NOW`.
 
 ![QuattroPod App](/assets/img/android_app_start_mirroring.png)
 
-* Während des Übertragens leuchtet der Sender weiß und das Symbol dreht sich oben links.
+* During screen casting, the transmitter lights up white and the symbol rotates at the top left.
 
-![Android-Gerät wird am Bildschirm angezeigt](/assets/img/android_app_mainbutton_white.png)
+![Android device is displaying on the screen](/assets/img/android_app_mainbutton_white.png)
 
-* Wenn Tonübertragung gewünscht ist, muss die Bluetooth-Kopplung angenommen werden.
+* If you would like to include audio while casting, bluetooth must be enabled on your device.
 
-![Android-Gerät wird am Bildschirm angezeigt](/assets/img/android_app_bluetooth.pair.png)
+![Android device is displayed on the screen](/assets/img/android_app_bluetooth.pair.png)
 
-**Ihr Android-Gerät wird jetzt am Bildschirm angezeigt. Um das Übertragen zu beenden, einfach die Haupttaste nochmal drücken oder schließen Sie die App.**
+**Your Android device is now displayed on the screen. To stop transferring, simply press the main button again or close the app.**
