@@ -152,6 +152,10 @@ QuattroPod Standard Receiver (R01) | [Download](firmware-reinstall.md#R01_instal
 
 * Connect a USB stick to your computer and make sure it is formated FAT32.
 
+![](/assets/img/format.usb1.png)
+
+![](/assets/img/format.usb2.png)
+
 * Copy the firmware to the USB stick. Then rename the firmware to `install_ota.gz`. 
 
 * Download the file [lazymaclist](https://download.stueber.de/doc/de/support/lazymaclist) on the USB stick. Both files should be saved to the root directory:
@@ -160,11 +164,13 @@ QuattroPod Standard Receiver (R01) | [Download](firmware-reinstall.md#R01_instal
 
 * Now safely eject the USB stick from your computer.
 
+![](/assets/img/format.usb3.png)
+
 * Turn on the QuattroPod receiver and make sure the landing page is displayed:
 
 ![](/assets/img/quattropod.landingpage.png)
 
-* Plug the USB into the USB A port found on the back of the QuattroPod receiver.
+* Plug the USB stick into the USB A port found on the back of the QuattroPod receiver.
 
 ![](/assets/img/CMS-firmware.install.latest.firmware.png)
 
