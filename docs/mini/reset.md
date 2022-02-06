@@ -7,15 +7,15 @@ There are several reasons for resetting the QuattroPod to factory settings:
 
 * You have made changes to your network infrastructure, LAN TCP/IP settings, or the QuattroPod's SSID credentials and your QuattroPod is no longer accessible.
 
-* You are having trouble undoing an unwanted change on the QuattroPod.
+* If you having trouble reservsing unwanted changes on the QuattroPod.
 
-A reset resets all settings except the [WLAN SSID](adv.settings.md#SSID), the [Wallpaper](adv.settings.md#My Screen) of the landing page, and the firmware version.
+A reset resets all settings except the [Wi-Fi SSID](adv.settings.md#SSID), the [Wallpaper](adv.settings.md#My Screen) of the landing page, and the firmware version.
 
-## Reset via reset switch {#hardreset}
+## Reset via Reset Switch {#hardreset}
 
 If you do not know the access data to the [Web interface](adv.settings.md), you have the possibility to reset the default settings with the reset switch:
 
-* Using a small "pen", press and hold the reset switch for about 10 seconds. 
+* Using a small pin, press and hold the reset switch for about 10 seconds. 
 
 ![Reset button is located at the back of the QuattroPod](/assets/img/Press-Reset-Button.jpg)
 
@@ -23,11 +23,11 @@ If you do not know the access data to the [Web interface](adv.settings.md), you 
 
 ![](/assets/img/Reset_config_complete.png)
 
-* After the reset, the country of the WLAN channel must be selected during the first login on the web interface. For devices within Europe, please select `EUROPE`. Then enter a new admin password.
+* After the reset, the country of the Wi-Fi channel must be selected during the first login on the web interface. For devices within Europe, please select `EUROPE`. Then enter a new admin password.
 
 ![](/assets/img/wifi.land.selection.EN.png)
 
-## Reset via web interface
+## Reset via Web Interface
 
 Using the [Advanced settings](adv.settings.md) function, you can log in and reset to the default settings using any web browser.
 
@@ -61,7 +61,7 @@ Using the [Advanced settings](adv.settings.md) function, you can log in and rese
 
 ![Reset to default settings](/assets/img/reset_settings.png)
 
-* After resetting the receiver, the country of the WLAN channel must be selected during the first login on the web interface. For devices within Europe, please select `EUROPE`. Enter a new admin password and then click `Apply and Reboot` to reboot the device:
+* After resetting the receiver, the country of the Wi-Fi channel must be selected during the first login on the web interface. For devices within Europe, please select `EUROPE`. Enter a new admin password and then click `Apply and Reboot` to reboot the device:
 
 ![](/assets/img/wifi.land.selection.EN.png)
 
@@ -69,11 +69,11 @@ Using the [Advanced settings](adv.settings.md) function, you can log in and rese
     
 	If your transmitter does not unlock after reset, check the [receiver](quickstart.md#setup) and [pair](pairing.md) the transmitter with the receiver again.
 
-## Settings after reset {#recommendedsettings}
+## Recommended Settings After Reset {#recommendedsettings}
 
 We recommend the following settings:
 
-Firmware-Version: [1.12412.42](whatsnew.md#20210712-11241242)
+Firmware-Version: [1.12412.47](whatsnew.md#20210712-11241242)
 
 **Device Management**
 
@@ -83,9 +83,9 @@ Firmware-Version: [1.12412.42](whatsnew.md#20210712-11241242)
 
 **Admin Settings**
 
-* [WLAN Mode](adv.settings.md#WiFi-Mode): `Country = EUROPE`, `Channel = Auto`, `Bandwidth = 20MHz`.
+* [Wi-Fi Mode](adv.settings.md#WiFi-Mode): `Country = EUROPE`, `Channel = Auto`, `Bandwidth = 20MHz`.
 * [Central Management System](adv.settings.md#AirView): `ON`
-* [My screen](adv.settings.md#Mein-Bildschirm): our [landing page](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png) in German language
+* [My screen](adv.settings.md#Mein-Bildschirm): our [landing page](https://download.stueber.de/doc/de/quattropod/QuattroPod_landingpageEN.png)
 * [AirPlay](adv.settings.md#AirPlay): `ON`
 * [Castcode](adv.settings.md#castcode): `Random`.
 * [Google Cast](adv.settings.md#google-cast): `ON`

@@ -20,11 +20,11 @@ You can restore the QuattroPod by manually reinstalling the firmware. There are 
 
 * The receiver must be connected to your Windows PC via [USB cable (A/A)](https://www.amazon.de/deleyCON-Super-Speed-Kabel-Stecker/dp/B00WHZ746E/ref=sr_1_3?ie=UTF8&qid=1531928442&sr=8-3&keywords=usb+cable+male+to+male)
 
-![USB cable-AA](/assets/img/USB-cable-AA.jpg)
+![USB AA cable](/assets/img/USB-cable-AA.jpg)
 
 ### Receiver - reinstall firmware
 
-Download #### Receiver (R01) Repair Tool.
+#### Download Receiver (R01) Repair Tool.
 
 * Download the [QuattroPod Receiver (R01) Repair Tool](https://download.stueber.de/doc/de/quattropod/repair_tools/QuattroPod.R01.Repair.Tool.zip).
 
@@ -36,7 +36,7 @@ Download #### Receiver (R01) Repair Tool.
 
 ![run install.bat as administrator](/assets/img/R01.install.bat.png)
 
-* If the following security message appears, select 'Install':
+* If the following security message appears, select `Install`:
 
 ![Click Install to install the drivers](/assets/img/install_drivers.jpg)
 
@@ -49,7 +49,7 @@ To put the receiver into **Update Mode**, please perform the following steps in 
 * Turn on the device by pressing the power button.
 * Release the reset switch
 
-! [Set receiver to update mode](/assets/img/QuattroPod_press_reset.jpg)
+![Switch receiver to update mode](/assets/img/QuattroPod_press_reset.jpg)
 
 * Now connect the [USB cable (A/A)](https://www.amazon.de/deleyCON-Super-Speed-Kabel-Stecker/dp/B00WHZ746E/ref=sr_1_3?ie=UTF8&qid=1531928442&sr=8-3&keywords=usb+cable+male+to+male) to the USB port of the receiver and to a USB port of your computer running Microsoft Windows.
 
@@ -61,15 +61,15 @@ If the driver is installed correctly and the receiver is connected, the **Realte
 
 #### Install latest firmware {#R01_install_latest_fw}
 
-* In the folder 'QuattroPod.R01.Repair.Tool' execute the file **EZCastUpdate.exe**.
+* In the folder `QuattroPod.R01.Repair.Tool` execute the file **EZCastUpdate.exe**.
  
-! [Run EZCastUpdate.exe](/assets/img/R01.Repair_Tool_Update.exe.png)
+![Run EZCastUpdate.exe](/assets/img/R01.Repair_Tool_Update.exe.png)
 
-The following window will appear. If the QuattroPod receiver is successfully in update mode, the status 'Device connected' is displayed in the tool:
+The following window will appear. If the QuattroPod receiver is successfully in update mode, the status `Device connected` is displayed in the tool:
 
 * Select `Download` to download the latest firmware.
  
-! [Select the Download button](/assets/img/EZCastUpdate.DeviceConnected.jpg)
+![Select the Download button](/assets/img/EZCastUpdate.DeviceConnected.jpg)
  
 The download of the firmware will be executed:
 
@@ -79,7 +79,7 @@ The download of the firmware will be executed:
 	
 ![QuattroPod Firmware is shutting down](/assets/img/EZCastUpdate.Firmware.Downloading.jpg)
 
-* To start the firmware installation, select 'Upgrade':
+* To start the firmware installation, select `Upgrade`:
 
 ![Select Upgrade to start the installation](/assets/img/EZCastUpdate.Upgrade.jpg).
 
@@ -109,13 +109,13 @@ Firmware | Receiver R01 | Remark
 1.8529.10 | [Download](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.8529.10.gz)
 1.6468.5 | [Download](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.6468.5.gz)
 
-* In the folder 'QuattroPod.R01.Repair.Tool' execute the file **Update_for_localfile.exe**.
+* In the folder `QuattroPod.R01.Repair.Tool` execute the file **Update_for_localfile.exe**.
 
-! [Run Update_for_localfile.exe](/assets/img/R01.localfile.exe.png)
+![Run Update_for_localfile.exe](/assets/img/R01.localfile.exe.png)
 
 The following window appears. If the QuattroPod is in update mode, the tool will display **Device connected**.
 
-* Using the 'Firmware' button, select the desired firmware file.
+* Using the `Firmware` button, select the desired firmware file.
 
 ![Select Firmware](/assets/img/EZCastUpdate.SelectFirmware.png)
 
@@ -135,7 +135,7 @@ Turn off the receiver and turn it on again. The receiver is ready to use again.
 
 ### Transmitter - reinstall firmware
 
-Download #### Transmitter (T02) Repair Tool.
+#### Download Transmitter (T02) Repair Tool.
 
 * Download the [QuattroPod Mini Transmitter (T02) Repair Tool](https://download.stueber.de/doc/de/quattropod/repair_tools/QuattroPod.T02.Repair.Tool.zip).
 
@@ -147,27 +147,27 @@ Download #### Transmitter (T02) Repair Tool.
 
 ![run install.bat as administrator](/assets/img/T01.install.bat.png)
 
-* If the following security message appears, select 'Install':
+* If the following security message appears, select `Install`:
 
 ![Click Install to install the drivers](/assets/img/install_drivers.jpg)
 
 #### Putting the transmitter into **Update mode**. 
 
-* To put the transmitter into **update mode**, simply press and hold the `control` button (1), then connect the transmitter's USB cable to a USB port on your `computer` (2). After one second you can release the control key.
+* To put the transmitter into **update mode**, simply press and hold the `control` button (1), then connect the transmitter`s USB cable to a USB port on your `computer` (2). After one second you can release the control key.
 
 ![Set transmitter to update mode](/assets/img/IQuattroPod_TX_Update-Mode_mini1.png) 
 
 #### Install latest firmware {#T02_install_latest_fw}
 
-* In the folder 'QuattroPod.T02.Repair.Tool' execute the file **EZCastUpdate.exe**.
+* In the folder `QuattroPod.T02.Repair.Tool` execute the file **EZCastUpdate.exe**.
  
-! [Run EZCastUpdate.exe](/assets/img/T02.Repair_Tool_Update.exe.png)
+![Run EZCastUpdate.exe](/assets/img/T02.Repair_Tool_Update.exe.png)
 
-The following window will appear. If the QuattroPod receiver is successfully in update mode, the status 'Device connected' is displayed in the tool:
+The following window will appear. If the QuattroPod receiver is successfully in update mode, the status `Device connected` is displayed in the tool:
 
 * Select `Download` to download the latest firmware.
  
-! [Select the Download button](/assets/img/EZCastUpdate.DeviceConnected.jpg)
+![Select the Download button](/assets/img/EZCastUpdate.DeviceConnected.jpg)
  
 The download of the firmware will be executed:
 
@@ -177,7 +177,7 @@ The download of the firmware will be executed:
 
 ![QuattroPod Firmware is shutting down](/assets/img/EZCastUpdate.Firmware.Downloading.jpg)
 
-* To start the firmware installation, select 'Upgrade':
+* To start the firmware installation, select `Upgrade`:
 
 ![Select Upgrade to start the installation](/assets/img/EZCastUpdate.Upgrade.jpg)
 
@@ -207,13 +207,13 @@ Firmware | Transmitter T02
 1.8529.10 | [Download](https://download.stueber.de/doc/de/quattropod/firmwares/T02/T02_1.8529.10.gz)
 1.6468.5 | [Download](https://download.stueber.de/doc/de/quattropod/firmwares/T02/T02_1.6468.5.gz)
 
-* In the folder 'QuattroPod.T02.Repair.Tool' execute the file **Update_for_localfile.exe**.
+* In the folder `QuattroPod.T02.Repair.Tool` execute the file **Update_for_localfile.exe**.
 
-! [Run Update_for_localfile.exe](/assets/img/T02.localfile.exe.png)
+![Run Update_for_localfile.exe](/assets/img/T02.localfile.exe.png)
 
 The following window appears. If the QuattroPod is in update mode, the tool will display **Device connected**.
 
-* Using the 'Firmware' button, select the desired firmware file.
+* Using the `Firmware` button, select the desired firmware file.
 
 ![Select Firmware](/assets/img/EZCastUpdate.SelectFirmware.png)
 
@@ -231,23 +231,23 @@ If the installation was successful, the following message appears:
 
 You can now disconnect the transmitter from the computer and close the software.
 
-!!! tip "Note
+!!! tip "Note"
 
      After the firmware upgrade, each transmitter must be [re-paired](pairing.md) with the receiver.
 
-## Install firmware with the CMS
+## Install firmware with CMS
 
 With the CMS ([Central Management System](cms.md)) you can not only install the latest firmware from the internet on multiple EZCast Pro II devices or QuattroPod, but also a previous version or beta firmware.
 
 * Download a firmware for the [receiver](#R01_install_other_fw) or for the [transmitter](#T02_install_other_fw).
 
-* Select the desired devices, then click the 'Remote' button -> and the 'Device Firmware upgrade' function.
+* Select the desired devices, then click the `Remote` button -> and the `Device Firmware upgrade` function.
 
-! [The firmware will be installed](/assets/img/CMS-firmware.upgrade1.png)
+![The firmware will be installed](/assets/img/CMS-firmware.upgrade1.png)
 
-* Under the tab 'FILE', select the button 'File' and select the firmware file that you downloaded in the first step.
+* Under the tab `FILE`, select the button `File` and select the firmware file that you downloaded in the first step.
 
-! [The firmware will be installed](/assets/img/CMS-firmware.upgrade2.png)
+![The firmware will be installed](/assets/img/CMS-firmware.upgrade2.png)
 
 The new firmware will be downloaded and installed automatically. 
 

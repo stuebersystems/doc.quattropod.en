@@ -8,7 +8,7 @@ Es gibt mehrere Gründe für einen Reset des QuattroPods auf Werkseinstellungen:
 
 * Sie haben Probleme eine ungewollte Änderung auf dem QuattroPod rückgängig zu machen.
 
-Mit einem Zurücksetzen werden alle Einstellungen zurückgesetzt, außer die [WLAN-SSID](adv.settings.md#SSID), das [Hintergrundbild](adv.settings.md#Mein-Bildschirm) der  Startseite, und die Firmware-Version.
+Mit einem Zurücksetzen werden alle Einstellungen zurückgesetzt, außer die [Wi-Fi-SSID](adv.settings.md#SSID), das [Hintergrundbild](adv.settings.md#Mein-Bildschirm) der  Startseite, und die Firmware-Version.
 
 ## Zurücksetzen per Reset-Schalter {#hardreset}
 
@@ -22,7 +22,7 @@ Wenn Ihnen die Zugangsdaten zu der [Web-Oberfläche](adv.settings.md) nicht beka
 
 ![](/assets/img/Reset_config_complete.png)
 
-* Nach dem Zurücksetzen muss bei der ersten Anmeldung auf der Web-Oberfläche das Land des WLAN-Kanals ausgewählt werden. Für Geräte innerhalb Europa wählen Sie bitte `EUROPE` aus. Geben Sie anschließend ein neues Admin-Kennwort ein.
+* Nach dem Zurücksetzen muss bei der ersten Anmeldung auf der Web-Oberfläche das Land des Wi-Fi-Kanals ausgewählt werden. Für Geräte innerhalb Europa wählen Sie bitte `EUROPE` aus. Geben Sie anschließend ein neues Admin-Kennwort ein.
 
 ![](/assets/img/wifi.land.selection.EN.png)
 
@@ -60,7 +60,7 @@ Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie s
 
 ![Auf Standardeinstellungen zurücksetzen](/assets/img/reset_settings.png)
 
-* Nach dem Zurücksetzen des Empfängers muss bei der ersten Anmeldung auf der Web-Oberfläche das Land des WLAN-Kanals ausgewählt werden. Für Geräte innerhalb Europa wählen Sie bitte `EUROPE` aus. Geben Sie ein neues Admin-Kennwort ein und klicken Sie anschließend auf `Apply and Reboot`, um das Gerät neu zu starten:
+* Nach dem Zurücksetzen des Empfängers muss bei der ersten Anmeldung auf der Web-Oberfläche das Land des Wi-Fi-Kanals ausgewählt werden. Für Geräte innerhalb Europa wählen Sie bitte `EUROPE` aus. Geben Sie ein neues Admin-Kennwort ein und klicken Sie anschließend auf `Apply and Reboot`, um das Gerät neu zu starten:
 
 ![](/assets/img/wifi.land.selection.EN.png)
 
@@ -82,7 +82,7 @@ Firmware-Version: [1.12412.42](whatsnew.md#20210712-11241242)
 
 **Admineinstellungen**
 
-* [WLAN-Modus](adv.settings.md#WiFi-Mode): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
+* [Wi-Fi-Modus](adv.settings.md#WiFi-Mode): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
 * [Zentrales Managementsystem](adv.settings.md#AirView): `EIN`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): unsere [Startseite](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png) in der deutschen Sprache
 * [AirPlay](adv.settings.md#AirPlay): `EIN`

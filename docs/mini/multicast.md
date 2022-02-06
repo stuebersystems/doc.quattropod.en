@@ -14,7 +14,7 @@ Several participants have the possibility to transmit their screen content to se
 
 * Supported receivers: QuattroPod Standard, QuattroPod Deluxe, or QuattroPod Mini.
 
-* You need a WLAN access point.
+* You need a Wi-Fi access point.
 
 * Your router must accept the 'QuattroPod Sender / Receiver' [broadcast packets](/ports.md).
 
@@ -58,7 +58,7 @@ Several participants have the possibility to transmit their screen content to se
 
 ![](/assets/img/multicast_option.png)
 
-* Activate the `Multicast` option. Next, enter a name for the cast group in the `cast group` field. Finally, enter the SSID and password of a WLAN e.g. the WLAN of your school over which the multicast data should be sent:
+* Activate the `Multicast` option. Next, enter a name for the cast group in the `cast group` field. Finally, enter the SSID and password of a Wi-Fi e.g. the Wi-Fi of your school over which the multicast data should be sent:
 
 ![](/assets/img/Cast-Group.png)
 
@@ -66,7 +66,7 @@ Several participants have the possibility to transmit their screen content to se
 
 ![](/assets/img/restart.png)
 
-* After restart, the receiver starts in multicast mode. The specified cast group and the connected WLAN are displayed at the top:
+* After restart, the receiver starts in multicast mode. The specified cast group and the connected Wi-Fi are displayed at the top:
 
 ![](/assets/img/Multicast_activated.png)
 

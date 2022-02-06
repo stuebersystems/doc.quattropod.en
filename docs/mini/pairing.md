@@ -45,7 +45,7 @@ This is confirmed with **"Pairing OK"** on the landing page.
 
 ### Download pairing file via web interface
 
-With some systems, the receiver is out of range and requires a lot of effort to reach. However, you have the option of downloading a pairing file and copying the receiver`s information to the transmitter via USB stick. You can use FAT, FAT32, or NTFS as the file system of the USB stick.
+If the QuattroPod receiver is hard to reach physically you have the option of downloading a pairing file and copying the receiver`s information to the transmitter via USB stick. You can use FAT, FAT32, or NTFS as the file system of the USB stick.
 
 * Either download the pairing file `pairingInfo.json` from the menu item `Device Management` of the [web interface](adv.settings.md). 
 

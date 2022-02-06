@@ -44,7 +44,7 @@ You can fix the receiver with a good tape without damaging the screen. We can re
 
 !!! tip "Note"
     
-	Please note: When mounting the receiver, make sure there is a direct line of sight (LoS) between the antenna and the wireless access point and the transmitters or terminal devices to avoid WLAN signal interference.
+	Please note: When mounting the receiver, make sure there is a direct line of sight (LoS) between the antenna and the wireless access point and the transmitters or terminal devices to avoid Wi-Fi signal interference.
 	
 ![tesa mounting pads](/assets/img/RX_mounted.png)
 

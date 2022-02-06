@@ -38,12 +38,12 @@ For a compact product comparison with the other model versions of the QuattroPod
 
     [![QuattroPod Mini Data Sheet][4]{: align=left }][5]
 	
-	Ein doppelseitiges PDF zum Teilen oder Ausdrucken.
+	A double-sided PDF to share or print.
 	
 	[View Data Sheet (PDF)][5]
 
   [4]: /assets/img/quattropod.mini.brochure.de.png
-  [5]: https://download.stueber.de/doc/de/quattropod/quattropod-mini.brochure.de.pdf
+  [5]: https://download.stueber.de/doc/en/quattropod/quattropod-mini.brochure.en.pdf
 
 ## Introduction Video
 
@@ -51,7 +51,7 @@ For a compact product comparison with the other model versions of the QuattroPod
 
     [![QuattroPod Mini Introduction Video][6]{: align=left }][7]
 	
-	A brief introduction of QuattroPod Mini vorstellt.
+	A brief introduction to QuattroPod Mini.
 	
 	[View YouTube-Video][7]
 
