@@ -97,6 +97,7 @@ nav:
         - "User Guide: Chromecast": usb/chromecast.md
     - CMS: usb/cms.md       
     - Internet Access: usb/internet.md
+    - Setup Tips: usb/setup-tipps.md
     - Advanced Features:
         - Advanced Settings: usb/adv.settings.md
         - Captive Portal: usb/captiveportal.md
@@ -128,6 +129,7 @@ nav:
         - "User Guide: Chromecast": lite/chromecast.md
     - CMS: lite/cms.md    
     - Internet Access: lite/internet.md
+    - Setup Tips: lite/setup-tipps.md
     - Advanced Features:
         - Captive Portal: lite/captiveportal.md
         - Dynamic Wallpaper: lite/dynamicwallpaper.md
@@ -135,12 +137,12 @@ nav:
         - Conference Control: lite/conference-control.md
         - Display Mode: lite/monitor-setup.md 
         - Remote Management: lite/remote-management.md
-        - Transmitter Pairing: lite/pairing.md
         - Touch Back Function: lite/touchback.md
     - Update Firmware: lite/firmware-upgrade.md
     - Troubleshooting:
         - Reset Settings: lite/reset.md
         - Reinstall Firmware: lite/firmware-reinstall.md
+    - Transmitter Pairing: lite/pairing.md    
 - Mini: 
     - Introduction: mini/intro.md
     - Quick Start Guide: mini/quickstart.md
@@ -156,6 +158,7 @@ nav:
         - "User Guide: Chromecast": mini/chromecast.md
     - CMS: mini/cms.md    
     - Internet Access: mini/internet.md
+    - Setup Tips: mini/setup-tipps.md
     - Advanced Features:
         - Advanced Settings: mini/adv.settings.md
         - Captive Portal: mini/captiveportal.md
@@ -168,12 +171,12 @@ nav:
         - Multicast: mini/multicast.md
         - Remote Management: mini/remote-management.md
         - Transmitter Operation: mini/TX-controls.md
-        - Transmitter Pairing: mini/pairing.md
         - Touch Back Function: mini/touchback.md
     - Update Firmware: mini/firmware-upgrade.md
     - Troubleshooting: 
         - Reset Settings: mini/reset.md
-        - Reinstall Firmware: mini/firmware-reinstall.md
+        - Reinstall Firmware: mini/firmware-reinstall.md    
+    - Transmitter Pairing: mini/pairing.md       
 - Standard: 
     - Introduction: standard/intro.md
     - Quick Start Guide: standard/quickstart.md
@@ -189,6 +192,7 @@ nav:
         - "User Guide: Chromecast": standard/chromecast.md
     - CMS: standard/cms.md    
     - Internet Access: standard/internet.md
+    - Setup Tips: standard/setup-tipps.md
     - Advanced Features:
         - Advanced Settings: standard/adv.settings.md
         - Captive Portal: standard/captiveportal.md
@@ -200,12 +204,12 @@ nav:
         - Multicast: standard/multicast.md
         - Remote Management: standard/remote-management.md
         - Transmitter Operation: standard/TX-controls.md
-        - Transmitter Pairing: standard/pairing.md
         - Touch Back Function: standard/touchback.md
     - Update Firmware: standard/firmware-upgrade.md
     - Troubleshooting: 
         - Reset Settings: standard/reset.md
         - Reinstall Firmware: standard/firmware-reinstall.md
+    - Transmitter Pairing: standard/pairing.md
 - Deluxe:
     - Introduction: deluxe/intro.md
     - Quick Start Guide: deluxe/quickstart.md
@@ -221,6 +225,7 @@ nav:
         - "User Guide: Chromecast": deluxe/chromecast.md
     - CMS: deluxe/cms.md    
     - Internet Access: deluxe/internet.md
+    - Setup Tips: deluxe/setup-tipps.md
     - Advanced Features:
         - Advanced Settings: deluxe/adv.settings.md
         - Captive Portal: deluxe/captiveportal.md
@@ -232,11 +237,11 @@ nav:
         - Multicast: deluxe/multicast.md
         - Remote Management: deluxe/remote-management.md
         - Transmitter Operation: deluxe/TX-controls.md
-        - Transmitter Pairing: deluxe/pairing.md
         - Touch Back Function: deluxe/touchback.md
     - Update Firmware: deluxe/firmware-upgrade.md
     - Troubleshooting: 
         - Reset Settings: deluxe/reset.md
         - Reinstall Firmware: deluxe/firmware-reinstall.md
+    - Transmitter Pairing: deluxe/pairing.md
 - CMS: 
     - Introduction: cms.md  

@@ -1,99 +1,99 @@
-# Was ist Multicast?
+# What is Multicast?
 
-Die Funktion Multicast erlaubt es Ihnen die Bildschirminhalte eines Gerätes mit Hilfe eines gekoppelten Senders auf mehrere Displays gleichzeitig zu übertragen. 
+The Multicast function allows you to transmit the screen content of a device to multiple displays simultaneously using a paired transmitter. 
 
-Mehrere Teilnehmer haben die Möglichkeit, per Knopfdruck ihren Bildschirminhalt auf mehrere Displays zu übertragen. Dabei kann nur ein Teilnehmer auf einmal diese Funktion ausführen.
+Several participants have the possibility to transmit their screen content to several displays at the push of a button. Only one participant at a time can execute this function.
 
-!!! tip "Tip"
+!!! tip "Note"
     
-	Bitte beachten Sie, dass die Funktion Multicast auf dem [QuattroPod Lite](/lite/intro) nicht unterstützt wird. Jeder QuatroPod Empfänger (Standard, Deluxe, oder Mini), der über Multicast betrieben werden soll, muss entsprechend konfiguriert werden.
+	Please note that the Multicast function is not supported on the [QuattroPod Lite](/lite/intro). Any QuatroPod receiver (Standard, Deluxe, or Mini) that is to be multicast must be configured accordingly.
 	
 ![](/assets/img/Multicast.png)
 
-## Voraussetzungen
+## Requirements
 
-* Unterstützte Empfänger: QuattroPod Standard, QuattroPod Deluxe, oder QuattroPod Mini.
+* Supported receivers: QuattroPod Standard, QuattroPod Deluxe, or QuattroPod Mini.
 
-* Sie benötigen einen Wi-Fi Access Point.
+* You need a WLAN access point.
 
-* Ihr Router muss die `QuattroPod Sender / Empfänger` [Broadcast-Pakete](/ports.md) annehmen.
+* Your router must accept the 'QuattroPod Sender / Receiver' [broadcast packets](/ports.md).
 
-* Alle QuattroPod-Empfänger müssen sich im gleichen Netzwerk befinden.
+* All QuattroPod receivers must be in the same network.
 
-![](/assets/img/Broadcast_Pakete.png) 
+![](/assets/img/Broadcast_Packets.png) 
 
-!!! tip "Tip"
+!!! tip "Note"
     
-	Um eine bessere Leistung von Multicast zu erreichen, verbinden Sie den QuattroPod-Empfänger mit dem [Router per LAN-Kabel](internet.md).
+	For better performance of multicast, connect QuattroPod receiver to [router via LAN cable](internet.md).
 	
-## Firmware-Version prüfen
+## Check firmware version
 
-* Schalten Sie den QuattroPod-Empfänger ein. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.8529.10` angezeigt wird, wie unten abgebildet. Wenn nötig, aktualisieren Sie bitte Ihre [Firmware](firmware-upgrade.md).
+* Turn on the QuattroPod receiver. When the landing page appears, check if the minimum required version [1.8529.10] is displayed as shown below. If necessary, please upgrade your [firmware](firmware-upgrade.md).
 
-![Die Funktion Multicast steht ab der Firmware-Version 1.8529.10 zur Verfügung](/assets/img/quattropod.landingpage.fw.png)
+![The function Multicast is available from firmware version 1.8529.10](/assets/img/quattropod.landingpage.fw.png)
 
-## Erweiterte Einstellungen öffnen
+## Open advanced settings
 
-* Um die Web-Oberfläche zu erreichen, verbinden Sie Ihr Endgerät mit der SSID des QuattroPods. Die Zugangsdaten werden oben auf dem Bildschirm angezeigt:
+* To access the web interface, connect your end device to the QuattroPod's SSID. The credentials will be displayed at the top of the screen:
 
 ![](/assets/img/quattropod.ssid.connect.png)
 
-* In die Adressleiste eines Webbrowsers geben Sie die `Direct Link IP` des QuattroPods ein. Die Einstellungsoberfläche des QuattroPods erscheint:
+* In the address bar of a web browser, enter the 'Direct Link IP' of the QuattroPod. The settings interface of the QuattroPod appears:
 
 ![](/assets/img/quattropod_directIP.connect.png)
 
-### Sich als Admin anmelden
+### Log in as admin
 
-* Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#hardreset) zurück.
+* Enter the admin password and click `OK` to log in. By default, the password is `000000`. If this password is not accepted reset the device via [reset switch](reset.md#hardreset).
 
 ![](/assets/img/QuattroPod-Login.png)
 
-## Multicast aktivieren
+## Enable multicast
 
-* Wählen Sie den Menüpunkt `Admineinstellungen`:
+* Select the menu item 'Admin Settings':
 
 ![](/assets/img/quattropod.select.admin.png)
 
-* Wählen Sie den Menüpunkt `Multicast`aus:
+* Select the menu item `Multicast`:
 
 ![](/assets/img/multicast_option.png)
 
-* Aktivieren Sie die Option `Multicast`. Anschließend geben Sie einen Namen für die Cast-Gruppe im Feld `Besetzungsgruppe` ein. Schließlich geben Sie die SSID und das Kennwort eines Wi-Fis ein z.B. das Wi-Fi Ihrer Schule, über das die Multicast-Daten gesendet werden sollen:
+* Activate the `Multicast` option. Next, enter a name for the cast group in the `cast group` field. Finally, enter the SSID and password of a WLAN e.g. the WLAN of your school over which the multicast data should be sent:
 
-![](/assets/img/Cast-Gruppe.png)
+![](/assets/img/Cast-Group.png)
 
-* Die Einstellungen werden erst nach einem Neustart wirksam:
+* The settings will only take effect after a reboot:
 
 ![](/assets/img/restart.png)
 
-* Nach dem Neustart startet der Empfänger im Multicast-Modus. Die angegebene Cast-Gruppe und das verbundene Wi-Fi werden oben angezeigt:
+* After restart, the receiver starts in multicast mode. The specified cast group and the connected WLAN are displayed at the top:
 
 ![](/assets/img/Multicast_activated.png)
 
-## Sender koppeln
+## Pair transmitter
 
-* Schalten Sie den Standard-Sender  bzw. den Mini-Sender auf `PC` um:
+* Switch the default transmitter or the mini transmitter to 'PC':
 
-![](/assets/img/Sender_koppeln.png)
+![](/assets/img/Transmitter_pair.png)
 
-* Schließen Sie den Sender an den USB-Anschluss des Empfängers an und schalten Sie den Empfänger ein:
+* Connect the transmitter to the USB port of the receiver and turn on the receiver:
 
-![](/assets/img/Sender_koppeln2.png)
+![](/assets/img/Transmitter_pairing2.png)
 
-Die Meldung **"Pairing..."** erscheint automatisch auf der Startseite des QuattroPods.
+The message **"Pairing... "** will automatically appear on the QuattroPod's home screen.
 
 ![](/assets/img/pairing.png)
 
-Wenn das Koppeln abgeschlossen ist, erscheint die Meldung **"Pairing OK"**.
+When pairing is complete, the message **"Pairing OK "** appears.
 
 ![](/assets/img/pairing_ok.png)
 
-## Sendertaste drücken und Inhalte zeigen
+## Press transmitter button and show contents
 
-* Schließen Sie den Sender an Ihr Endgerät an und drücken Sie einfach die rote Sendertaste. 
+* Connect the transmitter to your terminal and simply press the red transmitter button. 
 
 ![](/assets/img/QSG-Mini.Transmitter.png)
 
-!!! tip "Tip"
+!!! tip "Note"
     
-	Eine umfassende User Guide wie Sie den Sender an Ihr spezifisches Endgerät anschließen finden Sie in der [Quick Start Guide](quickstart.md#Sender).
+	For comprehensive instructions on how to connect the transmitter to your specific terminal device, please refer to the [quickstart guide](quickstart.md#Transmitter).

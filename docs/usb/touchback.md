@@ -26,7 +26,7 @@ When switching to another participant, touch-back functionality is also availabl
 
 ## Check firmware version
 
-* Switch on the QuattroPod receiver. When the home page appears, check that the minimum required version '1.3877.0' is displayed, as shown below. If necessary, please upgrade your [firmware](adv.settings.md#upgrade).
+* Switch on the QuattroPod receiver. When the landing page appears, check that the minimum required version '1.3877.0' is displayed, as shown below. If necessary, please upgrade your [firmware](adv.settings.md#upgrade).
 
 ![Touch-Back function is enabled from firmware version 1.3877.0](/assets/img/quattropod.landingpage.fw.png)
 
@@ -44,7 +44,7 @@ When switching to another participant, touch-back functionality is also availabl
 
 Switch transmitter to PC](/assets/img/Pairing1.jpg)
 
-* If the receiver and transmitter are connected correctly, the start page is displayed on the screen and the large button on the transmitter lights up red. If your transmitter is not yet unlocked, [check the receiver](quickstart.md#setup) and [pair](pairing.md) the transmitter with the receiver again.
+* If the receiver and transmitter are connected correctly, the landing page is displayed on the screen and the large button on the transmitter lights up red. If your transmitter is not yet unlocked, [check the receiver](quickstart.md#setup) and [pair](pairing.md) the transmitter with the receiver again.
 
 ![QuattroPod transmitter unlocked](/assets/img/Transmitter_screen_ready.png)
 

@@ -27,7 +27,7 @@ System improvements:
 * Fixed the LED behavior of the transmitters
 * Improved Reverse Control
 * Improved Wi-Fi security against FragAttacks
-* Before the "Pairing OK" message is displayed on the home page, the system checks the Wi-Fi connection between the receiver and the transmitter.
+* Before the "Pairing OK" message is displayed on the landing page, the system checks the Wi-Fi connection between the receiver and the transmitter.
 
 ### 2021.11.03 | 1.12412.47
 
@@ -91,7 +91,7 @@ Improved web settings:
 * Improved HDMI input compatibility
 * Improved touch back stability for Windows and macOS
 * Improved Wi-Fi connectivity
-* Improved home page
+* Improved landing page
 * Optimized RGB color space and HDMI timing
 * Optimized power consumption
 
@@ -122,7 +122,7 @@ Improved web settings:
 * Fixed the LED behavior of the transmitters
 * Improved Reverse Control
 * Improved Wi-Fi security against FragAttacks
-* Before the "Pairing OK" message is displayed on the home page, the system checks the Wi-Fi connection between the receiver and the transmitter.
+* Before the "Pairing OK" message is displayed on the landing page, the system checks the Wi-Fi connection between the receiver and the transmitter.
 
 ### 2021.11.03 | 1.12412.47
 

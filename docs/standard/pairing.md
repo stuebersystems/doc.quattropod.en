@@ -4,7 +4,7 @@ The QuattroPod receiver can be paired with up to 32 transmitters simultaneously.
 
 There are two ways to pair a transmitter with a receiver
 
-The transmitter is connected to the USB port of the receiver and the units pair automatically. Some find this option easiest if the receiver is within easy reach. If the receiver is mounted on the ceiling or is simply difficult to reach, pair the [transmitter via USB stick](#sender-per-usb-stick-pair).
+The transmitter is connected to the USB port of the receiver and the devices pair automatically. Some find this option easiest if the receiver is within easy reach. If the receiver is mounted on the ceiling or is simply difficult to reach, pair the [transmitter via USB stick](#sender-per-usb-stick-pair).
 
 * Switch the transmitter to 'PC'. 
 
@@ -14,7 +14,7 @@ The transmitter is connected to the USB port of the receiver and the units pair 
 
 ![](/assets/img/Pairing2.jpg)
 
-The message **"Pairing... "** automatically appears on the QuattroPod's start page.
+The message **"Pairing... "** automatically appears on the QuattroPod's landing page.
 
 ![](/assets/img/Pairing3.jpg)
 
@@ -26,7 +26,7 @@ After a few seconds, the transmitter is paired with the QuattroPod. The receiver
 
 ![](/assets/img/Transmitter_white.jpg)
 
-This is confirmed with **"Pairing OK "** on the start page.
+This is confirmed with **"Pairing OK "** on the landing page.
 
 ![](/assets/img/Pairing5.jpg)
 

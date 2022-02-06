@@ -106,7 +106,7 @@ With full screen mode, the input of the end device is automatically adjusted to 
 
 ### Timed restart {#timedrestart}
 
-To optimise the performance of the QuattroPod, especially for units that are in continuous operation, switch the `timed restart` option **ON**. The receiver will restart automatically if the following conditions apply:
+To optimise the performance of the QuattroPod, especially for devices that are in continuous operation, switch the `timed restart` option **ON**. The receiver will restart automatically if the following conditions apply:
 
 * The QuattroPod has not been in operation for 8 hours. 
 * All transmitters have been switched off for at least 8 hours.
@@ -139,9 +139,9 @@ For security reasons, the password can be changed or hidden.
 
 ### My screen {#My screen}
 
-If desired, you can change the picture of the home page. This is a permanent change. Once a new image has been added, the previous image cannot be restored, even with a [Reset Settings](reset.md) of the receiver.
+If desired, you can change the picture of the landing page. This is a permanent change. Once a new image has been added, the previous image cannot be restored, even with a [Reset Settings](reset.md) of the receiver.
 
-You can find a download of the start page we have provided [here](https://download.stueber.de/doc/de/quattropod/QuattroPod.Lite_Startseite.DE.png).
+You can find a download of the landing page we have provided [here](https://download.stueber.de/doc/de/quattropod/QuattroPod.Lite_Startseite.DE.png).
 
 ![](/assets/img/My_Screen.jpg)
 
@@ -159,7 +159,7 @@ Turn off the receiver's screen or HDMI output after a certain period of inactivi
 
 Inactivity means that the Home screen is displayed on the screen and no transmitters are transmitting content.
 
-![Inactivity starts when the home page is displayed](/assets/img/quattropod.lite.landingpage.png)
+![Inactivity starts when the landing page is displayed](/assets/img/quattropod.lite.landingpage.png)
 
 While the screensaver is running, the receiver remains in operation. The web interface is accessible and the transmitters can still be connected.
 

@@ -146,7 +146,7 @@ Search for the app **QuattroPod** in the [Google Play Store](https://play.google
 
 #### Connect App to QuattroPod
 
-If you have [connected](#setup) the QuattroPod correctly, the following start page appears on the screen:
+If you have [connected](#setup) the QuattroPod correctly, the following landing page appears on the screen:
 
 ![The Landing Page](/assets/img/quattropod.landingpage.png)
 

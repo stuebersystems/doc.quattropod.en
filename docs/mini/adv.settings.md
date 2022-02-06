@@ -139,9 +139,9 @@ For security reasons, the password can be changed or hidden.
 
 ### My screen {#My screen}
 
-If desired, you can change the picture of the home page. This is a permanent change. Once a new image has been added, the previous image cannot be restored, even with a [Reset Settings](reset.md) of the receiver.
+If desired, you can change the picture of the landing page. This is a permanent change. Once a new image has been added, the previous image cannot be restored, even with a [Reset Settings](reset.md) of the receiver.
 
-You can find a download of the start page we have provided [here](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png).
+You can find a download of the landing page we have provided [here](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png).
 
 ![](/assets/img/My_Screen.jpg)
 
@@ -178,7 +178,7 @@ Turn off the receiver's screen or HDMI output after a certain period of inactivi
 
 Inactivity means that the Home screen is displayed on the screen and no transmitters are transmitting content.
 
-![Inactivity starts when the start page is displayed](/assets/img/QuattroPod_Startpage.png)
+![Inactivity starts when the landing page is displayed](/assets/img/QuattroPod_Startpage.png)
 
 While the screen saver is running, the receiver remains in operation. The web interface is accessible and the transmitters can still be connected.
 

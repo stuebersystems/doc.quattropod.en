@@ -54,7 +54,7 @@ The update is carried out via the Web interface in any web browser of your choic
 
 !!! tip "Tip"
     
-	If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the units again.
+	If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.
 
 ## Update Firmware via internet with CMS
 
@@ -91,7 +91,7 @@ The new firmware is downloaded and installed automatically.
 
 !!! tip "Tip"
 
-     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the units again.
+     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.
 	 
 	 
 ## Update Firmware without internet with CMS
@@ -132,7 +132,7 @@ QuattroPod Mini Transmitter (T02) | [Download](firmware-reinstall.md#T02_install
 
 !!! tip "Tip"
 
-     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the units again.
+     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.
 
 
 
@@ -145,7 +145,6 @@ This method enables you to update the firmware on your devices via USB stick wit
 
 * Download the latest firmware for your device:
 
-
 Device Type               | Download      |
 ------------------------- | ------------------------- | 
 QuattroPod Standard Receiver (R01) | [Download](firmware-reinstall.md#R01_install_other_fw)
@@ -156,9 +155,13 @@ QuattroPod Standard Receiver (R01) | [Download](firmware-reinstall.md#R01_instal
 
 ![](/assets/img/format.usb2.png)
 
-* Copy the firmware to the USB stick. Then rename the firmware to `install_ota.gz`. 
+* Copy the firmware to the root of the USB stick and rename it to `install_ota.gz`.
 
-* Download the file [lazymaclist](https://download.stueber.de/doc/de/support/lazymaclist) on the USB stick. Both files should be saved to the root directory:
+* Create a new text file on the USB stick called `lazymaclist` and remove the **.txt** file extension:
+
+![](/assets/img/lazymaclist.png)
+
+* Both files should be saved to the root directory:
 
 ![](/assets/img/usb.fw.structure.png)
 
@@ -170,21 +173,68 @@ QuattroPod Standard Receiver (R01) | [Download](firmware-reinstall.md#R01_instal
 
 ![](/assets/img/quattropod.landingpage.png)
 
-* Plug the USB stick into the USB A port found on the back of the QuattroPod receiver.
+* Plug the USB stick into the USB A port found at the back of the QuattroPod receiver.
 
-![](/assets/img/CMS-firmware.install.latest.firmware.png)
+![](/assets/img/QP-connect.USBStick.png)
 
 * Within a few seconds the following message will be displayed. After approprimates 30 secs the firmware installation will begin:
 
-![](/assets/img/CMS-firmware.upgrade.FILE.png)
+![](/assets/img/start.download.fw.from.usb.png)
 
-* When ready, click on the `Apply` button to perform the update:
+* While the receiver is being updated the following message will appear:
 
-![](/assets/img/CMS-firmware.upgrade.FILE.apply.png)
+![](/assets/img/Update.R01.png)
 
+* When firmwre update completes confirm the new version number on the landing page:
 
+![](/assets/img/quattropod.landingpage.fw.png)
+
+!!! tip "Tip"
+    
+	If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.
+	
 ### Update the Mini-Transmitter (T02) via USB Stick
 
 Device Type               | Download      |
 ------------------------- | ------------------------- | 
 QuattroPod Mini Transmitter (T02) | [Download](firmware-reinstall.md#T02_install_other_fw)
+
+* Connect a USB stick to your computer and make sure it is formated FAT32.
+
+![](/assets/img/format.usb1.png)
+
+![](/assets/img/format.usb2.png)
+
+* Copy the firmware to the root of the USB stick and rename it to `install_ota.gz`.
+
+* Create a new text file on the USB stick called `lazymaclist` and remove the **.txt** file extension:
+
+![](/assets/img/lazymaclist.png)
+
+* Download the file [lazymaclist](https://download.stueber.de/doc/de/support/lazymaclist) on the USB stick. Both files should be saved to the root directory:
+
+![](/assets/img/usb.fw.structure.png)
+
+* Now safely eject the USB stick from your computer.
+
+![](/assets/img/format.usb3.png)
+
+* Switch the Mini transmitter to `Mobile` mode:
+
+![](/assets/img/quattropod.mini.tx.mobile.png)
+
+* Plug the QuattroPod Mini transmitter and it a USB port with at least 5V/1A power. Once the 
+
+![](/assets/img/QP.mini.usbstick.png)
+
+* While the transmitter is updating the cast button will repeatidly blink red for 1-2 minutes. When the firmware update is complete the transmitter LEDs will stop flashing.
+
+![](/assets/img/quattropod.mini.usb.pairing.png)
+
+* When firmwre update completes confirm the new version number on the [About](adv.settings.md#About) page:
+
+![](/assets/img/quattropod.landingpage.fw.png)
+
+!!! tip "Tip"
+    
+	If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.

@@ -80,7 +80,7 @@ Improved web settings:
 
 **New features:**
 
-* [Dynamic wallpaper](dynamicwallpaper.md): Customise the start page with pictures and video
+* [Dynamic wallpaper](dynamicwallpaper.md): Customise the landing page with pictures and video
 
 **Fixes:**
 

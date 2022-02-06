@@ -15,7 +15,7 @@
 
 ![Connect QuattroPod Receiver](/assets/img/QSG-Receiver.png).
 
-The following start page appears on your screen:
+The following landing page appears on your screen:
 
 ![QuattroPod Standard Home Page](/assets/img/quattropod.landingpage.png)
 
@@ -57,7 +57,7 @@ You need to enable USB debugging once, then connect the transmitter and press th
 
 ![](/assets/img/QSG-Android-Switch-to-Mobile.png)
 
-If the receiver and transmitter are connected correctly, the home page will appear on the screen and the big button on the transmitter will light up red. If your transmitter is not yet unlocked, [check the receiver](quickstart.md#setup) and [pair](pairing.md) the transmitter with the receiver again.
+If the receiver and transmitter are connected correctly, the landing page will appear on the screen and the big button on the transmitter will light up red. If your transmitter is not yet unlocked, [check the receiver](quickstart.md#setup) and [pair](pairing.md) the transmitter with the receiver again.
 
 ![](/assets/img/NEC_E506_QuattroPod_startpage.png)
 
@@ -110,7 +110,7 @@ If the receiver and transmitter are connected correctly, the Home screen will ap
 
   [3]: /assets/img/thumbnail.USB-C_Multiport-Adapter.png
 
-If the receiver and transmitter are connected correctly, the home page will appear on the screen and the big button on the transmitter will light up red. If your transmitter is not yet unlocked, [check the receiver](quickstart.md#setup) and [pair](pairing.md) the transmitter with the receiver again.
+If the receiver and transmitter are connected correctly, the landing page will appear on the screen and the big button on the transmitter will light up red. If your transmitter is not yet unlocked, [check the receiver](quickstart.md#setup) and [pair](pairing.md) the transmitter with the receiver again.
 
 ![](/assets/img/NEC_E506_QuattroPod_startpage.png)
 
@@ -148,7 +148,7 @@ Search for the app **QuattroPod** in the [Google Play Store](https://play.google
 
 Connect #### App with QuattroPod
 
-If you have [connected](#setup) the QuattroPod correctly, the following start page appears on the screen:
+If you have [connected](#setup) the QuattroPod correctly, the following landing page appears on the screen:
 
 ![](/assets/img/quattropod.landingpage.png)
 

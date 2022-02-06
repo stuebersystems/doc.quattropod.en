@@ -1,35 +1,29 @@
-# LED-Status Übersicht
+# LED status overview
 
-Hier finden Sie alle Status des Senders:
+Here you can find all statuses of the transmitter:
 
-LED                       | Beschreibung           
+LED | Description           
 ------------------------- | ------------
-![](/assets/img/sender-1.png) | Host freigeschaltet. Keine Eingangsquelle
-![](/assets/img/sender-9.png) | Host in Bereitschaft. Keine Inhalte werden übertragen
-![](/assets/img/sender-2.png) | Host freigeschaltet. Inhalte werden übertragen
-![](/assets/img/sender-7.png) | Gast verbunden mit dem Empfänger. Keine Eingangsquelle
-![](/assets/img/sender-3.png) | Gast in Bereitschaft. Keine Inhalte werden übertragen
-![](/assets/img/sender-4.png) | Gast fordert Senden an. Wartet auf Freischaltung vom Host
-![](/assets/img/sender-8.png) | Host erhält Senden-Anfrage vom Gast
-![](/assets/img/sender-5.png) | Gast-Senden vom Host freigeschaltet. Inhalte werden übertragen
-![](/assets/img/sender-11.png)| Koppeln abgeschlossen
-![](/assets/img/sender-6.png) | Sender-OTA abgeschlossen
-![](/assets/img/sender-10.png) | - Verbindung wird hergestellt.<br> - Koppeln/Sender OTA wird heruntergeladen und installiert<br> - Verbindung ist gescheitert (blinkt seit 1Min.)
-![](/assets/img/sender-12.png) | Sender-OTA ist gescheitert
+![](/assets/img/sender-1.png) | Host enabled. No input source
+![](/assets/img/sender-9.png) | Host on standby. No content is being transmitted
+![](/assets/img/sender-2.png) | Host unlocked. Contents are transferred
+![](/assets/img/sender-7.png) | Guest connected to the receiver. No input source
+![](/assets/img/sender-3.png) | Guest on standby. No content is transmitted
+![](/assets/img/sender-4.png) | Guest requests to send. Waits for activation from host
+![](/assets/img/sender-8.png) | Host receives send request from guest
+![](/assets/img/sender-5.png) | Guest sending enabled by host. Contents are transmitted
+![](/assets/img/sender-11.png)| Pairing completed
+![](/assets/img/sender-6.png) | Sender OTA completed
+![](/assets/img/sender-10.png) | - Connection is established.<br> - Pairing/transmitter OTA is downloaded and installed<br> - Connection failed (flashing since 1min.)
+![](/assets/img/sender-12.png) | Sender OTA has failed
 
-#  Sender-Steuerung
+# Transmitter control
 
-Hier finden Sie eine Tabelle aller Tastenkombinationen:
+Here you can find a table of all key combinations:
 
-| Haupttaste (Mirror-Taste) | Host | Gast
+| Main key (Mirror key) | Host | Guest
 | :----: | :----: |:----: |
-| ![](/assets/img/Main-Button_Single-click.png)<br>Ein Klick | Senden/Beenden | Senden anfordern
-| ![](/assets/img/Main-Button_Hold-3-seconds.png)<br>3 Sek. gedrückt halten | Vollbild senden | Vollbild-Senden anfordern
+| ! [](/assets/img/Main-Button_Single-click.png)<br>One Click | Send/Exit | Request Send
+| ! [](/assets/img/Main-Button_Hold-3-seconds.png)<br>Hold for 3 sec. | Send Full Screen | Request Full Screen Send
 
-#  Host-Steuerung
-
-| Seitetaste (Steuertaste) | Host | Gast
-| :----: | :----: |:----: |
-| ![](/assets/img/Side-button_Single-Click.png)<br>Einmal drücken | Dem Gast das Senden freischalten
-| ![](/assets/img/Side-button_Double-click.png)<br>Zweimal drücken | Anforderung ablehnen
-| ![](/assets/img/Side-button_Hold-3-Seconds.png)<br>3 Sek. gedrückt halten | Alle Anzeigen beenden
+# Host control

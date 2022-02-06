@@ -87,7 +87,7 @@ The new firmware is downloaded and installed automatically.
 
 !!! tip "Tip"
 
-     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the units again.
+     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.
 	 
 	 
 ## Update Firmware without internet with CMS
@@ -128,7 +128,7 @@ QuattroPod Standard Transmitter (T01) | [Download](firmware-reinstall.md#T01_ins
 
 !!! tip "Tip"
 
-     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the units again.
+     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.
 
 
 

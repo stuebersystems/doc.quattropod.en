@@ -1,88 +1,91 @@
-# QuattroPod auf Standardeinstellungen zurücksetzen
 
-Es gibt mehrere Gründe für einen Reset des QuattroPods auf Werkseinstellungen:
+# Reset QuattroPod to default settings
 
-* Sie haben das Admin-Kennwort für die [Erweiterten Einstellungen](adv.settings.md) vergessen.
+There are several reasons for resetting the QuattroPod to factory settings:
 
-* Sie haben Änderungen in Ihrer Netzwerkinfrastruktur, den LAN-TCP/IP-Einstellungen oder den SSID-Zugangsdaten des QuattroPods vorgenommen und Ihr QuattroPod ist nicht mehr erreichbar.
+* You have forgotten the admin password for the [Advanced settings](adv.settings.md).
 
-* Sie haben Probleme eine ungewollte Änderung auf dem QuattroPod rückgängig zu machen.
+* You have made changes to your network infrastructure, LAN TCP/IP settings, or the QuattroPod's SSID credentials and your QuattroPod is no longer accessible.
 
-Mit einem Zurücksetzen werden alle Einstellungen zurückgesetzt, außer die [Wi-Fi-SSID](adv.settings.md#SSID), das [Hintergrundbild](adv.settings.md#Mein-Bildschirm) der  Startseite, und die Firmware-Version.
+* You are having trouble undoing an unwanted change on the QuattroPod.
 
-## Zurücksetzen per Reset-Schalter {#hardreset}
+A reset resets all settings except the [WLAN SSID](adv.settings.md#SSID), the [Wallpaper](adv.settings.md#My Screen) of the landing page, and the firmware version.
 
-Wenn Ihnen die Zugangsdaten zu der [Web-Oberfläche](adv.settings.md) nicht bekannt sind, haben Sie die Möglichkeit mit dem Reset-Schalter die Standardeinstellungen zurückzusetzen:
+## Reset via reset switch {#hardreset}
 
-* Mit Hilfe eines kleinen "Stifts" halten Sie den Reset-Schalter ca. 10 Sekunden lang gedrückt. 
+If you do not know the access data to the [Web interface](adv.settings.md), you have the possibility to reset the default settings with the reset switch:
 
-![Reset-Schalter befindet sich an der Rückseite des QuattroPods](/assets/img/Press-Reset-Button.jpg)
+* Using a small "pen", press and hold the reset switch for about 10 seconds. 
 
-* Wenn die folgende Meldung erscheint, lassen Sie den Reset-Schalter los.
+![Reset button is located at the back of the QuattroPod](/assets/img/Press-Reset-Button.jpg)
+
+* When the following message appears, release the reset switch.
 
 ![](/assets/img/Reset_config_complete.png)
 
-* Nach dem Zurücksetzen muss bei der ersten Anmeldung auf der Web-Oberfläche das Land des Wi-Fi-Kanals ausgewählt werden. Für Geräte innerhalb Europa wählen Sie bitte `EUROPE` aus. Geben Sie anschließend ein neues Admin-Kennwort ein.
+* After the reset, the country of the WLAN channel must be selected during the first login on the web interface. For devices within Europe, please select `EUROPE`. Then enter a new admin password.
 
 ![](/assets/img/wifi.land.selection.EN.png)
 
-## Zurücksetzen per Web-Oberfläche
+## Reset via web interface
 
-Mit Hilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) können Sie sich anmelden und mit einem beliebigen Webbrowser auf die Standardeinstellungen zurücksetzen.
+Using the [Advanced settings](adv.settings.md) function, you can log in and reset to the default settings using any web browser.
 
-**Anmeldung**
+**Registration**
 
-* Make a note of the IP address which is displayed at the bottom left of the landing page.
+* Make a note of the IP address displayed at the bottom left of the landing page.
 
 ![](/assets/img/QuattroPod_IP.png)
 
-* Open your preferred web browser.
+* Now call up your web browser.
 
 ![](/assets/img/Google_Chrome.png)
 
-* Click in the browser address bar and enter the IP address of the QuattroPod then press enter.
+* Click with the mouse in the address bar of the browser and enter the IP address of the QuattroPod.
 
 ![](/assets/img/IP-Address.png)
 
-* Nachdem Sie die Eingabetaste gedrückt haben, erscheint die Einstellungsoberfläche des QuattroPods. Geben Sie das Kennwort ein. Standardmäßig lautet es `000000`. Wenn dieses Kennwort nicht akzeptiert wird, müssen Sie ein [Zurücksetzen per Reset-Schlater](#zurücksetzen-per-reset-schalter) durchführen.
+* After pressing the Enter key, the QuattroPod's settings interface appears. Enter the password. By default, it is `000000`. If this password is not accepted, you must perform a [reset-per-reset-switch](#reset-per-reset-switch).
 
 ![](/assets/img/QuattroPod-Login.png)
 
-* Die folgenden Funktionen stehen zur Verfügung. Wählen Sie den Menüpunkt `Admineinstellungen`:
+* The following functions are available. Select the `Admin Settings` menu item:
 
 ![](/assets/img/quattropod.select.admin.png)
 
-* Führen Sie die Funktion `Auf Standardeinstellungen zurücksetzen` aus. Der Empfänger startet sich neu:
+* Execute the function `Reset to default settings`. The receiver restarts itself:
 
 ![](/assets/img/reset_option.png)
 
-* Sie können auswählen, genau welche Geräte zurückgesetzt werden sollen. Dies beeinflusst weder das Hintergrundbild der Startseite, die SSID, noch die Firmware-Version. Klicken Sie auf `OK`, um das Gerät neu zu starten:
+* You can choose exactly which devices to reset. This does not affect the home screen wallpaper, SSID, or firmware version. Click `OK` to reboot the device:
 
-![Auf Standardeinstellungen zurücksetzen](/assets/img/reset_settings.png)
+![Reset to default settings](/assets/img/reset_settings.png)
 
-* Nach dem Zurücksetzen des Empfängers muss bei der ersten Anmeldung auf der Web-Oberfläche das Land des Wi-Fi-Kanals ausgewählt werden. Für Geräte innerhalb Europa wählen Sie bitte `EUROPE` aus. Geben Sie ein neues Admin-Kennwort ein und klicken Sie anschließend auf `Apply and Reboot`, um das Gerät neu zu starten:
+* After resetting the receiver, the country of the WLAN channel must be selected during the first login on the web interface. For devices within Europe, please select `EUROPE`. Enter a new admin password and then click `Apply and Reboot` to reboot the device:
 
 ![](/assets/img/wifi.land.selection.EN.png)
 
-!!! tip "Tip"
+!!! tip "Note"
     
-	Wenn Ihr Sender sich dach dem Zurücksetzen nicht freischalten lässt, überprüfen Sie den [Empfänger](quickstart.md#setup) und [kopplen](pairing.md) Sie den Sender mit dem Empfänger neu.
+	If your transmitter does not unlock after reset, check the [receiver](quickstart.md#setup) and [pair](pairing.md) the transmitter with the receiver again.
 
-## Einstellungen nach dem Zurücksetzen {#recommendedsettings}
+## Settings after reset {#recommendedsettings}
 
-Wir empfehlen die folgenden Einstellungen:
+We recommend the following settings:
 
-Firmware-Version: 1.8529.10
+Firmware-Version: [1.12412.42](whatsnew.md#20210712-11241242)
 
-**Gerätemanagement**
+**Device Management**
 
-* [Sprache](adv.settings.md#Sprache): `DEUTSCH`
-* [Android Audioübertragung](adv.settings.md#Android-Audio-Streaming): `EIN`
-* [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `EIN`
+* [Language](adv.settings.md#Language): `German`.
+* [Android audio streaming](adv.settings.md#Androidsoundstreaming): `ON`
+* [Timed restart](adv.settings.md#timedrestart): `2 hours`.
 
-**Admineinstellungen**
+**Admin Settings**
 
-* [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): unsere [Startseite](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png) in der deutschen Sprache
-* [Wi-Fi-Modus](adv.settings.md#Wifi-Channel): `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
-* [AirPlay](adv.settings.md#AirPlay): `EIN`
-* [Google Cast](adv.settings.md#google-cast-chromecast): `EIN`
+* [WLAN Mode](adv.settings.md#WiFi-Mode): `Country = EUROPE`, `Channel = Auto`, `Bandwidth = 20MHz`.
+* [Central Management System](adv.settings.md#AirView): `ON`
+* [My screen](adv.settings.md#Mein-Bildschirm): our [landing page](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png) in German language
+* [AirPlay](adv.settings.md#AirPlay): `ON`
+* [Castcode](adv.settings.md#castcode): `Random`.
+* [Google Cast](adv.settings.md#google-cast): `ON`

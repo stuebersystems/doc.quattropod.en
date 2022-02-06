@@ -1,33 +1,33 @@
-# Monitor-Modus
+# Monitor mode
 
-Mit QuattroPod wird der Sender direkt mit der Grafikkarte Ihres Rechners angeschlossen. Ein großer Vorteil von QuattroPod gegenüber anderer Lösungen auf dem Markt, die das Video nur über USB übertragen, ist daher: **Der QuattroPod unterstützt sowohl Multi-Monitor-Modus als auch Duplizieren.**
+With QuattroPod, the transmitter is directly connected to the graphics card of your computer. Therefore, a great advantage of QuattroPod over other solutions on the market that only transmit the video via USB: **QuattroPod supports both multi-monitor mode and duplication.**
 
-Einfach gesagt kann der QuattroPod genau das machen, was Ihr Rechner über das Videokabel machen kann.
+Simply put, the QuattroPod can do exactly what your computer can do via the video cable.
 
-* Um die Einstellungen unter Windows 7, 8 und 10 aufzurufen, drücken Sie das Tastenkürzel `[Windowstaste]` +`[P]`:
+* To access the settings under Windows 7, 8 and 10, press the keyboard shortcut `[Windows key]` +`[P]`:
 
-![Das Tool DisplaySwitch - (Windowstaste + P)](/assets/img/displayswitch.jpg)
+![The DisplaySwitch tool - (Windows key + P)](/assets/img/displayswitch.jpg)
 
-!!! tip "Tip"
+!!! tip "Note"
     
-	Wenn einer der Monitor-Modi (z.B. Duplizieren) nicht funktioniert, liegt es wahrscheinlich nicht am QuattroPod, sondern an der Grafikkarte Ihres Rechners. Probieren Sie bitte den Modus einmal per Kabel aus, um das Problem zu bestätigen. Es ist möglich, dass Sie einen aktuelleren Grafiktreiber benötigen.
+	If one of the monitor modes (e.g. duplicate) does not work, it is probably not the QuattroPod, but the graphics card of your computer. Please try the mode once via cable to confirm the problem. It is possible that you need a more recent graphics driver.
 	
-## Duplizieren
+## Duplicate
 
-* Wenn Sie die Einstellung `Duplizieren` auswählen, wird Ihren Desktop dupliziert.
+* If you select the 'Duplicate' setting, your desktop will be duplicated.
 
 ![](/assets/img/duplicate.jpg)
 
 
-## Erweitern
+## Expand
 
-* Wenn Sie die Einstellung `Erweitern` auswählen, wird Ihr Desktop erweitert.
+* If you select the `Expand` setting, your desktop will be expanded.
 
 ![](/assets/img/extend.jpg)
 
 ## Audio
 
-* Um Ihr Audio auf den Bildschirm zu übertragen, wählen das QuattroPod-Wiedergabegerät aus.
+* To transfer your audio to the screen, select the QuattroPod playback device.
 
 ![](/assets/img/sound.jpg)
 
