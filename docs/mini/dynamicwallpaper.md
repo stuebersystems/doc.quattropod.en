@@ -1,159 +1,159 @@
-# Dynamisches Hintergrundbild
+# Dynamic Wallpaper
 
-## Was ist ein Dynamisches Hintergrundbild?
+## What is a Dynamic Wallpaper?
 
-Das dynamische Hintergrundbild, ist eine Funktion, die nach einer einstellbaren Zeit der Inaktivität automatisch gestartet wird und eine Sammlung von Bildern bzw. Videos auf dem Bildschirm anzeigt. Es dient folgenden Zwecken:
+Dynamic wallpaper is a feature that starts automatically after a configurable period of inactivity and displays a collection of images or videos on the screen. It serves the following purposes:
 
-* Bildschirmschoner-Funktion
+* Screen saver function
 
-* Werbezwecke in Geschäften
+* Advertising purposes in stores
 
 * Public Display / Digital Signage
 
-## Erstellen einer JSON-Datei
+## Create a JSON file
 
-Gehen Sie wie folgt vor:
+Proceed as follows:
 
-* Öffnen Sie den Windows-Editor (oder einen anderen Texteditor) und erzeugen Sie eine neue leere Datei.
+* Open the Windows editor (or other text editor) and create a new empty file.
 
-* Kopieren Sie die JSON-Textblöcke in den Texteditor, die unter zu finden sind und ändern Sie den Inhalt nach Ihren Wünschen ab. Für zusätzliche Einträge kopieren Sie die Abschnitte, die in geschweiften Klammern `{}` eingeschlossen sind, so oft wie nötig.
+* Copy the JSON text blocks into the text editor, which can be found at and modify the content according to your needs. For additional entries, copy the sections enclosed in curly brackets `{}` as many times as necessary.
 
 
-### Inhalte aus dem Internet
+### Contents from the Internet
 
-Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.stueber.de/doc/de/content/wallpaper_file.json) zum Download zur Verfügung.
+Our sample file `wallpaper_file.json` is available for download [here](https://download.stueber.de/doc/de/content/wallpaper_file.json).
 
-!!! info "Hinweis"
+!!! info "Note"
 
-    Es werden nur die Dateiformate `.MP4` und `.JPG` unterstützt.
+    Only the file formats `.MP4` and `.JPG` are supported.
 	
 
 ```` xml
 {
-   "slideshow": [
+   { "slideshow": [
 		{
-         "image_url": "https://download.stueber.de/doc/de/content/pic1.jpg",
+         }, "image_url": { "https://download.stueber.de/doc/de/content/pic1.jpg",
          "attribution": "Test Picture 1",
          "duration": 10,
 		},
 		{
          "image_url": "https://download.stueber.de/doc/de/content/pic2.jpg",
          "attribution": "Test Picture 2",
-         "duration": 10,
+         }, { "duration": 10,
 		},
 		{
-         "url": "https://download.stueber.de/doc/de/content/video1.mp4",
-         "title": "QuattroPod USB - Kabelloses Präsentieren der nächsten Generation",
+         }, "url": "https://download.stueber.de/doc/de/content/video1.mp4",
+         "title": "QuattroPod USB - Next Generation Wireless Presenting."
 		},  	  	       
 	],
 	"next": ""
 }
 ````
 
-### Inhalte auf einem USB-Stick
+### Contents on a USB stick
 
-Unsere Beispieldatei `wallpaper_file.json` zum steht Ihnen [hier](https://download.stueber.de/doc/de/content/usb/wallpaper_file.json) zum Download zur Verfügung. 
+Our sample file `wallpaper_file.json` for is available for download [here](https://download.stueber.de/doc/de/content/usb/wallpaper_file.json). 
 
-!!! info "Hinweis"
+!!! info "Note"
 
-    Es werden nur die Dateiformate `.MP4` und `.JPG` unterstützt.
+    Only the file formats `.MP4` and `.JPG` are supported.
 	
 ```` xml
 {
-   "slideshow": [
+   { "slideshow": [
 		{
-         "image_url": "/media/usb0/pic1.jpg",
+         "image_url": { "/media/usb0/pic1.jpg",
          "attribution": "Test Picture 1",
          "duration": 10,
 		},
 		{
-         "image_url": "/media/usb0/pic2.jpg",
+         "image_url":"/media/usb0/pic2.jpg",
          "attribution": "Test Picture 2",
-         "duration": 10,
+         "duration": 10, }
 		},
 		{
-         "url": "/media/usb0/video1.mp4",
-         "title": "QuattroPod USB - Kabelloses Präsentieren der nächsten Generation",
+         }, "url":"/media/usb0/video1.mp4",
+         "title": "QuattroPod USB - Next Generation Wireless Presenting."
 		},  	  	       
 	],
 	"next": ""
 }
 ````
 
-* Speichern Sie die Datei als `wallpaper_file.json` zusammen mit den Bildern- und Videodateien im Wurzelverzeichnis eines USB-Sticks ab.
+* Save the file as `wallpaper_file.json` together with the image and video files in the root directory of a USB stick.
 
 ![](/assets/img/Dynamic.Wallpaper.savefiles.usb.png)
 
-* Stecken Sie den USB-Stick an den USB-Anschluss des Empfängers an. Die LED `USB` leuchtet weiß.
+* Plug the USB stick into the USB port of the receiver. The `USB` LED will light up white.
 
 ![](/assets/img/QP-connect.USBStick.png)
 
-* Speichern Sie die Datei als `wallpaper_file.json` ab und laden Sie die Datei auf einen Webserver hoch, auf den das QuattroPod Gerät zugreifen kann.
+* Save the file as `wallpaper_file.json` and upload the file to a web server that the QuattroPod device can access.
 	
-### JSON-Syntax
+### JSON syntax
 
-* `image_url` Der Pfad zur Bilddatei.
+* `image_url` The path to the image file.
 
-* `attribution` Das Titel der Bilddatei.
+* `attribution` The title of the image file.
 
-* `duration` Die Anzeigedauer der Bilddatei.
+* `duration` The display duration of the image file.
 
-* `url` Der Pfad zur Videodatei.
+* `url` The path to the video file.
 
-## Wie legt man das Dynamische Hintergrundbild fest?
+## How to set the Dynamic Wallpaper
 
-### Erweiterte Einstellungen öffnen
+### Open Advanced Settings
 
-* Verbinden Sie Ihr Endgerät mit der auf der SSID des QuattroPods. Die Zugangsdaten werden oben auf dem Bildschirm angezeigt:
+* Connect your terminal device to the on the SSID of the QuattroPod. The credentials will be displayed at the top of the screen:
 
 ![](/assets/img/quattropod.ssid.connect.png)
 
-* In die Adressleiste eines Webbrowsers geben Sie die `Direct Link IP` des QuattroPods ein. Die Einstellungsoberfläche des QuattroPods erscheint:
+* In the address bar of a web browser, enter the 'Direct Link IP' of the QuattroPod. The settings interface of the QuattroPod appears:
 
 ![](/assets/img/quattropod_directIP.connect.png)
 
-### Sich als Admin anmelden
+### Log in as admin
 
-* Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#hardreset) zurück.
+* Enter the admin password and click `OK` to log in. By default, the password is `000000`. If this password is not accepted reset the device via [reset switch](reset.md#hardreset).
 
 ![](/assets/img/QuattroPod-Login.png)
 
-### Dynamisches Hintergrundbild einstellen
+### Set dynamic background image
 
-* Aus dem Menü wählen Sie `Admineinstellungen` aus:
+* Select `Admin Settings` from the menu:
 
 ![](/assets/img/quattropod.select.admin.png)
 
-Wählen Sie den Menüpunkt `Dynamisches Hintergrundbild`.
+Select the menu item `Dynamic background image`.
 
-![](/assets/img/dyn.hintergrund.ein.png)
+![](/assets/img/dyn.background.on.png)
 
-* `Dynamisches Hintergrund` - Aktivieren Sie diesen Punkt, um die Funktion freizuschalten.
+* `Dynamic background` - Enable this item to unlock the function.
 
-* `Silent-Modus` - Wenn Sie keinen Ton hören möchten, aktivieren Sie diesen Punkt.
+* `Silent mode` - If you don`t want to hear any sound, activate this item.
 
 ![](/assets/img/Dynamic.Wallpaper.activate.png)
 
-Wenn Inhalte aus dem Intenet abgespielt werden sollen, wählen Sie die Registerkarte `URL` und geben Sie den Pfad zur JSON-Datei an. 
+If you want to play content from the Intenet, select the `URL` tab and specify the path to the JSON file. 
 
 ![](/assets/img/Dynamic.Wallpaper.URL.png)
 
-Wenn Inhalte auf einem USB-Stick abgespielt werden sollen, wählen Sie die Registerkarte `USB Disk` und geben Sie den Pfad zur JSON-Datei an. 
+If you want to play content on a USB stick, select the `USB Disk` tab and specify the path to the JSON file. 
 
 ![](/assets/img/Dynamic.Wallpaper.USB.png)
 
-Geben Sie eine Dauer von Inaktivität in Minuten an, bevor die Funktion Dynamisches Hintergrundbild ausgeführt werden soll:
+Specify a duration of inactivity in minutes before the Dynamic Wallpaper function should be executed:
 
 ![](/assets/img/Dynamic.Wallpaper.minutes.png)
 
-Legen Sie fest, wann die Funktion Dynamisches Hintergrund beendet werden soll, anschleßend klicken Sie auf `OK`:
+Specify when the Dynamic Wallpaper function should stop, then click `OK`:
 
 ![](/assets/img/Dynamic.Wallpaper.end.png)
 
-* Die Einstellungen werden erst nach einem Neustart wirksam:
+* The settings will take effect only after a restart:
 
 ![](/assets/img/restart.png)
 
-!!! info "Hinweis"
+!!! info "Note"
 
-    Das Aktivieren der Funktion Dynamisches Hintergrundbild wird nach einem Neustart des QuattroPod Gerätes wirksam.
+    Enabling the Dynamic Wallpaper feature will take effect after a restart of the QuattroPod device.

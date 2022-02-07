@@ -1,57 +1,54 @@
-# Was ist Chromecast?
+# What is Chromecast?
 
-Chromecast ist die Übertragungstechnologie von Google. Mit dem Google Chrome Browser kann man einen Browser-Tab, eine Audio/Video-Datei, oder sogar den gesamten Computerbildschirm auf den QuattroPod schnell und bequem übertragen. 
+Chromecast is the streaming technology from Google. Using the Google Chrome browser, you can stream a browser tab, an audio/video file, or even your entire computer screen to the QuattroPod quickly and conveniently. 
 
-Der QuattroPod ermöglicht es Up to 4 Windows, Android und ChromeOS-Geräten, über das Chromecast-Protokoll auf einen aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App nutzen zu müssen.
+The QuattroPod allows Up to 4 Windows, Android and ChromeOS devices to broadcast to a split screen together via the Chromecast protocol without having to use the app.
 
 ![](/assets/img/Chrome_select_stream2.png)
 
-Die Übertragungstechnologie Google Cast ist nun fest eingebauter Bestandteil des Chrome-Browsers und daher mit den folgenden Endgeräten kompatibel: 
+Google Cast streaming technology is now a built-in part of the Chrome browser and therefore compatible with the following devices: 
 
 * Google Chrome OS,
-* Microsoft Windows 7 oder höher
-* Android 5.0 oder höher
-* [Linux (mit reduziertem Leistungsumfang)](linux.md)
+* Microsoft Windows 7 or later
+* Android 5.0 or higher
+* [Linux (with reduced capabilities)](linux.md).
 
-## Google Cast freischalten
+## Enable Google Cast
 
-Standardmäßig ist Chromecast auf QuattroPod-Geräten aktiviert. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `Google Cast` unter [Erweiterte Einstellungen](adv.settings.md#Chromecast):
+By default, Chromecast is enabled on QuattroPod devices. However, if you want to re-enable the feature, you can find the corresponding `Google Cast` option under [Advanced Settings](adv.settings.md#Chromecast):
 
 ![](/assets/img/Chromecast-support.png)
 
-## Aus dem Chrome-Browser Streamen
+## Streaming from the Chrome browser
 
-Rufen Sie Chrome auf Ihrem Computer auf. Mit dem neusten Google Chrome Browser wird die Funktion **Streamen...** mitgeliefert. Falls der Chrome Browser auf Ihrem Computer nicht vorhanden ist, installieren Sie die Software [hier](http://google.de/chrome) kostenlos.
+Bring up Chrome on your computer. With the latest Google Chrome browser, the **Stream...** feature is included. If Chrome Browser is not available on your computer, install the software [here](http://google.de/chrome) for free.
 
-Wählen Sie über die drei Punkte oben rechts den Menüpunkt `Streamen...`
+Select the menu item `Streamen...` via the three dots in the upper right corner.
 
-![Streamen..](/assets/img/Chrome_stream.png)
+![Stream...](/assets/img/Chrome_stream.png)
 
-Wählen Sie die gewünschte Übertragungsquelle aus:
+Select the desired transfer source:
 
-+ `Tab streamen` - Überträgt standardmäßig nur den aktiven Tab
-+ `Desktop streamen` - Überträgt den gesamten Computerbildschirm 
-+ `Datei streamen` - Bietet beste Leistung zum Video abspielen
++ `Stream Tab` - By default, transfers only the active tab.
++ `Stream desktop` - Transmits the whole computer screen 
++ `Stream File` - Provides best performance for playing video
 
-![Übertragungsquelle](/assets/img/Chrome_select_stream2.png)
+![Transfer source](/assets/img/Chrome_select_stream2.png)
 
-Um die Übertragung zu starten, wählen Sie einfach den gewünschten Empfänger aus.
+To start the streaming, simply select the desired receiver.
 
-![Übertragung starten](/assets/img/Chrome_start_stream.png)
+![Start streaming](/assets/img/Chrome_start_stream.png)
 
-Um die Übertragung zu beenden, klicken Sie nochmal auf den Empfänger.
+To stop streaming, click on the receiver again.
 
-![Übertragung beenden](/assets/img/end_stream.png)
+![End streaming](/assets/img/end_stream.png)
 
-Per Rechtsklick kann man Cast-Symbol an die Symbolleiste anheften:
+Right click to pin cast icon to toolbar:
 
-![Streamen-Symbol immer zeigen](/assets/img/Always_show_icon.png)
+![Always show stream icon](/assets/img/Always_show_icon.png)
 
-## Die Google Home App
+## Google Home App
 
-* In der kostenlosen App `Google Home` suchen Sie den QuattroPod, anschließend wählen Sie die Schaltfläche Bildschirm streamen.
+* In the free `Google Home` app, locate the QuattroPod, then select the Stream Screen button.
 
 ![](/assets/img/GooleHomeAppStore.png)
-
-
-

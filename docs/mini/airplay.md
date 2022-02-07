@@ -1,60 +1,60 @@
-# Was ist AirPlay?
+# What is AirPlay?
 
-AirPlay ist die Übertragungstechnologie von Apple zur kabellosen Übertragung von Apple-Geräten auf AirPlay-fähige Empfängergeräte wie Lautsprecher, AV-Empfänger, Stereosysteme und Fernseher.
+AirPlay is Apple's streaming technology for wirelessly streaming from Apple devices to AirPlay-enabled receiver devices such as speakers, AV receivers, stereo systems, and TVs.
 
-Der QuattroPod ermöglicht es Up to vier macOS und iOS-Geräten, über das AirPlay-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App zu benötigen.
+QuattroPod allows up to four macOS and iOS devices to share a split screen simultaneously via the AirPlay protocol without the need for the app.
 
-!!! info "iOS-Gerät-Bildschirmübertragung mit QuattroPod"
+!!! info "iOS device screen sharing with QuattroPod"
 
     [![QuattroPod Introduction Video][1]{: align=left }][2]
 	
-	Ein kurzes Video, das die Bildschirmübertragung per iPhone vorstellt.
+	A short video introducing iPhone screen mirroring.
 	
-	[View YouTube-Video][2]
+	[View YouTube video][2]
 
   [1]: /assets/img/thumbnail.video.airplay.png
   [2]: https://youtu.be/UL4Q-drCmQo
   
-## AirPlay freischalten
+## Enable AirPlay
 
-Standardmäßig ist AirPlay auf QuattroPod-Geräten aktiviert. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `AirPlay` unter [Erweiterte Einstellungen](adv.settings.md#AirPlayMode):
+By default, AirPlay is enabled on QuattroPod devices. However, if you want to re-enable the feature, you can find the corresponding `AirPlay` option under [Advanced Settings](adv.settings.md#AirPlayMode):
 
 ![](/assets/img/AirPlay.png)
 
-Wenn AirPlay erfolgreich freigeschaltet ist, errecheint das AirPlay-Symbol oben rechts auf der Startseite.
+If AirPlay is successfully enabled, the AirPlay icon will appear in the upper right corner of the home page.
 
 ![](/assets/img/quattropod.airplay.icon.png)
 
-## AirPlay auf iOS
+## AirPlay on iOS
 
-Um Ihren iOS-Bildschirm zu übertragen, verbinden Sie Ihr Gerät mit demselben Wi-Fi-Netzwerk wie QuattroPod. Die SSID und das Kennwort von QuattroPod werden oben auf der Startseite angezeigt:
+To stream your iOS screen, connect your device to the same Wi-Fi network as QuattroPod. QuattroPod's SSID and password will be displayed at the top of the Home screen:
 
-![QuattroPod Startseite](/assets/img/quattropod.ssid.connect.png)
+![QuattroPod Home screen](/assets/img/quattropod.ssid.connect.png).
 
-Auf Ihrem iOS-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das Kontrollzentrum aufzurufen.
+On your iOS device, swipe up from the bottom of the screen to access the Control Center.
 
-![Kontrollzentrum öffnen](/assets/img/iOS-controlcenter.png)
+![Open Control Center](/assets/img/iOS-controlcenter.png)
 
-Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend wählen Sie den QuattroPod aus.
+In the control center, tap `screen sync`, then select the QuattroPod.
 
 !!! tip "Tip"
 
-     Wenn der QuattroPod Empfänger unter AirPlay nicht zu sehen ist, stellen Sie sicher, dass Ihr iOS-Gerät mit dem Empfänger verbunden ist.
+     If you don`t see the QuattroPod receiver under AirPlay, make sure your iOS device is connected to the receiver.
 
-![Der QuattroPod Empfänger](/assets/img/iOS_AirPlay_select.png)
+![The QuattroPod receiver](/assets/img/iOS_AirPlay_select.png)
 
-Um die Übertragung von AirPlay vom iOS-Gerät zu beenden, tippen Sie nochmal auf `Bildschirmsynchronisierung` im Kontrollzentrum, anschließend wählen Sie `AirPlay-Synchr. ausschalten` aus.
+To stop AirPlay transmission from the iOS device, tap `Screen Sync` in the Control Center again, then select `Turn off AirPlay Sync`.
 
-![AirPlay-Synchr. ausschalten](/assets/img/iOS_AirPlay_stop.png)
+![Turn off AirPlay sync](/assets/img/iOS_AirPlay_stop.png)
 
-## AirPlay auf macOS
+## AirPlay on macOS
 
-Um Ihren macOS-Bildschirm zu übertragen, verbinden Sie Ihr Gerät mit demselben Wi-Fi-Netzwerk wie QuattroPod. Die SSID von QuattroPod wird oben auf der Startseite angezeigt:
+To stream your macOS screen, connect your device to the same Wi-Fi network as QuattroPod. QuattroPod's SSID is displayed at the top of the home page:
 
-![QuattroPod Startseite](/assets/img/quattropod.ssid.connect.png)
+![QuattroPod Home Page](/assets/img/quattropod.ssid.connect.png)
 
-In the Mac menu bar, klicken Sie auf das AirPlay-Symbol ![](/assets/img/airplay_icon.png) oben im Bildschirm.
+In the Mac menu bar, click the AirPlay icon ![](/assets/img/airplay_icon.png) at the top of the screen.
 
-Wählen Sie das gewünschte QuattroPod Gerät in der Liste aus. Wenn es nicht angezeigt wird, vergewissern Sie sich, dass Ihr Mac mit demselben Netzwerk wie das QuattroPod-Gerät verbunden ist.
+Select the QuattroPod device you want to use from the list. If it does not appear, make sure your Mac is connected to the same network as the QuattroPod device.
 
 ![AirPlay: Select QuattroPod](/assets/img/macOS-AirPlay.png)
