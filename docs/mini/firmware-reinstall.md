@@ -1,4 +1,4 @@
-# Reinstall firmware
+# Reinstall Firmware
 
 You can restore the QuattroPod by manually reinstalling the firmware. There are several reasons for this:
 
@@ -12,7 +12,7 @@ You can restore the QuattroPod by manually reinstalling the firmware. There are 
     
 	Reinstalling the firmware will reset **all** settings. 
 
-## Install firmware via USB cable
+## Install Firmware via USB Cable
 
 ### Prerequisite
 
@@ -22,7 +22,7 @@ You can restore the QuattroPod by manually reinstalling the firmware. There are 
 
 ![USB AA cable](/assets/img/USB-cable-AA.jpg)
 
-### Receiver - reinstall firmware
+### Receiver - Reinstall Firmware
 
 #### Download Receiver (R01) Repair Tool.
 
@@ -40,7 +40,7 @@ You can restore the QuattroPod by manually reinstalling the firmware. There are 
 
 ![Click Install to install the drivers](/assets/img/install_drivers.jpg)
 
-#### Putting the receiver into **Update** mode
+#### Switch the Receiver into **Update** Mode
 
 To put the receiver into **Update Mode**, please perform the following steps in order:
 
@@ -59,7 +59,7 @@ If the driver is installed correctly and the receiver is connected, the **Realte
 
 !["Realtek generic USB Device" appears in Device Manager](/assets/img/device_manager.jpg)
 
-#### Install latest firmware {#R01_install_latest_fw}
+#### Install Latest Firmware {#R01_install_latest_fw}
 
 * In the folder `QuattroPod.R01.Repair.Tool` execute the file **EZCastUpdate.exe**.
  
@@ -95,7 +95,7 @@ At the end of the upgrade, the status **Upgrade Success** is displayed:
 
 Turn the receiver off and on again. The receiver is ready for use again.
 
-#### Install other firmware {#R01_install_other_fw}
+#### Install Other Firmware {#R01_install_other_fw}
 
 To install a previous or a beta firmware, download one of the following files:
 
@@ -133,7 +133,7 @@ If the installation was successful, the following message appears:
 
 Turn off the receiver and turn it on again. The receiver is ready to use again.
 
-### Transmitter - reinstall firmware
+### Transmitter - Reinstall Firmware
 
 #### Download Transmitter (T02) Repair Tool.
 
@@ -151,13 +151,13 @@ Turn off the receiver and turn it on again. The receiver is ready to use again.
 
 ![Click Install to install the drivers](/assets/img/install_drivers.jpg)
 
-#### Putting the transmitter into **Update mode**. 
+#### Swtich the Transmitter into **Update Mode**. 
 
 * To put the transmitter into **update mode**, simply press and hold the `control` button (1), then connect the transmitter`s USB cable to a USB port on your `computer` (2). After one second you can release the control key.
 
 ![Set transmitter to update mode](/assets/img/IQuattroPod_TX_Update-Mode_mini1.png) 
 
-#### Install latest firmware {#T02_install_latest_fw}
+#### Install Latest Firmware {#T02_install_latest_fw}
 
 * In the folder `QuattroPod.T02.Repair.Tool` execute the file **EZCastUpdate.exe**.
  
@@ -193,7 +193,7 @@ At the end of the upgrade, the status **Upgrade Success** is displayed:
 
 You can now disconnect the transmitter from the computer and close the software.
 
-#### Install other firmware {#T02_install_other_fw}
+#### Install Other Firmware {#T02_install_other_fw}
 
 To install a previous or beta firmware, download one of the following files:
 
@@ -235,7 +235,7 @@ You can now disconnect the transmitter from the computer and close the software.
 
      After the firmware upgrade, each transmitter must be [re-paired](pairing.md) with the receiver.
 
-## Install firmware with CMS
+## Install Firmware with CMS
 
 With the CMS ([Central Management System](cms.md)) you can not only install the latest firmware from the internet on multiple EZCast Pro II devices or QuattroPod, but also a previous version or beta firmware.
 

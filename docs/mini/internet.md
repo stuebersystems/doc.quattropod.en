@@ -10,11 +10,11 @@ The QuattroPod requires an internet connection in the following cases:
 
 * You want to remotely access the [advanced settings](adv.settings.md) function to manage the QuattroPod.
   
-* Integrated network: if all your endpoints and QuattroPod devices are on the same network, there is no need to switch to the QuattroPod's SSID every time you want to transfer your screen to another room.
+* Integrated network: if all your endpoints and QuattroPod devices are on the same network, there is no need to switch to the QuattroPod`s SSID every time you want to transfer your screen to another room.
 
 ## Connect QuattroPod to LAN
 
-To do this, plug a network cable into the 'ETHERNET' port on the back of the QuattroPod and connect the cable to your network or router.
+To do this, plug a network cable into the `ETHERNET` port on the back of the QuattroPod and connect the cable to your network or router.
 
 ![](/assets/img/QuattroPod_ports.png)
 
@@ -22,7 +22,7 @@ To do this, plug a network cable into the 'ETHERNET' port on the back of the Qua
     
 	If a LAN cable is connected to the box, internet access via Wi-Fi is automatically disabled.
 
-When the QuattroPod is connected to your Wi-Fi, an IP address assigned by your network called 'Infrustructure IP' will be displayed on the screen as shown below:
+When the QuattroPod is connected to your Wi-Fi, an IP address assigned by your network called `Infrustructure IP` will be displayed on the screen as shown below:
 
 ![](/assets/img/QuattroPod_IP.png)
 
@@ -34,7 +34,7 @@ When the QuattroPod is connected to your Wi-Fi, an IP address assigned by your n
 
 ![](/assets/img/quattropod.ssid.connect.png)
 
-* In the address bar of a web browser, enter the 'Direct Link IP' of the QuattroPod. The settings interface of the QuattroPod appears:
+* In the address bar of a web browser, enter the `Direct Link IP` of the QuattroPod. The settings interface of the QuattroPod appears:
 
 ![](/assets/img/quattropod_directIP.connect.png)
 
@@ -46,7 +46,7 @@ When the QuattroPod is connected to your Wi-Fi, an IP address assigned by your n
 
 ### Select network settings
 
-* From the top left menu select 'Network Management'.
+* From the top left menu select `Network Management`.
 
 ![](/assets/img/quattropod.select.network.png)
 
@@ -58,7 +58,7 @@ When the QuattroPod is connected to your Wi-Fi, an IP address assigned by your n
 
 ![](/assets/img/Wifi_Internet.png)
 
-When the QuattroPod is connected to your Wi-Fi, an IP address assigned by your network called 'Infrustructure IP' will be displayed on the screen as shown below:
+When the QuattroPod is connected to your Wi-Fi, an IP address assigned by your network called `Infrustructure IP` will be displayed on the screen as shown below:
 
 ![](/assets/img/QuattroPod_IP.png)
 

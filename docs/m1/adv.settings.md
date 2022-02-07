@@ -56,7 +56,7 @@ Wählen Sie unter Sprache die gewünschte Anzeigesprache der Weboberfläche.
 
 ### Auflösung {#Auflösung}
 
-Hier wählen Sie die Ausgabeauflösung des QuattroPods. Sie können entweder eine bestimmte Auflösung auswählen oder einfach 'Auto' wählen und der QuattroPod stellt automatisch die optimale Auflösung für Ihren Bildschirm ein.
+Hier wählen Sie die Ausgabeauflösung des QuattroPods. Sie können entweder eine bestimmte Auflösung auswählen oder einfach `Auto` wählen und der QuattroPod stellt automatisch die optimale Auflösung für Ihren Bildschirm ein.
 
 | Standard | Auflösung
 | :------------- |:-----:|
@@ -100,7 +100,7 @@ Im Vollbildmodus wird die Eingabe des Endgeräts automatisch so angepasst, dass 
 
 ### Zeitgesteuerter Neustart
 
-Um die Leistung des QuattroPod zu optimieren, insbesondere bei Geräten, die im Dauerbetrieb sind, schalten Sie die Option 'Zeitgesteuerter Neustart' **EIN**. Der Empfänger wird automatisch neu gestartet, wenn die folgenden Bedingungen zutreffen:
+Um die Leistung des QuattroPod zu optimieren, insbesondere bei Geräten, die im Dauerbetrieb sind, schalten Sie die Option `Zeitgesteuerter Neustart` **EIN**. Der Empfänger wird automatisch neu gestartet, wenn die folgenden Bedingungen zutreffen:
 
 * Der QuattroPod ist seit 8 Stunden nicht mehr in Betrieb gewesen. 
 * Alle Sender sind seit mindestens 8 Stunden ausgeschaltet.
@@ -149,7 +149,7 @@ Einen Download der von uns bereitgestellten Startseite finden Sie [hier](https:/
 
 **Automatische Genehmigung der Anwendung**
 
-Der erste Benutzer, der eine Verbindung herstellt, wird als Gastgeber und die anderen als Gäste bezeichnet. Standardmäßig muss jede Sendeanfrage vom Gastgeber durch Drücken der Seitentaste des Absenders genehmigt werden. Wenn die Option 'Auto-Approve Request' auf 'On' gesetzt ist, wird die Sendeanfrage automatisch genehmigt. Weitere Informationen zu diesem Thema finden Sie im Kapitel [Bedienung von Sendern](TX-controls.md).
+Der erste Benutzer, der eine Verbindung herstellt, wird als Gastgeber und die anderen als Gäste bezeichnet. Standardmäßig muss jede Sendeanfrage vom Gastgeber durch Drücken der Seitentaste des Absenders genehmigt werden. Wenn die Option `Auto-Approve Request` auf `On` gesetzt ist, wird die Sendeanfrage automatisch genehmigt. Weitere Informationen zu diesem Thema finden Sie im Kapitel [Bedienung von Sendern](TX-controls.md).
 
 **Freigabebildschirm**
 

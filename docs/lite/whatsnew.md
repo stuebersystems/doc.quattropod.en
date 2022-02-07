@@ -1,4 +1,4 @@
-# What's new?
+# What`s new?
 
 This chapter gives you an overview of recent changes to the QuattroPod Lite.
 
@@ -32,7 +32,7 @@ This chapter gives you an overview of recent changes to the QuattroPod Lite.
 Improved web settings:
 
 * Default resolution of QuattroPod receiver set to 1080P.
-* Added settings '2' and '4' hours in the [Timed Restart](adv.settings.md#timedrestart) function
+* Added settings `2` and `4` hours in the [Timed Restart](adv.settings.md#timedrestart) function
 
 **Fixed system bugs and improvements:**
 

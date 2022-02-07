@@ -1,4 +1,4 @@
-# What's new?
+# What`s new?
 
 This chapter gives you an overview of current changes to the QuattroPod Mini.
 
@@ -12,7 +12,7 @@ This chapter gives you an overview of current changes to the QuattroPod Mini.
 
 **New functions:**
 
-* Support the AirPlay 'On Screen Code' for iOS, macOS, iPadOS devices.
+* Support the AirPlay `On Screen Code` for iOS, macOS, iPadOS devices.
 * Support the streaming protocol Miracast
 * Added warning message when the device overheats
 

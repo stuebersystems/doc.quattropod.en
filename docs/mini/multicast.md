@@ -16,7 +16,7 @@ Several participants have the possibility to transmit their screen content to se
 
 * You need a Wi-Fi access point.
 
-* Your router must accept the 'QuattroPod Sender / Receiver' [broadcast packets](/ports.md).
+* Your router must accept the `QuattroPod Sender / Receiver` [broadcast packets](/ports.md).
 
 * All QuattroPod receivers must be in the same network.
 
@@ -34,11 +34,11 @@ Several participants have the possibility to transmit their screen content to se
 
 ## Open advanced settings
 
-* To access the web interface, connect your end device to the QuattroPod's SSID. The credentials will be displayed at the top of the screen:
+* To access the web interface, connect your end device to the QuattroPod`s SSID. The credentials will be displayed at the top of the screen:
 
 ![](/assets/img/quattropod.ssid.connect.png)
 
-* In the address bar of a web browser, enter the 'Direct Link IP' of the QuattroPod. The settings interface of the QuattroPod appears:
+* In the address bar of a web browser, enter the `Direct Link IP` of the QuattroPod. The settings interface of the QuattroPod appears:
 
 ![](/assets/img/quattropod_directIP.connect.png)
 
@@ -50,7 +50,7 @@ Several participants have the possibility to transmit their screen content to se
 
 ## Enable multicast
 
-* Select the menu item 'Admin Settings':
+* Select the menu item `Admin Settings`:
 
 ![](/assets/img/quattropod.select.admin.png)
 
@@ -72,7 +72,7 @@ Several participants have the possibility to transmit their screen content to se
 
 ## Pair transmitter
 
-* Switch the default transmitter or the mini transmitter to 'PC':
+* Switch the default transmitter or the mini transmitter to `PC`:
 
 ![](/assets/img/Transmitter_pair.png)
 
@@ -80,7 +80,7 @@ Several participants have the possibility to transmit their screen content to se
 
 ![](/assets/img/Transmitter_pairing2.png)
 
-The message **"Pairing... "** will automatically appear on the QuattroPod's home screen.
+The message **"Pairing... "** will automatically appear on the QuattroPod`s home screen.
 
 ![](/assets/img/pairing.png)
 

@@ -1,10 +1,10 @@
 # Conference control
 
-Conference control is a means only for the presenter to run the course of a presentation as he or she wishes by having various control options. The host can choose how and when other participants can transmit their screens during a presentation. The buttons for 'repositioning', 'full screen', or even 'disconnect', can be found on the right under columns.
+Conference control is a means only for the presenter to run the course of a presentation as he or she wishes by having various control options. The host can choose how and when other participants can transmit their screens during a presentation. The buttons for `repositioning`, `full screen`, or even `disconnect`, can be found on the right under columns.
 
 ![](/assets/img/conference-control.png)
 
-The host can also assign the role as 'host' to other participants.
+The host can also assign the role as `host` to other participants.
 
 ![](/assets/img/conference-control2.png)
 
@@ -20,13 +20,13 @@ The host can also assign the role as 'host' to other participants.
 
 ## Requirements
 
-* The conference control is supported from firmware version '1.9598.72'.
+* The conference control is supported from firmware version `1.9598.72`.
 
 * You need the admin password
 
 ## Check firmware version
 
-* Switch on the QuattroPod receiver. When the landing page appears, check that the minimum required version '1.9598.72' is displayed, as shown below. If necessary, please upgrade your [firmware](firmware-upgrade.md).
+* Switch on the QuattroPod receiver. When the landing page appears, check that the minimum required version `1.9598.72` is displayed, as shown below. If necessary, please upgrade your [firmware](firmware-upgrade.md).
 
 ![The Multicast function is available from firmware version 1.9598.72](/assets/img/quattropod.landingpage.fw.png)
 
@@ -44,7 +44,7 @@ The host can also assign the role as 'host' to other participants.
 
 ![](/assets/img/IP-Address.png)
 
-* After pressing the Enter key, the QuattroPod's settings interface should now appear. Enter the password. By default it is '000000'. If this password is not accepted, you will need to [reset default settings](reset.md).
+* After pressing the Enter key, the QuattroPod`s settings interface should now appear. Enter the password. By default it is `000000`. If this password is not accepted, you will need to [reset default settings](reset.md).
 
 ![](/assets/img/QuattroPod-Login.png)
 

@@ -10,7 +10,7 @@ You will need [Internet Access](internet.md). When the QuattroPod is connected t
 
 ## Connect and power on transmitters
 
-When updating the firmware it's important not to overlook the transmitters. Pay careful attention to keep the receiver and all transmitters equally up-to-date in order to avoid compatability issues.
+When updating the firmware it`s important not to overlook the transmitters. Pay careful attention to keep the receiver and all transmitters equally up-to-date in order to avoid compatability issues.
 
 ![](/assets/img/QuattroPod_RX_TXs_PoweredON.jpg)
 
@@ -50,7 +50,7 @@ The update is carried out via the Web interface in any web browser of your choic
 
 !!! tip "Tip"
     
-	If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.
+	If you`re unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.
 
 ## Update Firmware via internet with CMS
 
@@ -91,7 +91,7 @@ The new firmware is downloaded and installed automatically.
 
 !!! tip "Tip"
 
-     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.
+     If you`re unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.
 	 
 	 
 ## Update Firmware without internet with CMS
@@ -136,7 +136,7 @@ QuattroPod USB Transmitter (U01) | [Download](firmware-reinstall.md#U01_install_
 
 !!! tip "Tip"
 
-     If you're unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.
+     If you`re unable to connect the transmitters to the receiver after the firmware update please [pair](pairing.md) the devices again.
 
 
 

@@ -1,4 +1,4 @@
-# What's new?
+# What`s new?
 
 Select your device to find out about the latest updates to your device:
 

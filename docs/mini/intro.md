@@ -1,4 +1,4 @@
-# Der QuattroPod Mini 
+# QuattroPod Mini 
 
 ![QuattroPod Mini][1]{: align=left } Explore the possibilities of [QuattroPod Mini][2]. 
 

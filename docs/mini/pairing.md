@@ -14,7 +14,7 @@ Connect the transmitter to the USB port on the receiver and the devices will pai
 
 * Switch the transmitter to `PC`. 
 
-![](/assets/img/quattropod.mini.tx.pc.jpg)
+![](/assets/img/quattropod.mini.tx.pc.png)
 
 * Connect the transmitter to the USB port of the receiver and switch on the receiver.
 
@@ -47,7 +47,7 @@ This is confirmed with **"Pairing OK"** on the landing page.
 
 If the QuattroPod receiver is hard to reach physically you have the option of downloading a pairing file and copying the receiver`s information to the transmitter via USB stick. You can use FAT, FAT32, or NTFS as the file system of the USB stick.
 
-* Either download the pairing file `pairingInfo.json` from the menu item `Device Management` of the [web interface](adv.settings.md). 
+* Either download the pairing file `pairingInfo.json` from the menu item `Admin Settings` of the [web interface](adv.settings.md). 
 
 ![Download pairing file](/assets/img/Pairing7.png)
 
@@ -60,7 +60,7 @@ If the QuattroPod receiver is hard to reach physically you have the option of do
 
 * Before mounting the receiver on the ceiling or even when the receiver is easily accessible, you can insert a USB stick into the USB port of the receiver and press the pairing button on the top of the receiver. After a few seconds, the pairing file is copied to the USB stick and the receiver`s pairing button lights up white. You can keep this file in your network or on the USB stick until pairing is needed.
 
-![](/assets/img/Pairing9.jpg)
+![](/assets/img/Pairing9.png)
 
 ### Connect the USB stick to the transmitter
 
@@ -78,7 +78,7 @@ If the QuattroPod receiver is hard to reach physically you have the option of do
 
 The transmitter flashes red, white and green several times in succession during pairing. After about 30 seconds, the transmitter is paired with the QuattroPod receiver and lights up white.
 
-![](/assets/img/quattropod.mini.usb.paired.jpg)
+![](/assets/img/quattropod.mini.usb.paired.png)
 
 * The transmitter can now be used with the corresponding receiver. Finally, switch the transmitter to the desired mode: `Mobile` = smart devices, `PC` = Windows/macOS and connect the transmitter to your enddevice.
 

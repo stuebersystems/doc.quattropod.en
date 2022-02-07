@@ -14,7 +14,7 @@ Simply put, the QuattroPod can do exactly what your computer can do via the vide
 	
 ## Duplicate
 
-* If you select the 'Duplicate' setting, your desktop will be duplicated.
+* If you select the `Duplicate` setting, your desktop will be duplicated.
 
 ![](/assets/img/duplicate.jpg)
 

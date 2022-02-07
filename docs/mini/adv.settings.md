@@ -1,6 +1,6 @@
 # Advanced settings
 
-The 'Advanced Settings' function allows you to update the firmware and conveniently adjust many of the QuattroPod's settings remotely.
+The `Advanced Settings` function allows you to update the firmware and conveniently adjust many of the QuattroPod`s settings remotely.
 
 ## Open advanced settings
 
@@ -8,13 +8,13 @@ The 'Advanced Settings' function allows you to update the firmware and convenien
 
 ![](/assets/img/quattropod.ssid.connect.png)
 
-* In the address bar of a web browser, enter the 'Direct Link IP' of the QuattroPod. The QuattroPod's settings interface appears:
+* In the address bar of a web browser, enter the `Direct Link IP` of the QuattroPod. The QuattroPod`s settings interface appears:
 
 ![](/assets/img/quattropod_directIP.connect.png)
 
 ### Log in as admin
 
-* Enter the admin password and click 'OK' to log in. By default, the password is `000000`. If this password is not accepted, reset the unit using [reset switch](reset.md#hardreset).
+* Enter the admin password and click `OK` to log in. By default, the password is `000000`. If this password is not accepted, reset the unit using [reset switch](reset.md#hardreset).
 
 ![](/assets/img/QuattroPod-Login.png)
 
@@ -24,7 +24,7 @@ The following functions are available:
 
 ## Download Android APK {#Android_APK_download}
 
-Use this option to download the Android APK file from the receiver and install the QuattroPod app on an Android device "by hand". When running an APK file, permission may be required for security reasons in e.g. 'Settings | Security'.
+Use this option to download the Android APK file from the receiver and install the QuattroPod app on an Android device "by hand". When running an APK file, permission may be required for security reasons in e.g. `Settings | Security`.
 
 ![Download Android APK](/assets/img/quattropod.select.android.png)
 
@@ -56,7 +56,7 @@ Under Language, select the desired display language of the web interface.
 
 ### Resolution {#Resolution}
 
-Here you select the output resolution of the QuattroPod. You can either select a specific resolution or simply select 'Auto' and the QuattroPod will automatically set the optimum resolution for your screen.
+Here you select the output resolution of the QuattroPod. You can either select a specific resolution or simply select `Auto` and the QuattroPod will automatically set the optimum resolution for your screen.
 
 | Standard | Resolution|
 | :------------- |:-----:|
@@ -100,7 +100,7 @@ With full screen mode, the input of the end device is automatically adjusted to 
 
 ### Timed restart
 
-To optimise the performance of the QuattroPod, especially for devices that are in continuous operation, switch the 'timed restart' option **ON**. The receiver will restart automatically if the following conditions apply:
+To optimise the performance of the QuattroPod, especially for devices that are in continuous operation, switch the `timed restart` option **ON**. The receiver will restart automatically if the following conditions apply:
 
 * The QuattroPod has not been in operation for 8 hours. 
 * All transmitters have been switched off for at least 8 hours.
@@ -121,7 +121,7 @@ To avoid interfering Wi-Fi signals, you can adjust the Wi-Fi mode.
 
 ### LAN IP Settings {#LAN IP Settings}
 
-Assign a static IP address for the receiver's LAN port.
+Assign a static IP address for the receiver`s LAN port.
 
 ![](/assets/img/LAN_IP_Settings.jpg)
 
@@ -149,7 +149,7 @@ You can find a download of the landing page we have provided [here](https://down
 
 **Auto-approve application**
 
-The first user to connect is referred to as the host and the others as guests. By default, each request to send must be approved by the host by pressing the side button of its sender. If 'Auto-Approve Request' is set to 'On', the request to send is automatically approved. For more on this topic, see the chapter [Operating Transmitters](TX-controls.md).
+The first user to connect is referred to as the host and the others as guests. By default, each request to send must be approved by the host by pressing the side button of its sender. If `Auto-Approve Request` is set to `On`, the request to send is automatically approved. For more on this topic, see the chapter [Operating Transmitters](TX-controls.md).
 
 **Share screen**
 
@@ -159,7 +159,7 @@ By default, this function is enabled. This means that the screen is split to sho
 
 ### AirPlay {#AirPlay}
 
-With an iOS/macOS device, you can also transmit your screen content directly via Apple AirPlay. This means you do not need a QuattroPod transmitter in this case. This function is enabled 'out-the-box'. However, if you reset the receiver, the function is deactivated.
+With an iOS/macOS device, you can also transmit your screen content directly via Apple AirPlay. This means you do not need a QuattroPod transmitter in this case. This function is enabled `out-the-box`. However, if you reset the receiver, the function is deactivated.
 
 ![](/assets/img/AirPlay.png)
 
@@ -172,7 +172,7 @@ Change the Admin Password of the recipient.
 
 ### Screensaver {#Screensaver}
 
-Turn off the receiver's screen or HDMI output after a certain period of inactivity. By default, this function is disabled.
+Turn off the receiver`s screen or HDMI output after a certain period of inactivity. By default, this function is disabled.
 
 ![](/assets/img/screensaver.jpg)
 

@@ -154,7 +154,7 @@ Please follow these steps:
 
 * From your Android device, connect to the the SSID displayed on the top left of the screen as shown above. The password is also displayed by default.
 
-* Now open the QuattroPod app on your Android device. The first time you open the app, you must grant the app permission to display over other apps you're using. Select `OK`.
+* Now open the QuattroPod app on your Android device. The first time you open the app, you must grant the app permission to display over other apps you`re using. Select `OK`.
 
 ![Select "OK"](/assets/img/android_app_overlay_OK.png)
 

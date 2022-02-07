@@ -61,7 +61,7 @@ Are certain features such as Chromecast not working when connecting to QuattroPo
 
 ![Extract the files](/assets/img/PortQryUI_extract.png)
  
-* You don't need to install `PortQueryUI.exe`, simply run it by double clicking on it:
+* You don`t need to install `PortQueryUI.exe`, simply run it by double clicking on it:
 
 ![PortQueryUI.exe Double click to start](/assets/img/portqueryui.exe.png)
 
@@ -94,7 +94,7 @@ No process is listening on the target port on the target system. Please check yo
 
 `Filtered`
 
-The port on the computer that you selected QuattroPod device is being filtered. PortQueryUI.exe didn't receive a response from the port. A process may or may not be listening on the port. By default, TCP ports are queried three times, and UDP ports are queried one time before a report indicates that the port is filtered.
+The port on the computer that you selected QuattroPod device is being filtered. PortQueryUI.exe didn`t receive a response from the port. A process may or may not be listening on the port. By default, TCP ports are queried three times, and UDP ports are queried one time before a report indicates that the port is filtered.
 
 
 ![Query Results](/assets/img/TCP.results.png)

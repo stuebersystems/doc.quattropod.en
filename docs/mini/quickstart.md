@@ -58,11 +58,11 @@ You need to enable USB debugging once, then connect the transmitter and press th
 
 ![](/assets/img/usb.debugging3.png)
 
-* The 'Developer options' are now activated
+* The `Developer options` are now activated
 
 ![](/assets/img/usb.debugging4.png)
 
-* You will find `Developer options' at the bottom of the main settings menu
+* You will find `Developer options` at the bottom of the main settings menu
 
 ![](/assets/img/usb.debugging5.png)
 
@@ -139,7 +139,7 @@ When the receiver and transmitter are properly connected, the landing page will 
 
 With QuattroPod you have two options without the transmitter:
 
-* If you just want to quickly transfer your screen, you can get started right away following the Bring Your Own Device (BYOD) principle by using the built-in screen transfer functionality of your device or streaming protocols. That means in this case you don't have to download an app at all!
+* If you just want to quickly transfer your screen, you can get started right away following the Bring Your Own Device (BYOD) principle by using the built-in screen transfer functionality of your device or streaming protocols. That means in this case you don`t have to download an app at all!
 
 * The free QuattroPod app provides you with an intuitive interface to screen transfer your Android device.
 
@@ -173,7 +173,7 @@ Now do the following:
 
 * From your Android device, connect using the SSID displayed at the top left of the screen as shown above. The password will also be displayed by default.
 
-* Now launch the QuattroPod app on your Android device. The first time you launch the app, you will need to give one-time permission for the app to be displayed above other apps you are using. Select 'OK'.
+* Now launch the QuattroPod app on your Android device. The first time you launch the app, you will need to give one-time permission for the app to be displayed above other apps you are using. Select `OK`.
 
 ![Select `OK`](/assets/img/android_app_overlay_OK.png)
 

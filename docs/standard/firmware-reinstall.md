@@ -34,7 +34,7 @@ You can restore the QuattroPod by manually reinstalling the firmware. There are 
 
 ![run install.bat as administrator](/assets/img/R01.install.bat.png)
 
-* When the following security message appears, select 'Install':
+* When the following security message appears, select `Install`:
 
 ![Click Install to install the drivers](/assets/img/install_drivers.jpg)
 
@@ -59,11 +59,11 @@ If the driver is installed correctly and the receiver is connected, the **Realte
 
 ### Install Latest Firmware {#R01_install_latest_fw}
 
-* In the folder 'QuattroPod.R01.Repair.Tool' execute the file **EZCastUpdate.exe**.
+* In the folder `QuattroPod.R01.Repair.Tool` execute the file **EZCastUpdate.exe**.
  
 ![Run EZCastUpdate.exe](/assets/img/R01.Repair_Tool_Update.exe.png)
 
-The following window appears. If the QuattroPod receiver is successfully in update mode, the status 'Device connected' is displayed in the tool:
+The following window appears. If the QuattroPod receiver is successfully in update mode, the status `Device connected` is displayed in the tool:
 
 * Select `Download` to download the latest firmware.
  
@@ -77,7 +77,7 @@ The download of the firmware is carried out:
 
 ![QuattroPod Firmware is shutting down](/assets/img/EZCastUpdate.Firmware.Downloading.jpg)
 
-* To start installing the firmware, select 'Upgrade':
+* To start installing the firmware, select `Upgrade`:
 
 ![Select Upgrade to start installation](/assets/img/EZCastUpdate.Upgrade.jpg)
 
@@ -107,17 +107,17 @@ Firmware | Download
 1.8529.10 | [Download](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.8529.10.gz)
 1.6468.5 | [Download](https://download.stueber.de/doc/de/quattropod/firmwares/R01/R01_1.6468.5.gz)
 
-* In the folder 'QuattroPod.R01.Repair.Tool' execute the file **Update_for_localfile.exe**.
+* In the folder `QuattroPod.R01.Repair.Tool` execute the file **Update_for_localfile.exe**.
 
 ![Run Update_for_localfile.exe](/assets/img/R01.localfile.exe.png)
 
 The following window appears. When the QuattroPod is in update mode, **Device connected** is displayed in the tool.
 
-* Using the 'Firmware' button, select the desired firmware file.
+* Using the `Firmware` button, select the desired firmware file.
 
 ![Select Firmware](/assets/img/EZCastUpdate.SelectFirmware.jpg)
 
-* To start installing the firmware, select 'Upgrade'.
+* To start installing the firmware, select `Upgrade`.
 
 ![Select Upgrade to start the installation](/assets/img/EZCastUpdate.Upgrade.jpg)
 
@@ -145,23 +145,23 @@ Switch the receiver off and on again. The receiver is ready for use again.
 
 ![run install.bat as administrator](/assets/img/T01.install.bat.png)
 
-* When the following security message appears, select 'Install':
+* When the following security message appears, select `Install`:
 
 ![Click Install to install the drivers](/assets/img/install_drivers.jpg)
 
 ## Switch Transmitter into **Update Mode**.
 
-* To put the transmitter into **Update Mode**, simply press and hold the 'Page Button' (1), then connect the transmitter's USB cable to a USB port on your 'computer' (2). After one second you can release the side button.
+* To put the transmitter into **Update Mode**, simply press and hold the `Page Button` (1), then connect the transmitter`s USB cable to a USB port on your `computer` (2). After one second you can release the side button.
 
 ![Set transmitter to update mode](/assets/img/QuattroPod_TX_Update-Mode.jpg)
 
 ### Install Latest Firmware {#T01_install_latest_fw}
 
-* In the folder 'QuattroPod.T01.Repair.Tool' execute the file **EZCastUpdate.exe**.
+* In the folder `QuattroPod.T01.Repair.Tool` execute the file **EZCastUpdate.exe**.
  
 ![Run EZCastUpdate.exe](/assets/img/T01.Repair_Tool_Update.exe.png)
 
-The following window appears. If the QuattroPod receiver is successfully in update mode, the status 'Device connected' is displayed in the tool:
+The following window appears. If the QuattroPod receiver is successfully in update mode, the status `Device connected` is displayed in the tool:
 
 * Select `Download` to download the latest firmware.
  
@@ -175,7 +175,7 @@ The download of the firmware is carried out:
 
 ![QuattroPod Firmware is shutting down](/assets/img/EZCastUpdate.Firmware.Downloading.jpg)
 
-* To start installing the firmware, select 'Upgrade':
+* To start installing the firmware, select `Upgrade`:
 
 ![Select Upgrade to start installation](/assets/img/EZCastUpdate.Upgrade.jpg)
 
@@ -205,17 +205,17 @@ Firmware | Download
 1.8529.10 | [Download](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.8529.10.gz)
 1.6468.5 | [Download](https://download.stueber.de/doc/de/quattropod/firmwares/T01/T01_1.6468.5.gz)
 
-* In the folder 'QuattroPod.T01.Repair.Tool' execute the file **Update_for_localfile.exe**.
+* In the folder `QuattroPod.T01.Repair.Tool` execute the file **Update_for_localfile.exe**.
 
 ![Run Update_for_localfile.exe](/assets/img/T01.localfile.exe.png)
 
 The following window appears. When the QuattroPod is in update mode, **Device connected** is displayed in the tool.
 
-* Using the 'Firmware' button, select the desired firmware file.
+* Using the `Firmware` button, select the desired firmware file.
 
 ![Select Firmware](/assets/img/EZCastUpdate.SelectFirmware.jpg)
 
-* To start installing the firmware, select 'Upgrade'.
+* To start installing the firmware, select `Upgrade`.
 
 ![Select Upgrade to start the installation](/assets/img/EZCastUpdate.Upgrade.jpg)
 

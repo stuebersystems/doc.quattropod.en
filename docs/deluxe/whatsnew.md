@@ -1,4 +1,4 @@
-# What's new?
+# What`s new?
 
 This chapter gives you an overview of recent changes to the QuattroPod Deluxe.
 
@@ -12,7 +12,7 @@ This chapter gives you an overview of recent changes to the QuattroPod Deluxe.
 
 **New features:**
 
-* Support AirPlay 'On Screen Code' for iOS, macOS, iPadOS devices.
+* Support AirPlay `On Screen Code` for iOS, macOS, iPadOS devices.
 * Support of the streaming protocol Miracast
 * Added warning message when device overheats
 
@@ -59,7 +59,7 @@ System improvements:
 Improved web settings:
 
 * Default resolution of QuattroPod receiver set to 1080P.
-* Added settings '2' and '4' hours in the [Timed Restart](adv.settings.md#timedrestart) function
+* Added settings `2` and `4` hours in the [Timed Restart](adv.settings.md#timedrestart) function
 
 **Fixed system bugs and improvements:**
 

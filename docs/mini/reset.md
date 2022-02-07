@@ -5,7 +5,7 @@ There are several reasons for resetting the QuattroPod to factory settings:
 
 * You have forgotten the admin password for the [Advanced settings](adv.settings.md).
 
-* You have made changes to your network infrastructure, LAN TCP/IP settings, or the QuattroPod's SSID credentials and your QuattroPod is no longer accessible.
+* You have made changes to your network infrastructure, LAN TCP/IP settings, or the QuattroPod`s SSID credentials and your QuattroPod is no longer accessible.
 
 * If you having trouble reservsing unwanted changes on the QuattroPod.
 
@@ -45,7 +45,7 @@ Using the [Advanced settings](adv.settings.md) function, you can log in and rese
 
 ![](/assets/img/IP-Address.png)
 
-* After pressing the Enter key, the QuattroPod's settings interface appears. Enter the password. By default, it is `000000`. If this password is not accepted, you must perform a [reset-per-reset-switch](#reset-per-reset-switch).
+* After pressing the Enter key, the QuattroPod`s settings interface appears. Enter the password. By default, it is `000000`. If this password is not accepted, you must perform a [reset-per-reset-switch](#reset-per-reset-switch).
 
 ![](/assets/img/QuattroPod-Login.png)
 

@@ -6,7 +6,7 @@ There are two ways to pair a transmitter with a receiver
 
 The transmitter is connected to the USB port of the receiver and the devices pair automatically. Some find this option easiest if the receiver is within easy reach. If the receiver is mounted on the ceiling or is simply difficult to reach, pair the [transmitter via USB stick](#sender-per-usb-stick-pair).
 
-* Switch the transmitter to 'PC'. 
+* Switch the transmitter to `PC`. 
 
 ![](/assets/img/Pairing1.jpg)
 
@@ -14,7 +14,7 @@ The transmitter is connected to the USB port of the receiver and the devices pai
 
 ![](/assets/img/Pairing2.jpg)
 
-The message **"Pairing... "** automatically appears on the QuattroPod's landing page.
+The message **"Pairing... "** automatically appears on the QuattroPod`s landing page.
 
 ![](/assets/img/Pairing3.jpg)
 
@@ -30,7 +30,7 @@ This is confirmed with **"Pairing OK "** on the landing page.
 
 ![](/assets/img/Pairing5.jpg)
 
-* The transmitter can now be used with the corresponding receiver. Finally, switch the transmitter to the desired mode: 'Mobile' = smart devices, 'PC' = Windows/macOS and connect the transmitter with your desired terminal.
+* The transmitter can now be used with the corresponding receiver. Finally, switch the transmitter to the desired mode: `Mobile` = smart devices, `PC` = Windows/macOS and connect the transmitter with your desired terminal.
 
 ![](//assets/img/Pairing6.jpg)
 
@@ -39,9 +39,9 @@ This is confirmed with **"Pairing OK "** on the landing page.
 
 ### Download pairing file via web interface
 
-With some systems, the receiver is out of range and requires a lot of effort to reach. However, you have the option of downloading a coupling file and copying the receiver's information to the transmitter via USB stick. You can use FAT, FAT32, or NTFS as the file system of the USB stick.
+With some systems, the receiver is out of range and requires a lot of effort to reach. However, you have the option of downloading a coupling file and copying the receiver`s information to the transmitter via USB stick. You can use FAT, FAT32, or NTFS as the file system of the USB stick.
 
-* Either download the pairing file 'pairingInfo.json' from the menu item 'Device Management' of the [web interface](adv.settings.md). 
+* Either download the pairing file `pairingInfo.json` from the menu item `Device Management` of the [web interface](adv.settings.md). 
 
 ![](/assets/img/Pairing7.png)
 
@@ -52,7 +52,7 @@ and copy the file to a USB stick. You do not need to delete any other files firs
 
 ### Downloading the pairing file via receiver
 
-* Before mounting the receiver on the ceiling or even when the receiver is easily accessible, you can insert a USB stick into the USB port of the receiver and press the pairing button on the top of the receiver. After a few seconds, the pairing file is copied to the USB stick and the receiver's pairing button lights up white. You can keep this file in your network or on the USB stick until pairing is needed.
+* Before mounting the receiver on the ceiling or even when the receiver is easily accessible, you can insert a USB stick into the USB port of the receiver and press the pairing button on the top of the receiver. After a few seconds, the pairing file is copied to the USB stick and the receiver`s pairing button lights up white. You can keep this file in your network or on the USB stick until pairing is needed.
 
 ![](/assets/img/Pairing9.jpg)
 
@@ -62,15 +62,15 @@ and copy the file to a USB stick. You do not need to delete any other files firs
 
      This step must be carried out in the same room or within radio range of the receiver.
 	 
-* To start pairing via USB stick, switch the transmitter to 'Mobile'.
+* To start pairing via USB stick, switch the transmitter to `Mobile`.
 
 ![](/assets/img/Pairing6.jpg)
 
-* Connect the transmitter's USB cable with a USB power supply (5V1A) and insert the USB stick into the transmitter's USB port. Pairing starts automatically. The transmitter flashes red, white, and green several times in succession during pairing. After about 30 seconds, the transmitter is paired with the QuattroPod receiver. When pairing is complete, the transmitter lights up white.
+* Connect the transmitter`s USB cable with a USB power supply (5V1A) and insert the USB stick into the transmitter`s USB port. Pairing starts automatically. The transmitter flashes red, white, and green several times in succession during pairing. After about 30 seconds, the transmitter is paired with the QuattroPod receiver. When pairing is complete, the transmitter lights up white.
 
 ![](/assets/img/Pairing10.jpg)
 
-* The transmitter can now be used with the corresponding receiver. Finally, switch the transmitter to the desired mode: 'Mobile' = smart devices, 'PC' = Windows/macOS and connect the transmitter with your desired terminal.
+* The transmitter can now be used with the corresponding receiver. Finally, switch the transmitter to the desired mode: `Mobile` = smart devices, `PC` = Windows/macOS and connect the transmitter with your desired terminal.
 
 ![](/assets/img/Pairing6.jpg)
 

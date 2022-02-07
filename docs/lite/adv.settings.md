@@ -1,6 +1,6 @@
 # Advanced settings
 
-Advanced Settings allows you to update the firmware and conveniently adjust many of the QuattroPod's settings remotely. To access the web interface, you can connect to the QuattroPod [wireless](#Wireless).
+Advanced Settings allows you to update the firmware and conveniently adjust many of the QuattroPod`s settings remotely. To access the web interface, you can connect to the QuattroPod [wireless](#Wireless).
 
 ## Connect wirelessly to QuattroPod {#Wireless}
 
@@ -36,7 +36,7 @@ The following functions are available:
 
 ## Download Android APK {#Android_APK_download}
 
-Use this option to download the Android APK file from the receiver and install the QuattroPod app on an Android device "by hand". When running an APK file, permission may be required for security reasons in e.g. 'Settings | Security'.
+Use this option to download the Android APK file from the receiver and install the QuattroPod app on an Android device "by hand". When running an APK file, permission may be required for security reasons in e.g. `Settings | Security`.
 
 ![Download Android APK](/assets/img/quattropod.select.android.png)
 
@@ -68,7 +68,7 @@ Under Language, select the desired display language of the web interface.
 
 ### Resolution {#Resolution}
 
-Here you select the output resolution of the QuattroPod. You can either select a specific resolution or simply select 'Auto' and the QuattroPod will automatically set the optimum resolution for your screen.
+Here you select the output resolution of the QuattroPod. You can either select a specific resolution or simply select `Auto` and the QuattroPod will automatically set the optimum resolution for your screen.
 
 | Standard | Resolution|
 | :------------- |:-----:|
@@ -88,7 +88,7 @@ Specify whether the resolution setting you specify should apply only to the curr
 
 ### Display Mode {#Display Mode}
 
-Here you define whether the display of your terminal is to be shown on the external screen or on the beamer in 'original' or 'full screen'.
+Here you define whether the display of your terminal is to be shown on the external screen or on the beamer in `original` or `full screen`.
 
 ![](/assets/img/QuattroPod.display.mode.jpg)
 
@@ -153,7 +153,7 @@ Change the admin password of the recipient.
 
 ### Screensaver {#Screensaver}
 
-Turn off the receiver's screen or HDMI output after a certain period of inactivity. By default, this function is disabled.
+Turn off the receiver`s screen or HDMI output after a certain period of inactivity. By default, this function is disabled.
 
 ![](/assets/img/screensaver.jpg)
 

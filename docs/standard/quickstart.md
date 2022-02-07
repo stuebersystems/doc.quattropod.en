@@ -39,19 +39,19 @@ You need to enable USB debugging once, then connect the transmitter and press th
 
   [4]: /assets/img/thumbnail.video.usb-debugging.png
 
-* Open the 'Settings'. Select 'About the phone'.
+* Open the `Settings`. Select `About the phone`.
 
 ![](/assets/img/android.about.device.png)
 
-* Now quickly tap the entry 'Build number' seven times in succession. After the seventh time, you will see the menu item 'Developer options' in the settings as a section.
+* Now quickly tap the entry `Build number` seven times in succession. After the seventh time, you will see the menu item `Developer options` in the settings as a section.
 
 ![](/assets/img/Activate2.png)
 
-* In the 'Developer Options' activate the menu item 'USB Debugging' and confirm with 'OK'.
+* In the `Developer Options` activate the menu item `USB Debugging` and confirm with `OK`.
 
 ![](/assets/img/allow.USBdebugging.png)
 
-* Switch the transmitter to 'Mobile' mode.
+* Switch the transmitter to `Mobile` mode.
  
 * Connect the USB cable on the bottom of the transmitter to a USB power supply (5V1A) for example to the power supply of your Android device. Then connect your Android device to the USB port of the transmitter.
 
@@ -65,7 +65,7 @@ If the receiver and transmitter are connected correctly, the landing page will a
 
 ![](/assets/img/QSG-Transmitter.png)
 
-* When the following message appears, check the 'Do not show again' box and select 'START NOW'.
+* When the following message appears, check the `Do not show again` box and select `START NOW`.
 
 ![](/assets/img/MirrorService.jpg)
 
@@ -79,7 +79,7 @@ If the receiver and transmitter are connected correctly, the landing page will a
 
 ![](/assets/img/QSG-iOS-Switch-to-Mobile.png)
 
-* When the following message appears, select 'Trust' and when prompted, enter the device code:
+* When the following message appears, select `Trust` and when prompted, enter the device code:
 
 ![](/assets/img/QSG-Trust-this-computer.png)
 
@@ -122,7 +122,7 @@ If the receiver and transmitter are connected correctly, the landing page will a
 
 With QuattroPod you have two options without the transmitter:
 
-* If you just want to quickly transmit your screen, you can get started right away according to the Bring Your Own Device (BYOD) principle by using the built-in screen transmission functionality of your device or streaming protocols. That means in this case you don't need to download an app at all!
+* If you just want to quickly transmit your screen, you can get started right away according to the Bring Your Own Device (BYOD) principle by using the built-in screen transmission functionality of your device or streaming protocols. That means in this case you don`t need to download an app at all!
 
 * The free QuattroPod app provides you with an intuitive interface for screen sharing your Android device.
 
@@ -156,11 +156,11 @@ Now proceed as follows:
 
 * From your Android device, connect using the SSID displayed at the top left of the screen as shown above. The password is also displayed by default.
 
-* Now call up the QuattroPod app on your Android device. The first time you open the app, you will need to give one-time permission for the app to be displayed above other apps you are using. Select 'OK'.
+* Now call up the QuattroPod app on your Android device. The first time you open the app, you will need to give one-time permission for the app to be displayed above other apps you are using. Select `OK`.
 
 ![](/assets/img/android_app_overlay_OK.png)
 
-* Turn on the 'Grant Permission' menu item, then press the 'Back' button on your Android device to return to the app.
+* Turn on the `Grant Permission` menu item, then press the `Back` button on your Android device to return to the app.
 
 ![](/assets/img/android_app_overlay_ON.png)
 
@@ -176,7 +176,7 @@ When the app is properly connected to the receiver, the large button on the tran
 
 ![](/assets/img/android_app_mainbutton_red.png)
 
-* When the following message appears, select 'START NOW'.
+* When the following message appears, select `START NOW`.
 
 ![](/assets/img/android_app_start_mirroring.png)
 

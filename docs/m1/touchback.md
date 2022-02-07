@@ -18,7 +18,7 @@ When switching to another participant, touch-back functionality is also availabl
 
 ## Requirements
 
-* Windows 7 / 8 / 10 are supported from firmware version '1.3877.0'.
+* Windows 7 / 8 / 10 are supported from firmware version `1.3877.0`.
 
 * macOS 10.14.6 or higher is supported from firmware version `1.9598.72`.
 
@@ -26,7 +26,7 @@ When switching to another participant, touch-back functionality is also availabl
 
 ## Check firmware version
 
-* Switch on the QuattroPod receiver. When the landing page appears, check that the minimum required version '1.3877.0' is displayed, as shown below. If necessary, please upgrade your [firmware](adv.settings.md#upgrade).
+* Switch on the QuattroPod receiver. When the landing page appears, check that the minimum required version `1.3877.0` is displayed, as shown below. If necessary, please upgrade your [firmware](adv.settings.md#upgrade).
 
 ![Touch-Back function is enabled from firmware version 1.3877.0](/assets/img/quattropod.landingpage.fw.png)
 
@@ -40,7 +40,7 @@ When switching to another participant, touch-back functionality is also availabl
 
 ! [The touch-back function is activated](/assets/img/quattropod.touch.icon.png)
 
-* Switch the transmitter to 'PC'. Connect the transmitter to one of the USB ports on your Windows computer. Then connect the HDMI or DisplayPort cable supplied.
+* Switch the transmitter to `PC`. Connect the transmitter to one of the USB ports on your Windows computer. Then connect the HDMI or DisplayPort cable supplied.
 
 Switch transmitter to PC](/assets/img/Pairing1.jpg)
 
