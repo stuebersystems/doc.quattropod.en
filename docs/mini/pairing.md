@@ -1,4 +1,4 @@
-# Pairing transmitters
+# Pairing Transmitters
 
 The QuattroPod receiver can be paired with up to 32 transmitters simultaneously. The transmitters are paired with the supplied receiver by default. However, you can purchase additional transmitters or use transmitters with a different receiver. To do this, the transmitters must be paired with the corresponding receiver.
 
@@ -8,7 +8,7 @@ There are two ways to pair a transmitter with a receiver:
 
 * [Pair via USB stick](#pair.via.usb)
 
-## Connect the transmitter to the receiver {#connect.tx.to.receiver}
+## Connect the Transmitter to the Receiver {#connect.tx.to.receiver}
 
 Connect the transmitter to the USB port on the receiver and the devices will pair automatically. Some find this option easiest if the receiver is easy to reach. If the receiver is mounted on the ceiling however or is simply difficult to reach you can [pair via USB stick](#pair.via.usb).
 
@@ -41,9 +41,9 @@ This is confirmed with **"Pairing OK"** on the landing page.
 ![Switch transmitter to mobile](/assets/img/quattropod.mini.tx.mobile.png)
 
 
-## Pair transmitter via USB stick  {#pair.via.usb}
+## Pair Transmitter via USB Stick  {#pair.via.usb}
 
-### Download pairing file via web interface
+### Download Pairing File via Web Interface
 
 If the QuattroPod receiver is hard to reach physically you have the option of downloading a pairing file and copying the receiver`s information to the transmitter via USB stick. You can use FAT, FAT32, or NTFS as the file system of the USB stick.
 
@@ -56,13 +56,13 @@ If the QuattroPod receiver is hard to reach physically you have the option of do
 
 ![Copy pairing file to a USB stick](/assets/img/Pairing8.png)
 
-### Downloading the pairing file via receiver
+### Download the Pairing File via Receiver
 
 * Before mounting the receiver on the ceiling or even when the receiver is easily accessible, you can insert a USB stick into the USB port of the receiver and press the pairing button on the top of the receiver. After a few seconds, the pairing file is copied to the USB stick and the receiver`s pairing button lights up white. You can keep this file in your network or on the USB stick until pairing is needed.
 
 ![](/assets/img/Pairing9.png)
 
-### Connect the USB stick to the transmitter
+### Connect the USB Stick to the Transmitter
 
 !!! tip "Note"
 
