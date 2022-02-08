@@ -187,7 +187,7 @@ Use this function to reset the receiver and transmitters to the default settings
 
 Use this option to get an overview of the QuattroPod, all connected transmitters and network information about them.
 
-![About](/assets/img/About.jpg)
+![About](/assets/img/About.png)
 
 
 

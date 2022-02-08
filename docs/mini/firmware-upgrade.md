@@ -233,7 +233,7 @@ QuattroPod Mini Transmitter (T02) | [Download](firmware-reinstall.md#T02_install
 
 * After the firmware update has completed, please confirm the new version number on the [About](adv.settings.md#About) section of the web settings. Make sure that both the transmitter and the receiver are running the same firmware version:
 
-![](/assets/img/About.jpg)
+![](/assets/img/About.png)
 
 !!! tip "Tip"
     

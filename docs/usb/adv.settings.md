@@ -248,7 +248,7 @@ If your transmitter does not unlock after resetting, check the [receiver](quicks
 
 Use this option to get an overview of the QuattroPod, all connected transmitters and network information about them.
 
-![About](/assets/img/About.jpg)
+![About](/assets/img/About.png)
 
 
 

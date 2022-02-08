@@ -248,7 +248,7 @@ Wenn sich Ihr Sender nach dem Zurücksetzen nicht entsperren lässt, überprüfe
 
 Verwenden Sie diese Option, um einen Überblick über den QuattroPod, alle angeschlossenen Sender und deren Netzwerkinformationen zu erhalten.
 
-![Über](/assets/img/About.jpg)
+![Über](/assets/img/About.png)
 
 
 
