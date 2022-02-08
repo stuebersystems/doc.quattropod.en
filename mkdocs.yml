@@ -95,7 +95,7 @@ nav:
     - User Guides by<br>Streaming Protocol:
         - "User Guide: AirPlay": usb/airplay.md     
         - "User Guide: Chromecast": usb/chromecast.md
-    - CMS: usb/cms.md       
+    - CMS (Central Management System): usb/cms.md       
     - Internet Access: usb/internet.md
     - Setup Tips: usb/setup-tipps.md
     - Advanced Features:
@@ -127,7 +127,7 @@ nav:
     - User Guides by<br>Streaming Protocol:
         - "User Guide: AirPlay": lite/airplay.md     
         - "User Guide: Chromecast": lite/chromecast.md
-    - CMS: lite/cms.md    
+    - CMS (Central Management System): lite/cms.md    
     - Internet Access: lite/internet.md
     - Setup Tips: lite/setup-tipps.md
     - Advanced Features:
@@ -156,7 +156,7 @@ nav:
     - User Guides by<br>Streaming Protocol:
         - "User Guide: AirPlay": mini/airplay.md     
         - "User Guide: Chromecast": mini/chromecast.md
-    - CMS: mini/cms.md    
+    - CMS (Central Management System): mini/cms.md    
     - Internet Access: mini/internet.md
     - Setup Tips: mini/setup-tipps.md
     - Advanced Features:
@@ -189,7 +189,7 @@ nav:
     - User Guides by<br>Streaming Protocol:
         - "User Guide: AirPlay": standard/airplay.md     
         - "User Guide: Chromecast": standard/chromecast.md
-    - CMS: standard/cms.md    
+    - CMS (Central Management System): standard/cms.md    
     - Internet Access: standard/internet.md
     - Setup Tips: standard/setup-tipps.md
     - Advanced Features:
@@ -222,7 +222,7 @@ nav:
     - User Guides by<br>Streaming Protocol:
         - "User Guide: AirPlay": deluxe/airplay.md     
         - "User Guide: Chromecast": deluxe/chromecast.md
-    - CMS: deluxe/cms.md    
+    - CMS (Central Management System): deluxe/cms.md    
     - Internet Access: deluxe/internet.md
     - Setup Tips: deluxe/setup-tipps.md
     - Advanced Features:
