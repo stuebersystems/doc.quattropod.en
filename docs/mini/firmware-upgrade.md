@@ -149,7 +149,7 @@ Device Type               | Download      |
 ------------------------- | ------------------------- | 
 QuattroPod Standard Receiver (R01) | [Download](firmware-reinstall.md#R01_install_other_fw)
 
-* Connect a USB stick to your computer and make sure it is formated FAT32.
+* Connect a USB stick to your computer and make sure it is formatted `FAT32`.
 
 ![](/assets/img/format.usb1.png)
 
@@ -161,7 +161,7 @@ QuattroPod Standard Receiver (R01) | [Download](firmware-reinstall.md#R01_instal
 
 ![](/assets/img/lazymaclist.png)
 
-* Both files should be saved to the root directory:
+* Both files should be saved to the root directory as follows:
 
 ![](/assets/img/usb.fw.structure.png)
 
@@ -177,15 +177,15 @@ QuattroPod Standard Receiver (R01) | [Download](firmware-reinstall.md#R01_instal
 
 ![](/assets/img/QP-connect.USBStick.png)
 
-* Within a few seconds the following message will be displayed. After approprimates 30 secs the firmware installation will begin:
+* Within a few seconds the following message will be displayed. After approximately 30 secs the firmware installation will begin:
 
 ![](/assets/img/start.download.fw.from.usb.png)
 
-* While the receiver is being updated the following message will appear:
+* While the receiver is updating the following message will appear:
 
 ![](/assets/img/Update.R01.png)
 
-* When firmwre update completes confirm the new version number on the landing page:
+* After the firmware update has completed, please confirm the new version number on the landing page:
 
 ![](/assets/img/quattropod.landingpage.fw.png)
 
@@ -199,7 +199,7 @@ Device Type               | Download      |
 ------------------------- | ------------------------- | 
 QuattroPod Mini Transmitter (T02) | [Download](firmware-reinstall.md#T02_install_other_fw)
 
-* Connect a USB stick to your computer and make sure it is formated FAT32.
+* Connect a USB stick to your computer and make sure it is formatted `FAT32`.
 
 ![](/assets/img/format.usb1.png)
 
@@ -211,7 +211,7 @@ QuattroPod Mini Transmitter (T02) | [Download](firmware-reinstall.md#T02_install
 
 ![](/assets/img/lazymaclist.png)
 
-* Download the file [lazymaclist](https://download.stueber.de/doc/de/support/lazymaclist) on the USB stick. Both files should be saved to the root directory:
+* Both files should be saved to the root directory as follows:
 
 ![](/assets/img/usb.fw.structure.png)
 
@@ -223,17 +223,17 @@ QuattroPod Mini Transmitter (T02) | [Download](firmware-reinstall.md#T02_install
 
 ![](/assets/img/quattropod.mini.tx.mobile.png)
 
-* Plug the QuattroPod Mini transmitter and it a USB port with at least 5V/1A power. Once the 
+* Plug the QuattroPod Mini transmitter into a USB port with at least 5V/1A power. Once the main button lights up red please plug the USB stick into the USB port of the transmitter. It will begin updating automatically:
 
 ![](/assets/img/QP.mini.usbstick.png)
 
-* While the transmitter is updating the cast button will repeatidly blink red for 1-2 minutes. When the firmware update is complete the transmitter LEDs will stop flashing.
+* While the transmitter is updating the main button will repeatidly blink red for 1-2 minutes. When the firmware update has completed the transmitter LEDs will stop flashing.
 
 ![](/assets/img/quattropod.mini.usb.pairing.png)
 
-* When firmwre update completes confirm the new version number on the [About](adv.settings.md#About) page:
+* After the firmware update has completed, please confirm the new version number on the [About](adv.settings.md#About) section of the web settings. Make sure that both the transmitter and the receiver are running the same firmware version:
 
-![](/assets/img/quattropod.landingpage.fw.png)
+![](/assets/img/About.jpg)
 
 !!! tip "Tip"
     
