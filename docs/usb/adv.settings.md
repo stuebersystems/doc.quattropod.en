@@ -143,7 +143,7 @@ If desired, you can change the picture of the landing page. This is a permanent 
 
 You can find a download of the landing page we have provided [here](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png).
 
-![](/assets/img/My_Screen.jpg)
+![](/assets/img/My_Screen.png)
 
 ### Host Control {#Host Control}
 

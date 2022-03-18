@@ -143,7 +143,7 @@ Falls gewünscht, können Sie das Bild der Startseite ändern. Dies ist eine per
 
 Einen Download der von uns bereitgestellten Startseite finden Sie [hier](https://download.stueber.de/doc/de/quattropod/QuattroPod_StartseiteDE.png).
 
-![](/assets/img/My_Screen.jpg)
+![](/assets/img/My_Screen.png)
 
 ### Host Control {#Host Control}
 
