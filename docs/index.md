@@ -44,7 +44,13 @@ The QuattroPod series comes in a variety of models:
 		<p><a href="deluxe/intro">View QuattroPod Deluxe</a></p>
 	</div>
 </div>
-
+<div class="md-showcase">
+	<img src="assets/img/quattropod.m1.png" alt="Image: QuattroPod M1">
+	<div>
+		<img src="assets/img/quattropod-m1.black.logo.png" alt="Logo: QuattroPod M1">
+		<p>The QuattroPod M1 package offers all the functionality of QuattroPod Standard/Deluxe in the latest small form factor - Intel® Smart Display Module (Intel® SDM-S). It omits housing so it can be fully integrated into the sleekest all-in-one display design.</a></p>
+	</div>
+</div>
 
 Choosing Your Solution:
 
