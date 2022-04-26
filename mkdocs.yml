@@ -112,6 +112,7 @@ nav:
         - Touch Back Function: usb/touchback.md
     - Update Firmware: usb/firmware-upgrade.md
     - Troubleshooting:
+        - Performance Test: usb/performancetest.md
         - Reset Settings: usb/reset.md
         - Reinstall Firmware: usb/firmware-reinstall.md
 - Lite:
@@ -140,6 +141,7 @@ nav:
         - Touch Back Function: lite/touchback.md
     - Update Firmware: lite/firmware-upgrade.md
     - Troubleshooting:
+        - Performance Test: lite/performancetest.md
         - Reset Settings: lite/reset.md
         - Reinstall Firmware: lite/firmware-reinstall.md
     - Transmitter Pairing: lite/pairing.md    
@@ -207,6 +209,7 @@ nav:
         - Touch Back Function: standard/touchback.md
     - Update Firmware: standard/firmware-upgrade.md
     - Troubleshooting: 
+        - Performance Test: standard/performancetest.md
         - Reset Settings: standard/reset.md
         - Reinstall Firmware: standard/firmware-reinstall.md
     - Transmitter Pairing: standard/pairing.md
@@ -240,6 +243,7 @@ nav:
         - Touch Back Function: deluxe/touchback.md
     - Update Firmware: deluxe/firmware-upgrade.md
     - Troubleshooting: 
+        - Performance Test: deluxe/performancetest.md
         - Reset Settings: deluxe/reset.md
         - Reinstall Firmware: deluxe/firmware-reinstall.md
     - Transmitter Pairing: deluxe/pairing.md
