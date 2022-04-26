@@ -173,6 +173,7 @@ nav:
         - Touch Back Function: mini/touchback.md
     - Update Firmware: mini/firmware-upgrade.md
     - Troubleshooting: 
+        - Performance Test: mini/performancetest.md
         - Reset Settings: mini/reset.md
         - Reinstall Firmware: mini/firmware-reinstall.md    
     - Transmitter Pairing: mini/pairing.md       
