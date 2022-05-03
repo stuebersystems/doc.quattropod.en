@@ -37,7 +37,7 @@ For a compact product comparison with the other model versions of the QuattroPod
 
     [![QuattroPod USB Data Sheet][4]{: align=left }][5]
 	
-	Ein doppelseitiges PDF zum Teilen oder Ausdrucken.
+	A double-sided PDF to share or print.
 	
 	[View Data Sheet (PDF)][5]
 
