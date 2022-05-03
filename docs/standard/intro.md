@@ -41,7 +41,8 @@ For a compact product comparison with the other model versions of the QuattroPod
 	[View Data Sheet (PDF)][5]
 
   [4]: /assets/img/quattropod.brochure.de.png
-  [5]: https://download.stueber.de/doc/de/quattropod/quattropod.brochure.de.pdf
+  [5]: https://download.stueber.de/doc/en/quattropod/quattropod.brochure.en.pdf
+
 
 ## Introduction Video
 
