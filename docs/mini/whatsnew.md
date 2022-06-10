@@ -8,6 +8,37 @@ This chapter gives you an overview of current changes to the QuattroPod Mini.
 
 ## Receiver R01
 
+### 2022.06.02 | 1.14366.129
+
+**New functions:**
+
+* Supports 4/8 digits PIN code
+* Adds 5min option in Screen Saver
+
+**Fixed system bugs and improvements:**
+
+* Eliminate chromatic aberration for macOS
+* Fixed Miracast issue
+* Fixed Multicast issue: Disable Miracast under Multicast mode
+* Improved TX/RX pairing time
+* Improved dual wallpaper function
+* Improved reverse control
+* Improved system stability
+* Set Miracast ON as system default
+
+### 2022.03.02 | 1.14366.90
+
+**New functions:**
+
+* Supports 1920x1200
+* Supports dual wallpaper
+
+**Fixed system bugs and improvements:**
+
+* Fixed RX LED behavior
+* Improved reverse control
+* Improved system stability
+
 ### 2022.01.11 | 1.14366.62
 
 **New functions:**
@@ -114,6 +145,20 @@ Improved web settings:
 ![](/assets/img/wifi.land.selection.EN.png)
 
 ## Transmitter T02
+
+### 2022.06.02 | 1.14366.129
+
+**Behobene Systemfehler und Verbesserungen:**
+
+* Improved TX/RX pairing time
+* Improved reverse control
+
+### 2022.03.02 | 1.14366.87
+
+**System-Verbesserungen:**
+
+* Improved reverse control
+* Improved system stability
 
 ### 2022.01.11 | 1.14366.62
 
