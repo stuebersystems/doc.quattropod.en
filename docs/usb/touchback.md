@@ -3,30 +3,31 @@
 The touch-back function of the QuattroPod allows you to send gestures with Up to 10 fingers of a multitouch-enabled screen wirelessly back to a Windows computer. All known Windows touch gestures are supported.
 
 When switching to another participant, touch-back functionality is also available to them. This allows for interactivity and creativity of multiple participants on one screen.
+ 
+!!! hint "Advanced Touch Back Support with QuattroPod USB"
 
-!!! info "Advanced Touch Back Support with QuattroPod USB"
-
-    [![QuattroPod Touch-Back Function][1]{: align=left }][2]
+    [![QuattroPod Touch-Back-Funktion][1]{: align=left }][1]
 	
 	Demonstration: Advanced Touch Back Support with QuattroPod USB.
 	
-	[View Video][2]
+	[Video ansehen][2]
 
-  [1]: /assets/img/thumbnail.video.touch.png
+  [1]: /assets/img/thumbnail.video.advancedtouch.png
   [2]: https://assets.stueber.de/videos/touchback.win-android.mp4
   
-!!! info "Touch-Back Function with QuattroPod"
+!!! hint "Touch-Back Function with QuattroPod"
 
-    [![QuattroPod Touch-Back Function][1]{: align=left }][2]
+    [![QuattroPod Touch-Back-Funktion][3]{: align=left }][3]
 	
 	User Guide: touch-back function with QuattroPod.
 	
-	[View YouTube video][2]
+	[Zum YouTube-Video][4]
 
-  [1]: /assets/img/thumbnail.video.touch.png
-  [2]: https://youtu.be/Qky7XQR1rrE
+  [1]: /assets/img/thumbnail.video.advancedtouch.png
+  [2]: https://assets.stueber.de/videos/touchback.win-android.en.mp4
+  [3]: /assets/img/thumbnail.video.touch.png
+  [4]: https://youtu.be/Qky7XQR1rrE
   
-
 ## Requirements
 
 * Windows 7 / 8 / 10 are supported from firmware version `1.3877.0`.
