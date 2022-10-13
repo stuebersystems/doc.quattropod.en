@@ -1,4 +1,4 @@
-# Touch Back Function
+# Touch Back Support
 
 The QuattroPod`s touch-back feature allows you to wirelessly send gestures back to a Windows computer using up to 10-fingers of a multitouch-enabled screen. All known Windows touch gestures are supported.
 
