@@ -4,7 +4,7 @@ Die Touch-Back-Funktion des QuattroPods erlaubt Ihnen Gesten mit bis zu 10-Finge
 
 Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back-Funktionalität zur Verfügung. Dies ermöglicht die Interaktivität und Kreativität von mehreren Teilnehmern an einem Bildschirm.
 
-!!! info "Touch-Back-Funktion mit QuattroPod"
+!!! hint "Touch Back Support with QuattroPod"
 
     [![QuattroPod Touch-Back-Funktion][1]{: align=left }][2]
 	

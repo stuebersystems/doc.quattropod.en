@@ -15,7 +15,7 @@ When switching to another participant, touch-back functionality is also availabl
   [1]: /assets/img/thumbnail.video.advancedtouch.png
   [2]: https://assets.stueber.de/videos/touchback.win-android.mp4
   
-!!! hint "Touch-Back Function with QuattroPod"
+!!! hint "Touch Back Support with QuattroPod"
 
     [![QuattroPod Touch-Back-Funktion][3]{: align=left }][3]
 	

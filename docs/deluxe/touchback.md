@@ -4,7 +4,7 @@ The touch-back function of the QuattroPod allows you to send gestures with Up to
 
 When switching to another participant, touch-back functionality is also available to them. This allows for interactivity and creativity of multiple participants on one screen.
 
-!!! info "Touch-Back Function with QuattroPod"
+!!! hint "Touch Back Support with QuattroPod"
 
     [![QuattroPod Touch-Back Function][1]{: align=left }][2]
 	
