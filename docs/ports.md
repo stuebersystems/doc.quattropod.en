@@ -4,8 +4,8 @@ Please refer to the tables below for QuattroPod Pro port information.
 
 ## Ports by Service
 
-Port | Type | Tx / Rx | Description                
-| :---- | :--- | :---- | :---
+Port | Type | Tx / Rx | Description |                 
+| :---- | :--- | :---- | :--- | 
 53 | TCP  | Rx | DNS server    
 53 | UDP  | Rx | ChromeCast
 67 | UDP  | Tx | DHCP server
@@ -14,8 +14,7 @@ Port | Type | Tx / Rx | Description
 443 | TCP  | TxRx | AirPlay, ChromeCast, FW OTA
 554 | TCP  | TxRx | RTSP AirPlay
 1900 | UDP  | Rx | ChromeCast / DLNA   
-2425 | TCP  | TxRx | TX <-> RX
-2869 | TCP  | TxRx | DLNA    
+2425 | TCP  | TxRx | TX <-> RX 
 3689 | TCP  | TxRx | AirPlay    
 5297 | TCP  | TxRx | Bonjour    
 5289 | TCP/UDP  | TxRx | Bonjour
